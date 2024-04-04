@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: IGCSE
-      link: /igcse
+      link: /igcse/igcse
     - theme: alt
       text: IAL
-      link: /ial
+      link: /ial/ial
 
 features:
   - title: Feature A
