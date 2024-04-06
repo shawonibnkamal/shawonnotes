@@ -1,4 +1,52 @@
 import { defineConfig } from 'vitepress';
+import fs from 'fs';
+import path from 'path';
+
+function getFiles(dir: string, files_: string[] = []) {
+  const files = fs.readdirSync(dir);
+  for (const i in files) {
+    const name = dir + '/' + files[i];
+    if (fs.statSync(name).isDirectory()) {
+      getFiles(name, files_);
+    } else {
+      files_.push(name);
+    }
+  }
+  return files_;
+}
+
+function getDisplayFileName(file) {
+  const dashRemoved = file.replace(/-/g, ' ');
+  return dashRemoved.replace(/\b[a-z]/g, function (letter) {
+    return letter.toUpperCase();
+  });
+}
+
+function generateSidebar(dir: string, basePath: string = '') {
+  const sidebar: any[] = [];
+  const files = fs.readdirSync(dir);
+
+  for (const file of files) {
+    const name = path.join(dir, file);
+    const relativeName = path.join(basePath, file);
+    if (fs.statSync(name).isDirectory()) {
+      sidebar.push({
+        text: getDisplayFileName(file),
+        collapsed: true,
+        items: generateSidebar(name, relativeName),
+      });
+    } else if (file.endsWith('.md')) {
+      const basename = path.basename(file, '.md');
+      const link = '/' + path.join(basePath, basename);
+      sidebar.push({
+        text: getDisplayFileName(basename),
+        link: link,
+      });
+    }
+  }
+
+  return sidebar;
+}
 
 export default defineConfig({
   title: 'Shawon Notes',
@@ -21,239 +69,14 @@ export default defineConfig({
       '/igcse/': [
         {
           text: 'IGCSE',
-          items: [
-            {
-              text: 'Notes',
-              collapsed: true,
-              items: [
-                { text: 'Physics', link: '/igcse/notes/' },
-                { text: 'Chemistry', link: '/igcse/notes/' },
-                { text: 'Math', link: '/igcse/notes/' },
-              ],
-            },
-            {
-              text: 'Past Papers',
-              collapsed: true,
-              items: [
-                {
-                  text: 'Accounting',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: "GCE O' Level",
-                      link: '/igcse/past-papers/accounting/gce-o-level',
-                    },
-                    {
-                      text: 'IGCSE',
-                      link: '/igcse/past-papers/accounting/igcse',
-                    },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/accounting/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'Bengali',
-                  collapsed: true,
-                  items: [
-                    { text: 'GCE', link: '/igcse/past-papers/bengali/gce' },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/bengali/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'Biology',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: "GCE O' Level",
-                      link: '/igcse/past-papers/biology/gce-o-level',
-                    },
-                    { text: 'IGCSE', link: '/igcse/past-papers/biology/igcse' },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/biology/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'Chemistry',
-                  collapsed: true,
-                  items: [
-                    { text: 'GCE', link: '/igcse/past-papers/chemistry/gce' },
-                    {
-                      text: 'IGCSE',
-                      link: '/igcse/past-papers/chemistry/igcse',
-                    },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/chemistry/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'Economics',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: "GCE O' Level",
-                      link: '/igcse/past-papers/economics/gce-o-level',
-                    },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/economics/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'English Language B',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: "GCE O' Level",
-                      link: '/igcse/past-papers/english-language-b/gce-o-level',
-                    },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/english-language-b/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'Further Pure Mathematics',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: "GCE O' Level",
-                      link: '/igcse/past-papers/further-pure-mathematics/gce-o-level',
-                    },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/further-pure-mathematics/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'Human Biology',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: "GCE O' Level",
-                      link: '/igcse/past-papers/human-biology/gce-o-level',
-                    },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/human-biology/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'ICT',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: "GCE O' Level",
-                      link: '/igcse/past-papers/ict/gce-o-level',
-                    },
-                    { text: 'IGCSE', link: '/igcse/past-papers/ict/igcse' },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/ict/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'Mathematics B',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: "GCE O' Level",
-                      link: '/igcse/past-papers/mathematics-b/gce-o-level',
-                    },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/mathematics-b/international-gcse',
-                    },
-                  ],
-                },
-                {
-                  text: 'Physics',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: "GCE O' Level",
-                      link: '/igcse/past-papers/physics/gce-o-level',
-                    },
-                    { text: 'IGCSE', link: '/igcse/past-papers/physics/igcse' },
-                    {
-                      text: 'International GCSE',
-                      link: '/igcse/past-papers/physics/international-gcse',
-                    },
-                  ],
-                },
-              ],
-            },
-          ],
+          items: generateSidebar('./igcse', 'igcse'),
         },
       ],
 
       '/ial/': [
         {
           text: 'IAL',
-          items: [
-            {
-              text: 'Notes',
-              collapsed: true,
-              items: [
-                { text: 'Physics', link: '/guide/one' },
-                { text: 'Chemistry', link: '/guide/one' },
-                { text: 'Math', link: '/guide/one' },
-              ],
-            },
-            {
-              text: 'Past Papers',
-              collapsed: true,
-              items: [
-                {
-                  text: 'Biology',
-                  link: '/ial/past-papers/edexcel-as-ial-biology-past-papers',
-                },
-                {
-                  text: 'Chemistry',
-                  link: '/ial/past-papers/edexcel-as-ial-chemistry-past-papers',
-                },
-                {
-                  text: 'Math',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: 'Edexcel IAL C12',
-                      link: '/ial/past-papers/edexcel-as-ial-math-past-papers/edexcel-ial-c12-past-papers',
-                    },
-                    {
-                      text: 'Edexcel IAL C34',
-                      link: '/ial/past-papers/edexcel-as-ial-math-past-papers/edexcel-ial-c34-past-papers',
-                    },
-                    {
-                      text: 'Edexcel IAL M1',
-                      link: '/ial/past-papers/edexcel-as-ial-math-past-papers/edexcel-ial-m1-past-papers',
-                    },
-                    {
-                      text: 'Edexcel IAL S1',
-                      link: '/ial/past-papers/edexcel-as-ial-math-past-papers/edexcel-ial-s1-past-papers',
-                    },
-                  ],
-                },
-                {
-                  text: 'Physics',
-                  link: '/ial/past-papers/edexcel-as-ial-physics-past-papers',
-                },
-              ],
-            },
-          ],
+          items: generateSidebar('./ial', 'ial')
         },
       ],
     },
