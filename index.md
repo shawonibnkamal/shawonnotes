@@ -1,9 +1,8 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "Shawon Notes"
+  name: 'Shawon Notes'
   text: "Study Less.\nLearn More."
   tagline: Compiled resources for IGCSE and IAL to save your time
   actions:
@@ -13,13 +12,8 @@ hero:
     - theme: alt
       text: IAL
       link: /ial/ial
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+For any feedback, suggestions, or bugs - [open an issue](https://github.com/shawonibnkamal/shawonnotes/issues/).
+
+To ask a question to the community - [start a discussion](https://github.com/shawonibnkamal/shawonnotes/discussions).
