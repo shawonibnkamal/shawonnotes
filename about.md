@@ -4,7 +4,7 @@ Shawon Notes is an educational website primarily based on the UK’s Pearson Ede
 
 Our stuffs includes: revision notes, practice question papers, videos and reference guides to find more help.
 
-## Maintainers
+## (Maintainers
 
 <img class="avatar" alt="Shawon Ibn Kamal" src="https://media.licdn.com/dms/image/D4E03AQHBpH4MPftC5g/profile-displayphoto-shrink_800_800/0/1712948398089?e=1721260800&v=beta&t=cleN_NboS_xB2TgBGaA0exAAa7kI3mRI6SJ6wfkZDPo" />
 
