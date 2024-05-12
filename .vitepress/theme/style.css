@@ -96,3 +96,10 @@
   display: table !important;
   width: 100%;
 }
+
+.avatar {
+  width: 200px;
+  border-radius: 200px;
+  float: left;
+  margin: 20px 20px 20px 0px;
+}

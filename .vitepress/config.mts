@@ -8,6 +8,7 @@ export default defineConfig({
     logo: '/images/logo.png',
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'About', link: '/about' },
       { text: 'IGCSE', link: '/igcse/igcse' },
       { text: 'IAL', link: '/ial/ial' },
     ],
@@ -31,4 +32,18 @@ export default defineConfig({
       ],
     },
   },
+  head: [
+    [
+      'script',
+      {
+        async: 'true',
+        src: 'https://www.googletagmanager.com/gtag/js?id=UA-47062542-1',
+      },
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'UA-47062542-1');",
+    ],
+  ],
 });
