@@ -115,5 +115,12 @@ ampforwp-amp-on-off:
           <a href="https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Accounting/2009/Exam%20materials/4AC0_01_rms_20180308.pdf">Paper 1 (Mark Scheme)</a>
     </td>
   </tr>
+    <tr>
+    <td>2020 Jan</td>
+    <td>
+          <a href="https://www.dropbox.com/s/pnvnujav3gpkfh1/Jan20%20P%281%29%20QP.pdf?dl=1">Paper 1 (Question Paper)</a><br/>
+          <a href="https://www.dropbox.com/s/215e0nnxgjlu1j0/Jan20%20P%281%29%20MS.pdf?dl=1">Paper 1 (Mark Scheme)</a>
+    </td>
+  </tr>
 </tbody>
 </table>
