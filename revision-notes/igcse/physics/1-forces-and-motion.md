@@ -843,6 +843,10 @@ d<sub>4</sub> = 300/15
 
 d<sub>4</sub> = 20m
 
+:::tip
+hello
+:::
+
 ### Example 3
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.056.png)
