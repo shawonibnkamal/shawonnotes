@@ -59,7 +59,7 @@ effeciency=0.1%
 
 In a Sankey diagram it is presented like this:
 
-![sankey-diagram.gif](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.134.png)
+![sankey-diagram.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.134.png)
 
 4.6 describe how energy transfer may take place by conduction, convection and radiation
 
@@ -98,7 +98,7 @@ The hot-water tap which is led from the overflow pipe must be lower than the cis
 
 **2. Electric kettles.**
 
-![http://www.acshone.com/physics/electricity/img/kettle.gif](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.135.png)
+![http://www.acshone.com/physics/electricity/img/kettle.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.135.png)
 
 The heating coil of an electric kettle is always placed at the bottom of the kettle.
 
@@ -112,7 +112,7 @@ The rotary fan inside an air-conditioner forces cool dry air out into the room. 
 
 Refrigerators work in very much the same way as air-conditioners. The freezing unit is placed at the otp to cool the air so that the cold air, being denser, sinks while the warm air at the bottom rises. This sets up convection currents inside the cabinet which help to cool the contents inside.
 
-![[untitled.JPG]](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.136.jpeg)
+![[untitled.JPG]](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.136.jpeg)
 
 4.8 explain how insulation is used to reduce energy transfers from buildings and the human body.
 

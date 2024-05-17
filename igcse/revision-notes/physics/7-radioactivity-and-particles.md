@@ -20,7 +20,7 @@ Unit of time: second (s)
 
 7.2 describe the structure of an atom in terms of protons, neutrons and electrons and use symbols such as <sup>14</sup><sub>6</sub>Cto describe particular nuclei
 
-![214.carbon.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.156.jpeg)
+![214.carbon.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.156.jpeg)
 
 An atom is a tiny particle with nucleus in the centre and electrons orbiting it. A nucleus is made up of proton and neutron.
 
@@ -68,7 +68,7 @@ When a fast-moving particle such as an alpha or beta particle collides with an a
 
 Penetrating power
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.157.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.157.png)
 
 The Figure shows the relative penetrating power of three kinds of radiation. The alpha particles can be stopped by a sheet of paper whereas beta particles and gamma rays penetrate it easily. This shows that alpha particles have the least penetrating power. Infact, it has a range of only few centimeters in air. Beta particles have a range of several metres in air but can be stopped by a 5mm tick aluminium sheet. Gamma rays are the most penetrating, having a range of a few hundred metres in air and can only be stopped by a 2 cm-thick lead shield.
 
@@ -86,7 +86,7 @@ In alpha decay,alpha particles takes away 4 nucleons with itself which reduce th
 
 Example:
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.158.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.158.png)
 
 Beta (β)decay:
 
@@ -94,7 +94,7 @@ Beta particle is formed when a neutron splits to form a proton and an electron. 
 
 Example:
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.159.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.159.png)
 
 Gamma (γ) decay:
 
@@ -106,11 +106,11 @@ In a nuclear equation, in the left hand side the total mass number should be equ
 
 Here, Uranium experienced an alpha decay:
 
-![alphadecay.gif](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.160.png)
+![alphadecay.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.160.png)
 
 Here, Lithium faced beta decay:
 
-![betadecay.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.161.jpeg)
+![betadecay.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.161.jpeg)
 
 7.8 understand that ionising radiations can be detected using a photographic film or a Geiger-Muller detector
 
@@ -118,7 +118,7 @@ Photographic film: Photographic film is a traditional way to detect presence of 
 
 Geiger Muller: Geiger Muller tube is used to measure the level of radiation. It is a glass tube with an electrically conducting coating on the inside surface. The tube has a thin window made of mica. The tube contains low pressured gases. In the middle of the tube, there is an electrode which is connected to a high voltage supply via a resistor. When ionising radiation enters the tube through the glass, it causes the low pressured gas to form ions. As ions are charged particle they allow to flow a pulse of current in the electrode which is detected by an electronic circuit.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.162.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.162.png)
 
 Counting circuit is fitted with a GM tube so that it can measure how many ionising particles entered GM tube. Rate meters are fitted with GM tube to measure the number of ionising events per second, and so give a measure of the radioactivity in Becquerels. Rate meters have a loudspeaker output so the level of radioactivity is indicated by the rate of clicks produced.
 
@@ -134,7 +134,7 @@ Natural sources:
 
 **Living things**: Plants absorb radioactive materials from the soil and these pass up the food chain. Also we breathe small amount of radioactive isotopes of carbon, carbon – 14. We continuously renew the amount of radioactive isotopes in our bodies.
 
-![50% radon gas from the ground, 12%  buildings and the ground, 12% food and drink, 12% cosmic rays, 14% artificial sources - mainly cosmic rays, small amount of nuclear power and weapons test](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.163.png)
+![50% radon gas from the ground, 12%  buildings and the ground, 12% food and drink, 12% cosmic rays, 14% artificial sources - mainly cosmic rays, small amount of nuclear power and weapons test](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.163.png)
 
 Artificial sources:
 
@@ -146,7 +146,7 @@ Artificial sources account for about 15 percent of the average background radiat
 
 Radioactive substance keeps decaying in a random process. As it decays, its activity is reduced over a period of time. The unit of Radioactivity is Becquerels.
 
-![counts per minute drops from 80 to 5 in 10 days](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.164.png)
+![counts per minute drops from 80 to 5 in 10 days](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.164.png)
 
 If we plot a graph of activity of a radioactive isotope against time we will get something like the one above. The graph falls steeply at first and more slowly after time. This is because the activity gets smaller, and the smaller the activity the slower the activity will decrease. This kind of decrease proportional of activity to time is called exponential decay.
 
@@ -156,7 +156,7 @@ If we plot a graph of activity of a radioactive isotope against time we will get
 
 7.12 use the concept of half-life to carry out simple calculations on activity
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.165.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.165.png)
 
 To find half life, plot graph of the activity against time. Point out the half of the activity and draw line to match the time as done in the figure. The time is your half-life.
 
@@ -178,7 +178,7 @@ The activity will be 17 Bq after 15 hours.
 
 The rate of decay corrected from background radiation is proportional to the amount of radioactive isotope present. If we plot a graph of rate of decay against time, we can measure the half-life from the graph.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.166.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.166.png)
 
 7.13 describe the uses of radioactivity in medical and non-medical tracers, in radiotherapy, and in the radioactive dating of archaeological specimens and rocks
 

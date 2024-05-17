@@ -23,21 +23,21 @@
 - Comets orbit in an ellipse shape around a star. The speed of the comet increases as it becomes closer to the star. This is shown in figure 2
 - Moons orbit planets as shown in figure 3.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.167.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.167.png)
 
 Figure 1
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.168.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.168.png)
 
 Figure 2
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.169.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.169.png)
 
 Figure 3
 
 Important equation to keep in mind!!!
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.170.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.170.png)
 
 ## (c) Stellar evolution
 
@@ -101,11 +101,11 @@ If the neutron star has a mass of five times greater than the sun or more, it co
 - The further away a galaxy is, the greater the redshift and therefore the faster it is moving away from us.
 - The frequency of light decreases and wavelength increases.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.171.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.171.png)
 
 Fig: Redshift
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.172.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.172.png)
 
 Fig: blueshift
 
@@ -118,7 +118,7 @@ Scientists believe that the universe is expanding with time. In the past, all th
 
 **Write down the doppler equation**
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.173.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.173.png)
 
 **Define Cosmic Microwave Background (CMB) radiation.**
 

@@ -52,7 +52,7 @@ Example:
 
 ### Experiment: To investigate the magnetic field pattern for a permanent bar magnet.
 
-![http://cdn2.miniphysics.com/wp-content/uploads/2012/03/plotting-of-magnetic-field-lines.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.141.jpeg)
+![http://cdn2.miniphysics.com/wp-content/uploads/2012/03/plotting-of-magnetic-field-lines.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.141.jpeg)
 
 **Apparatus:** Bar magnet, plotting compass and a plain paper.
 
@@ -74,7 +74,7 @@ Example:
 
 **Apparatus:** Iron fillings, Bar magnet
 
-![magnetic field by iron filings](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.142.png)
+![magnetic field by iron filings](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.142.png)
 
 **Procedure:**
 
@@ -84,7 +84,7 @@ Place a sheet of paper over a bar magnet. Sprinkle a thin layer of Iron filings 
 
 **Apparatus:** Two bar magnets
 
-![2.gif](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.143.png)
+![2.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.143.png)
 
 **Procedure:**
 
@@ -104,15 +104,15 @@ If a temporary magnet is wrapped with a wire into a coil and pass current to it,
 
 A field around a straight wire is simply a series of circles around the wire.
 
-![current_straightwire.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.144.jpeg)
+![current_straightwire.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.144.jpeg)
 
 A field around a solenoid is similar to that of a bar magnet.
 
-![current_solenoid.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.145.jpeg)
+![current_solenoid.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.145.jpeg)
 
 A field around a flat coil is basically like a single wire, but there are two.
 
-![current_flatCoil.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.146.jpeg)
+![current_flatCoil.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.146.jpeg)
 
 6.11 understand that there is a force on a charged particle when it moves in a magnetic field as long as its motion is not parallel to the field
 
@@ -120,29 +120,29 @@ A charged particle has a magnetic field around it. When a charged particle moves
 
 6.12 understand that a force is exerted on a current-carrying wire in a magnetic field, and how this effect is applied in simple d.c. electric motors and loudspeakers
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.147.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.147.png)
 
 If we pass a current through a piece of wire held at right angle to the magnetic field of a magnetic field of a magnet, the wire will move. The motion is the result of forces created by overlapping magnetic field around the wire and the magnet.
 
 When a current flows along a wire a cylindrical magnetic field is created around the wire. If the wire is placed between the poles of a magnet, the two fields overlap. In certain places, the fields are in the same direction and so reinforce each other, producing a strong magnetic field. In other places, the fields are in opposite directions, producing a weaker field. The wire experiences a force, pushing it from the stronger part of the field to the weaker part. This is called the motor effect.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.148.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.148.png)
 
 The moving – coil loudspeaker:
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.149.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.149.png)
 
 Signals from a source, such as an amplifier, are fed into the coil of the speaker as currents that are continually changing in size and direction. The overlapping fields of the coil and the magnet therefore create rapidly varying forces on the wires of the coil, which cause the speaker cone to vibrate. These vibrations create the sound waves we hear.
 
 The electric motor:
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.150.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.150.png)
 
 As current passes around the loop of wire, one side of it will experience a force pushing it upwards. The other side will feel a force pushing it downwards, so the loop will rotate. Because of the split ring, when the loop is vertical, the connections to the supply through brushes swap over, so that the current flowing through each side of the loop changes direction. The wire at the bottom is now pushed upwards and the wire at the top is pushed downwards – so the loop carries on turning. The arrangement of brushes and split ring changes the direction of the current flowing through the loop every half turn, which means the rotation can be continuous.
 
 6.13 use the left hand rule to predict the direction of the resulting force when a wire carries a current perpendicular to a magnetic field
 
-![left-hand-rule.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.151.jpeg)
+![left-hand-rule.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.151.jpeg)
 
 The left hand rules shows the direction of force, magnetic field and current when a wire carries a current perpendicularly to a magnetic field.
 
@@ -166,7 +166,7 @@ d) Electromagnetic induction
 
 When a wire cuts the magnetic field of a magnet, a voltage is induced in the wire. This phenomenon is called electromagnetic induction.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.152.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.152.png)
 
 If we move a wire across a magnetic field at right angles, a voltage is induced in the wire. The size of the induced voltage can be increased by:
 
@@ -180,7 +180,7 @@ We can generate a voltage and current by pushing a magnet into a coil. The size 
 1. using a stronger magnet
 1. using a coil with a larger cross-sectional area.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.153.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.153.png)
 
 Faraday’s Law of Electromagnetic Induction:
 
@@ -195,11 +195,11 @@ This says that:
 
 In a generator, when the coil rotates, its wire cut through magnetic field lines and a current is induced in them. If we watch just one side of the coil, we see that the wire moves up through the field and then down for each turn of the coil. As a result, the current induced in the coil flows first in one direction and then in the opposite direction. This kind of current is called alternating current. A generator that produces alternating current is called an alternator. The size of the induced voltage can be increased by using much stronger magnets, many more turns of wire on the coil and spinning the coil much faster.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.154.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.154.png)
 
 6.17 describe the structure of a transformer, and understand that a transformer changes the size of an alternating voltage by having different numbers of turns on the input and output sides
 
-![http://sciencecity.oupchina.com.hk/npaw/student/glossary/img/transformer_1.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.155.jpeg)
+![http://sciencecity.oupchina.com.hk/npaw/student/glossary/img/transformer_1.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.155.jpeg)
 
 A transformer is a device that helps to reduce or increase voltage in a wire or electric line. This is made of two soft iron core linking to the coils at the two end of the transformer. The first coil is called the primary coil and the second one is called the secondary coil. When alternating current is passed through a coil, the magnetic field around it is continuously changing. The changing magnetic field will cut the secondary coil and induce voltage in it, and that’s how current is passed. If the secondary coil has more turns than the primary coil, it is a step-up transformer where output the voltage will increase. If the secondary coil has less turns than the primary, it is a step-down transformer where theoutput voltage will decrease.
 

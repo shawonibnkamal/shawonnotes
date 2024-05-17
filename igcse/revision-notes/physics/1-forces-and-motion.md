@@ -21,17 +21,17 @@
 
 **Distance =** The change of position of an object is called distance. The diagram shows an example:
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.002.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.002.png)
 
 Figure 1 shows an object changes its position from A to B. So the distance travelled by the object is AB.
 
 **Displacement =** The change of position of an object in a particular direction is called displacement.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.003.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.003.png)
 
 Figure 2 shows another object changes its position from C to D through curved path but the displacement will be straight distance from C to D.
 
-![graph.png](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.004.png)
+![graph.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.004.png)
 
 **Distance-time graph**
 
@@ -48,11 +48,11 @@ Few points that should be noted:
 
 Some explanation of motion from graph:
 
-|                                                                                                                                |                                                                                                                                    |
-| :----------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
-| <p>**Zero displacement** </p><p>![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.005.png)</p> | <p>**Constant displacement** </p><p>![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.006.png)</p> |
-| <p>**Not moving**</p><p>![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.007.png)</p>         | <p>**Acceleration**</p><p>![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.008.png)</p>           |
-| <p>**Deceleration**</p><p>![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.009.png)</p>       |                                                                                                                                    |
+|                                                                                                             |                                                                                                                 |
+| :---------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| <p>**Zero displacement** </p><p>![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.005.png)</p> | <p>**Constant displacement** </p><p>![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.006.png)</p> |
+| <p>**Not moving**</p><p>![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.007.png)</p>         | <p>**Acceleration**</p><p>![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.008.png)</p>           |
+| <p>**Deceleration**</p><p>![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.009.png)</p>       |                                                                                                                 |
 
 **1.3 know and use the relationship between average speed, distance moved and time:**
 
@@ -84,13 +84,13 @@ Measure the distance between two points along a straight section of road with a 
 
 Use the speed, distance and time equation to work out the speed of the car.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.010.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.010.png)
 
 :::
 
 ::: details Experiment: Measuring speed using light gate method
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.011.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.011.png)
 
 1. Attach a cart of measured length centrally to the top of the toy car.
 2. Air track ensures a frictionless way for the toy car.
@@ -124,7 +124,7 @@ Now calculate the balls average velocity between snaps using the following equat
 
 **Apparatus:** Toy car or tennis ball, meter rule, slotted masses, stopwatch, thread.
 
-![motion exp 1](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.012.png)
+![motion exp 1](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.012.png)
 
 **Procedure:**
 
@@ -135,7 +135,7 @@ Now calculate the balls average velocity between snaps using the following equat
 5. Time stop watch when you let toy to move a meter distance.
 6. Repeat this & record reading for different distances in the following chart.
 
-![motion exp 1 tabulation](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.013.png)
+![motion exp 1 tabulation](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.013.png)
 
 7. Draw graph to find out average speed, which can be found by finding the gradient of the graph.
 
@@ -162,7 +162,7 @@ Now calculate the balls average velocity between snaps using the following equat
 
 ::: details Experiment: Measuring acceleration using light gate method
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.014.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.014.png)
 
 - A card is mounted on the top of a trolley. The length of the card is measured.
 - One light is set at the top of the track and the second one is at the end of the track.
@@ -201,7 +201,7 @@ Apparatus -
 
 Diagram –
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.015.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.015.png)
 
 Working Procedure - We can measure the acceleration by conducting an experiment using an air-track which can be referred as the modern-version of Galileo experiment.
 
@@ -211,7 +211,7 @@ Observation - Here from the above procedure it is observed that the distance tra
 
 Table and Graph
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.016.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.016.png)
 
 Conclusion
 
@@ -221,7 +221,7 @@ The gradient of a velocity-time graph gives the acceleration
 
 ::: details Experiment: Measuring acceleration using double light gate.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.014.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.014.png)
 
 1. A card is mounted on the top of a trolley.
 2. The length of the card is measured.
@@ -247,7 +247,7 @@ The gradient of a velocity-time graph gives the acceleration
 
 **Apparatus:** Ticker timer and tape, a.c. power supply, trolley, runway
 
-![motion exp acc 1](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.017.png)
+![motion exp acc 1](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.017.png)
 
 **Procedure:**
 
@@ -268,7 +268,7 @@ Thus initial velocity u = distance/time = s1/t1
 4. By changing the tilt of the runway different values of acceleration are obtained. Repeat a number of times.
 5. Tabulate results as shown.
 
-![motion exp acc 2](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.018.png)
+![motion exp acc 2](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.018.png)
 
 :::
 
@@ -290,17 +290,17 @@ where a=acceleration, v=final velocity, u=initial velocity and t=time
 
 **1.6 plot and interpret velocity-time graphs**
 
-![velocity-time graph.gif](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.019.png)
+![velocity-time graph.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.019.png)
 
 Velocity-time graphs represent the acceleration of any object. Velocity(m/s) is in the Y-axis while Time is the X-axis.
 
 Some common velocity-time graphs:
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.020.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.020.png)
 
 **1.7 determine acceleration from the gradient of a velocity-time graph**
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.021.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.021.png)
 
 ```
 Acceleration  = gradient
@@ -315,7 +315,7 @@ Distance can be determined by finding the area under a velocity-time graph as sh
 
 \#
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.022.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.022.png)
 
 ```
 Distance travelled  = area under the graph
@@ -327,7 +327,7 @@ Distance travelled  = area under the graph
 
 \#
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.023.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.023.png)
 
 ```
 i) Acceleration in first 60s  = (y2-y1)/(x2-x1)
@@ -346,7 +346,7 @@ iii) Average Speed  = dt
 
 \#
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.024.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.024.png)
 
 Maximum speed = 60 m/s
 
@@ -440,7 +440,7 @@ E.g: Gravitational force has one direction which is downwards. Upthrust has the 
 
 Forces which act along a straight line can be added if the forces are in the same direction or subtracted if the forces are in the opposite direction. The force that you get after adding or subtracting is called the resultant force. The resultant force is a single force that has the same effect as all the other forces combined.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.025.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.025.png)
 
 Figure a shows that two forces: 150N and 50N are acting on an object A in the same direction and the object is moving.
 
@@ -450,7 +450,7 @@ Figure b shows that a single from 200N is acting on the same object and the obje
 
 **i.**
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.026.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.026.png)
 
 ```
 Resultant force = (500 - 200)N
@@ -459,7 +459,7 @@ Resultant force = (500 - 200)N
 
 **ii.**
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.027.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.027.png)
 
 ```
 Resultant force = 1000 – 1000
@@ -502,7 +502,7 @@ Disadvantages of friction:
 
 ::: details Experiment: To investigate friction
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.028.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.028.png)
 
 As shown on the diagram above, a block is set on the surface of the track. A nylon line is connected to it which passes over a pulley to a weight. There is friction between the surface of the block and the surface of the track. When the pull of weight equals to the friction then the block starts moving. So the amount of the weight that starts the block to move is equal to the friction.
 
@@ -514,13 +514,13 @@ We can increase the friction by putting some masses over the and we will see tha
 
 **Balanced force:** When two or more forces acting on an object cancels each other and there is no resultant force, then the forces are called balanced force.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.025.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.025.png)
 
 200N and 300N are acting towards left on the object A. 500N force is acting on it towards right. The forces cancel each other. So there is no resultant force. So these forces are called balanced forces.
 
 **Unbalanced force:** When two or more forces acting on an object do not cancel each other fully and there is a resultant force, then the forces are called unbalanced force.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.030.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.030.png)
 
 400N and 200N are acting on the object A towards right direction. 300N is acting towards left direction. The forces do not cancel each other fully. There is resultant force of 300N towards right. So their forces are unbalanced.
 
@@ -547,7 +547,7 @@ Apparatus required -
 
 **Diagram**
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.031.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.031.png)
 
 Working procedure: The force acting on the trolley is produced by the masses on the end of the nylon line. As the mass is increased, the trolley accelerates as well, so the force is increased by the transferring one of the masses from the trolley to the mass hanger.
 
@@ -557,7 +557,7 @@ Observation: Here, using the digital video camera, as sequences of pictures are 
 
 **Graph**
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.032.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.032.png)
 
 Conclusion: The force and acceleration is same and this produces a straight-line graph which determines that force is directly proportional to force. So doubling the force acting on an object doubles its acceleration.
 
@@ -567,7 +567,7 @@ Conclusion: The force and acceleration is same and this produces a straight-line
 
 The same experiment as above, only the force is kept constant and the mass of the trolley is varied.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.033.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.033.png)
 
 The graph shows the acceleration of the trolley plotted against 1/m. This is also a straight line passing through the origin, showing that acceleration is inversely proportional to mass.
 
@@ -597,11 +597,11 @@ Gravitational field strength: The pull of planet on an object of 1 kilogram is c
 
 ::: details Experiment: To verify acceleration due to gravity using video camera
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.034.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.034.png)
 
 We could measure the distance between two images of the tennis ball – say, the second and the third. This is the distance that the ball travelled during the second interval of one tenth of a second. The average velocity during this time is found by diving the distance travelled, 14.7 cm, by the time taken, 0.1s. This gives an average velocity of 147 cm/s or 1.47 m/s over the interval. If we repeat the calculation for the next tenth of a second, between 3 and 4m we find the average velocity has increased to 2.45 m/s. We can then use the equation for acceleration.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.035.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.035.png)
 
 The result of this experiment gives us a value for acceleration caused by the force of gravity.
 
@@ -611,7 +611,7 @@ The result of this experiment gives us a value for acceleration caused by the fo
 
 **Apparatus:** Millisecond timer, metal ball, trapdoor and electromagnet.
 
-![motion exp acc 3](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.036.png)
+![motion exp acc 3](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.036.png)
 
 **Procedure:**
 
@@ -636,13 +636,13 @@ Terminal velocity is the steady velocity of a falling object whose drag is balan
 
 **How does a falling object reach terminal velocity?**
 
-![falling.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.037.jpeg)
+![falling.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.037.jpeg)
 
 In a free falling object two types of force acts: Drag and Weight. The size of the drag force acting on an object depends on its shape and its speed. If the drag force of an object increases to a point which is equal to Weight, then the acceleration stops. It falls in a constant velocity known as terminal velocity.
 
 **Reaching terminal velocity on a parachute**
 
-![terminal_velocity.gif](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.038.png)
+![terminal_velocity.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.038.png)
 
 When a skydiver jumps from a plane at high altitude he will accelerate for a time and eventually reach terminal velocity. When she will open her parachute, this will cause a sudden increase in the drag force. At that time drag force will be higher than the weight and he will decelerate for some time. Later those forces will become equal and reach a new terminal velocity.
 
@@ -692,13 +692,13 @@ Objects in a car have mass, speed and direction. If the object, such as a person
 
 Every object has momentum. Momentum is the product of a passenger's mass and velocity (speed with a direction). In order to stop the passenger's momentum they have to be acted on by a force. In some situations the passenger hits into the dashboard or windshield which acts as a force stopping them but injuring them at the same time.
 
-![http://www.hk-phy.org/contextual/mechanics/mom/impulse/4-04.gif](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.039.png)
+![http://www.hk-phy.org/contextual/mechanics/mom/impulse/4-04.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.039.png)
 
 **1 Crumple Zone**
 
 Cars are now designed with various safety features that increase the time over which the car’s momentum changes in an accident. Crumple zones are one of the safety features now used in modern cars to protect the passengers in an accident. The car has a rigid passenger cell with crumple zones in front and behind. During a collision, it increases the time during which the car is decelerating. This also reduce the force impacting on the passenger increasing their chances of survival.
 
-![http://kelleysautoelectrical.com.au/images/airbags.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.040.jpeg)
+![http://kelleysautoelectrical.com.au/images/airbags.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.040.jpeg)
 
 **2 Air Bags**
 
@@ -712,7 +712,7 @@ Momentum before the collision = momentum after the collision
 
 <i>m<sub>1</sub>u<sub>1</sub> + m<sub>2</sub>u<sub>2</sub> = m<sub>1</sub>v<sub>1</sub> + m<sub>2</sub>v<sub>2</sub>.</i>
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.041.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.041.png)
 
 Elastic and inelastic collisions
 
@@ -726,7 +726,7 @@ In a collision if the kinetic energy does not remain conserved, the collision is
 
 Application of momentum principle: Explosion
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.042.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.042.png)
 
 Two gliders are tied by a thread while the two ends contain two like poles of a magnet. The gliders are on the air track. Using a match stick we can burn the thread. When the thread is cut, the two gliders move away in opposite direction. If the masses of the two gliders are same, the speed of the gliders will also be equal. It means that the momentum of the two gliders is equal and opposite. That is the total momentum difference is zero which was the same before the collision. It verifies the law of conservation of momentum.
 
@@ -771,7 +771,7 @@ Newton’s third law states four characteristics of forces:
 - Action and reaction act on different bodies.
 - Action and reaction do not cancel each other
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.043.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.043.png)
 
 **1.25 know and use the relationship between the moment of a force and its distance from the pivot:**
 
@@ -783,27 +783,27 @@ moment = F * d
 
 The turning effect of a force about a hinge or pivot is called its moment. In other words, it is the product of force and the perpendicular distance from the pivot to the line of action of the force. It is measured in Newton meter (Nm).
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.044.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.044.png)
 
 There are two types of moment: (i) Clockwise moment & (ii) Anti-clockwise moment
 
 When a force causes an object to turn in a clockwise direction, it is called a Clockwise Moment.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.045.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.045.png)
 
 When a force causes an object to turn in an anti-clockwise direction, it is called a Anti-clockwise moment.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.046.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.046.png)
 
 **1.26 recall that the weight of a body acts through its centre of gravity**
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.047.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.047.png)
 
 Mass is the amount of matter an object has. Every part of an object forms part of its overall mass. But when we try to balance an object on a point, there will only be one place where it will balance. You can therefore think of the mass of an object being concentrated at this point, known as the centre of mass or gravity.
 
 If we support the centre of gravity of the object, the object won’t fall no matter how wide it is. Because the moment of the all sides are balanced and there will be no clockwise or anti-clockwise movement.
 
-![moment.png](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.048.png)
+![moment.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.048.png)
 
 Stability of centre of gravity
 
@@ -814,7 +814,7 @@ A stable object is one that is difficult to push over; when pushed and then rele
 
 ::: details Experiment: To determine the position of the centre of gravity of an uniform object using balancing method
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.049.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.049.png)
 
 Balance the object keeping over a scale and draw the line of contact. Balance the object on another axis keeping it over the same scale and draw the line of contact again. The two lines intersect at a point. This point gives the COG.
 
@@ -824,7 +824,7 @@ Balance the object keeping over a scale and draw the line of contact. Balance th
 
 **Apparatus:** Retord stand, plumbline, cork and pin
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.050.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.050.png)
 
 **Procedure:**
 
@@ -844,7 +844,7 @@ Balance the object keeping over a scale and draw the line of contact. Balance th
 
 **1.27 know and use the principle of moments for a simple system of parallel forces acting in one plane**
 
-![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-15-728.jpg?cb=1190070139](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.051.jpeg)**Solving Problems related to Principle of Moments**
+![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-15-728.jpg?cb=1190070139](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.051.jpeg)**Solving Problems related to Principle of Moments**
 
 ::: details Example 1
 
@@ -852,23 +852,23 @@ Step 1:
 
 Identify what are forces that will give rise to clockwise / anti-clockwise moment
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.052.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.052.png)
 
 Step 2:
 
 Find the clockwise / anticlockwise moment
 
-![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-21-728.jpg?cb=1190070139](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.053.jpeg)
+![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-21-728.jpg?cb=1190070139](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.053.jpeg)
 
 Step 3:
 
-Equate the clockwise and anticlockwise moments![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-23-728.jpg?cb=1190070139](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.054.jpeg)
+Equate the clockwise and anticlockwise moments![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-23-728.jpg?cb=1190070139](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.054.jpeg)
 
 ::: details
 
 ::: details Example 2
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.055.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.055.png)
 
 F<sub>2</sub> d<sub>2</sub> + F<sub>1</sub> d<sub>1</sub> = F<sub>3</sub> d<sub>3</sub> + F<sub>4</sub> d<sub>4</sub>
 
@@ -881,7 +881,7 @@ d<sub>4</sub> = 300/15
 d<sub>4</sub> = 20m
 
 :::tip
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.055.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.055.png)
 
 F<sub>2</sub> d<sub>2</sub> + F<sub>1</sub> d<sub>1</sub> = F<sub>3</sub> d<sub>3</sub> + F<sub>4</sub> d<sub>4</sub>
 
@@ -896,7 +896,7 @@ d<sub>4</sub> = 20m
 
 ::: details Example 3
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.056.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.056.png)
 
 At position A, the object is of 400N at a distance 1.5m from the pivot. What should be the distance of object B from the pivot is of 500N and the see-saw is at equilibrium position.
 
@@ -914,7 +914,7 @@ d<sub>2</sub> = 1.2 m
 
 ::: details Example 4
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.057.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.057.png)
 
 In a crane, the force arm d<sub>1</sub> = 2m and weight of 5000N is put at the force arm. What maximum load the crane can raise in the load arm d<sub>2</sub> is 10m?
 
@@ -932,7 +932,7 @@ F = 1000N
 
 ::: details Experiment: To verify the principle of moment
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.058.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.058.png)
 
 A uniform beam AD is put at point P on a support.
 
@@ -964,7 +964,7 @@ So the principle of moment is verified.
 
 **1.28 understand that the upward forces on a light beam, supported at its ends, vary with the position of a heavy object placed on the beam**
 
-![Forces on beam.png](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.059.png)
+![Forces on beam.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.059.png)
 
 a) An object weighing 400 N is placed in the middle of the beam. The beam is not moving,so the upward and downward forces must be balanced.
 
@@ -990,7 +990,7 @@ Apparatus:
 - Clamp and stand
 - Mass hanger
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.060.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.060.png)
 
 Working procedure:
 
@@ -1001,19 +1001,19 @@ Working procedure:
 
 Observation with helical spring:
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.061.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.061.png)
 
 Since the graph of load & extension is a straight line, which proves the extension and load are directly proportional.
 
 Observation with rubberband:
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.062.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.062.png)
 
 Since the graph didn’t produce a straight line, extension is not directly proportional to load force. But extension still increases as the force is applied.
 
 Observation with metal wire:
 
-![http://nothingnerdy.wikispaces.com/file/view/Hooke_wire.gif/148559309/Hooke_wire.gif](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.063.png)
+![http://nothingnerdy.wikispaces.com/file/view/Hooke_wire.gif/148559309/Hooke_wire.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.063.png)
 
 :::
 
@@ -1023,11 +1023,11 @@ Hooke’s law, “Within the elastic limit, extension is directly proportional t
 
 Hooke measured the increase in length (extension) produced by different load forces on springs. The graph he obtained by plotting force against extension looked like that below. This straight line passing through the origin shows that the extension of the spring is proportional to the force. The relationship is known as _Hooke’s law._
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.064.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.064.png)
 
 Hooke’s Law only applies if you do not stretch a spring to far. At a point the elastic limit it starts to stretch more for each successive increase in the load force. Once you have stretch a spring beyond this limit it has changed shape permanently and will not return to its original shape.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.065.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.065.png)
 
 **1.31 describe elastic behaviour as the ability of a material to recover its original shape after the forces causing deformation have been removed.**
 

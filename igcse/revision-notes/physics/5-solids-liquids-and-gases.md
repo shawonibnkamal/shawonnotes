@@ -115,7 +115,7 @@ Pressure in liquids and gases act equally in all directions, as long as the liqu
 
 ### Experiment: To prove the above statement.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.137.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.137.png)
 
 4 holes are made at the same depth in a can. So when it is filled with water, the water flowing from these holes moves at same speed. This proves that the pressure is equal in all direction.
 
@@ -127,7 +127,7 @@ p = h × ρ × g
 
 ### Experiment: To investigate that pressure decreases with height.
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.138.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.138.png)
 
 Three holes are made at different height of the can. The water from the hole at the bottom-most of the can travels at highest speed. And the water from top-most hole travels at lowest speed. Thus, proving that pressure increases with depth.
 
@@ -165,7 +165,7 @@ In liquid state the molecule move randomly around the vessel. If we give further
 
 5.8 describe the arrangement and motion of particles in solids, liquids and gases
 
-![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.139.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.139.png)
 
 |               Features               |                Solid                |                             Liquid                              |                    Gas                     |
 | :----------------------------------: | :---------------------------------: | :-------------------------------------------------------------: | :----------------------------------------: |
@@ -215,7 +215,7 @@ The kinetic theory explains why temperature should be a measure of the average k
 
 5.14 understand that the Kelvin temperature of the gas is proportional to the average kinetic energy of its molecules
 
-![Absolute-temperature.jpg](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.140.jpeg)
+![Absolute-temperature.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.140.jpeg)
 
 Temperature in Kelvin is directly proportional to the average kinetic energy of molecules. If we increase the temperature, kinetic energy as well as pressure will increase as well.
 
