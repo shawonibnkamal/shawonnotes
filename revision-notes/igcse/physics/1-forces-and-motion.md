@@ -204,7 +204,7 @@ The gradient of a velocity-time graph gives the acceleration
 
 ### Experiment: Measuring acceleration using double light gate.
 
-![](images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.014.png)
+![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.014.png)
 
 1. A card is mounted on the top of a trolley.
 2. The length of the card is measured.
