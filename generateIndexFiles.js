@@ -17,10 +17,16 @@ const generateIndexFile = (dirPath) => {
     const titleCaseName = getDisplayFileName(fileName);
 
     if (fs.lstatSync(filePath).isDirectory()) {
+      if (fileName === 'images') {
+        return;
+      }
+
       markdownTable += `| [${titleCaseName}](./${fileName}/) |\n`;
       generateIndexFile(filePath);
     } else if (path.extname(filePath) === '.md' && fileName !== 'index') {
       markdownTable += `| [${titleCaseName}](${fileName}) |\n`;
+    } else if (path.extname(filePath) === '.pdf') {
+      markdownTable += `| [${titleCaseName}](${fileName}.pdf) |\n`;
     }
   });
 

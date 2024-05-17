@@ -5,9 +5,12 @@
     "vitepress": "^1.0.2"
   },
   "scripts": {
-    "dev": "node ./generateIndexFiles.js && vitepress dev",
-    "build": "node ./generateIndexFiles.js && vitepress build",
-    "preview": "node ./generateIndexFiles.js && vitepress preview"
+    "dev": "node ./generateIndexFiles.js && node ./generatePdfs.js && vitepress dev",
+    "build": "node ./generateIndexFiles.js && node ./generatePdfs.js && vitepress build",
+    "preview": "vitepress preview"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
 }

@@ -4,7 +4,7 @@
 
 ## (a) Units
 
-4.1 use the following units: kilogram (kg), joule (J), metre (m), metre/second (m/s), metre/second2 (m/s2), newton (N), second (s), watt (W).
+**4.1 use the following units: kilogram (kg), joule (J), metre (m), metre/second (m/s), metre/second2 (m/s2), newton (N), second (s), watt (W).**
 
 Unit of mass: kilogram(kg)
 Unit of energy: joule(J)
@@ -17,7 +17,7 @@ Unit of power: watt(W)
 
 ## (b) Energy transfer
 
-4.2 describe energy transfers involving the following forms of energy: thermal (heat), light, electrical, sound, kinetic, chemical, nuclear and potential (elastic and gravitational)
+**4.2 describe energy transfers involving the following forms of energy: thermal (heat), light, electrical, sound, kinetic, chemical, nuclear and potential (elastic and gravitational)**
 
 Thermal energy: The energy which is released by a hot object when it cools down is called thermal energy. E.g: If we rub our hands together, kinetic energy will transform into thermal energy.
 
@@ -35,19 +35,19 @@ Nuclear energy: The energy which is released by nuclear reaction is called nucle
 
 Potential energy: The energy which is gained by changing size, shape and position of an object is called potential energy. E.g: Raise a ball 10m above ground, it will gain gravitational potential energy.
 
-4.3 understand that energy is conserved
+**4.3 understand that energy is conserved**
 
 Energy is not created or destroyed in any process. It is just converted from one from type to another.
 
 Wasted energy: When we try to do things, there is some energy converted to unwanted forms. This form of energy is known as wasted energy.
 
-4.4 know and use the relationship:
+**4.4 know and use the relationship:**
 
 Effeciency is the ratio of useful energy output and the total energy input.
 
 effeciency=useful energy outputtotal energy input x 100%
 
-4.5 describe a variety of everyday and scientific devices and situations, explaining the fate of the input energy in terms of the above relationship, including their representation by Sankey diagrams
+**4.5 describe a variety of everyday and scientific devices and situations, explaining the fate of the input energy in terms of the above relationship, including their representation by Sankey diagrams**
 
 Whenever we are transferring energy, proportion of input energy is wasted. Like a lamp has input energy of 100J. It uses 10J to give light and the other 90J is wasted as heat.
 
@@ -59,9 +59,9 @@ effeciency=0.1%
 
 In a Sankey diagram it is presented like this:
 
-![sankey-diagram.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.134.png)
+![sankey-diagram.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.13**4.png)**
 
-4.6 describe how energy transfer may take place by conduction, convection and radiation
+**4.6 describe how energy transfer may take place by conduction, convection and radiation**
 
 There are three basic ways energy can transfer from place to place: conduction, convection and radiation.
 
@@ -82,7 +82,7 @@ The liquid or gas in hot areas is less dense than the liquid or gas in cold area
 
 **Radiation**: Radiation is the transfer of energy by means of wave (Infra-red). It doesn’t need any medium to flow through. It travels at the speed of light and is actually a specific part of this family of electromagnetic waves. So radiation is the continual emission of infrared waves from the surface of all bodies transmitted without the aid of medium.
 
-4.7 explain the role of convection in everyday phenomena
+**4.7 explain the role of convection in everyday phenomena**
 
 **1. Household hot-water systems**
 
@@ -114,7 +114,7 @@ Refrigerators work in very much the same way as air-conditioners. The freezing u
 
 ![[untitled.JPG]](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.136.jpeg)
 
-4.8 explain how insulation is used to reduce energy transfers from buildings and the human body.
+**4.8 explain how insulation is used to reduce energy transfers from buildings and the human body.**
 
 The bigger the difference in temperature between an object and its surroundings, the greater the rate at which heat energy is transferred. Other factors also effect the rate at which an object transfers energy by heating. These include the:
 
@@ -150,7 +150,7 @@ Other measures:
 
 ## (c) Work and power
 
-4.9 know and use the relationship between work, force and distance moved in the direction of the force:
+**4.9 know and use the relationship between work, force and distance moved in the direction of the force:**
 
 Energy is the ability to do work.
 
@@ -160,11 +160,11 @@ W=F x d
 
 1J of work is done when a force of 1N is applied through a distance of 1m in the direction of the force.
 
-4.10 understand that work done is equal to energy transferred
+**4.10 understand that work done is equal to energy transferred**
 
 Doing work means the energy is either decreased or increased. If a weight of 500N is raised 2m, 1000J of work is done. That means energy is increased by 1000J. Therefore work done is equal to energy transferred.
 
-4.11 know and use the relationship:
+**4.11 know and use the relationship:**
 
 The energy that the weight has gained is called gravitational potential energy.
 
@@ -172,13 +172,13 @@ gravitional potential energy=mass × gravitional acceleration × height
 
 G.P.E=mgh
 
-4.12 know and use the relationship:
+**4.12 know and use the relationship:**
 
 <i>Kinetic energy = ½ x mass x velocity<sup>2</sup></i>
 
 <i>K.E = ½ x m x v<sup>2</sup></i>
 
-4.13 understand how conservation of energy produces a link between gravitational potential energy, kinetic energy and work
+**4.13 understand how conservation of energy produces a link between gravitational potential energy, kinetic energy and work**
 
 An object of mass,m weights mxg newtons. So the force,F, needed to lift is mg. If we raise the object through a distance h, the work done on the object is mgh. This is also the gain of GPE.
 
@@ -186,11 +186,11 @@ When the object is raised, it falls-it loses GPE but gains KE. At the end of the
 
 work done lifting object=gain in GPE=gain in KE of the object just before hitting the ground
 
-4.14 describe power as the rate of transfer of energy or the rate of doing work
+**4.14 describe power as the rate of transfer of energy or the rate of doing work**
 
 Power is the rate of transferring energy or doing work. Its measures how fast energy is transferred. The Watt is the rate of transfer of energy of one joule per second.
 
-4.15 use the relationship between power, work done (energy transferred) and time taken:
+**4.15 use the relationship between power, work done (energy transferred) and time taken:**
 
 power=work donetime
 
@@ -198,7 +198,7 @@ P=Wt
 
 ## (d) Energy resources and electricity generation
 
-4.16 describe the energy transfers involved in generating electricity using:
+**4.16 describe the energy transfers involved in generating electricity using:**
 
 - **Wind**: Winds are powered by the Sun's heat energy. Wind is a renewable source of energy. Wind mills have been used to grind corn and power machinery like pumps drain lowland areas. Today, wind turbines drive generators to provide electrical energy. Here, kinetic energy is transformed to electrical energy.
 - **Water:**Water is used to generate energy in three ways: Hydroelectric power, Tidal power & Wave energy. All the ways uses the same role using the movement of water(K.E.) to rotate that generator and produce electricity. In this casekinetic energy is also transformed to electrical energy.
@@ -208,7 +208,7 @@ P=Wt
 - **Fossil fuels**: Fossil fuels are natural gas, oil and coal. Those are burned which rotates the turbine in the generator to produce electricity.
 - **Nuclear power**: Nuclear fuels like uranium are used in nuclear generator. The heat produced in nuclear reaction is used to produce steam from water which rotates the turbine and produce electricity.
 
-  4.17 describe the advantages and disadvantages of methods of large- scale electricity production from various renewable and non- renewable resources.
+**4.17 describe the advantages and disadvantages of methods of large- scale electricity production from various renewable and non- renewable resources.**
 
 **Renewable Resources:**
 

@@ -4,7 +4,7 @@
 
 ## (a) Units
 
-7.1 use the following units: Becquerel (Bq), centimetre (cm), hour (h), minute (min), second (s).
+**7.1 use the following units: Becquerel (Bq), centimetre (cm), hour (h), minute (min), second (s).**
 
 Unit of radioactivity: Becquerel (Bq)
 
@@ -18,7 +18,7 @@ Unit of time: second (s)
 
 ## (b) Radioactivity
 
-7.2 describe the structure of an atom in terms of protons, neutrons and electrons and use symbols such as <sup>14</sup><sub>6</sub>Cto describe particular nuclei
+**7.2 describe the structure of an atom in terms of protons, neutrons and electrons and use symbols such as <sup>14</sup><sub>6</sub>Cto describe particular nuclei**
 
 ![214.carbon.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.156.jpeg)
 
@@ -32,7 +32,7 @@ X=Mass Number
 
 Y=Atomic Number
 
-7.3 understand the terms atomic (proton) number, mass (nucleon) number and isotope
+**7.3 understand the terms atomic (proton) number, mass (nucleon) number and isotope**
 
 Atomic Number: Atomic number is the number of protons in an atom
 
@@ -40,7 +40,7 @@ Mass number: Mass number is the addition number of protons and neutrons
 
 Isotope: Isotope is an element which has the same atomic number as the original atom but different mass number.
 
-7.4 understand that alpha and beta particles and gamma rays are ionising radiations emitted from unstable nuclei in a random process
+**7.4 understand that alpha and beta particles and gamma rays are ionising radiations emitted from unstable nuclei in a random process**
 
 Stability of isotopes: The protons are held in a nucleus by nuclear force. Nuclear force is strong short ranged force. On the other hand, the protons try to repel away from each other due the electric force formed by the similar charges of protons. So the presence of neutrons help nucleus to stabilize. Too many or too few of neutrons can cause instability and may eventually decay, thus giving out ionising radiation along with energy.
 
@@ -52,7 +52,7 @@ Beta radiation: Beta radiation consists of fast-moving electron.
 
 Gamma rays: Gamma ray is an electromagnetic wave.
 
-7.5 describe the nature of alpha and beta particles and gamma rays and recall that they may be distinguished in terms of penetrating power
+**7.5 describe the nature of alpha and beta particles and gamma rays and recall that they may be distinguished in terms of penetrating power**
 
 Nature of radiation
 
@@ -68,7 +68,7 @@ When a fast-moving particle such as an alpha or beta particle collides with an a
 
 Penetrating power
 
-![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.157.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.15**7.png)\*\*
 
 The Figure shows the relative penetrating power of three kinds of radiation. The alpha particles can be stopped by a sheet of paper whereas beta particles and gamma rays penetrate it easily. This shows that alpha particles have the least penetrating power. Infact, it has a range of only few centimeters in air. Beta particles have a range of several metres in air but can be stopped by a 5mm tick aluminium sheet. Gamma rays are the most penetrating, having a range of a few hundred metres in air and can only be stopped by a 2 cm-thick lead shield.
 
@@ -78,7 +78,7 @@ The Figure shows the relative penetrating power of three kinds of radiation. The
 | Beta, β   | medium         | medium                   | 500-1000 cm             | Thin aluminium       |
 | Gamma, γ  | weak           | strong                   | Virtually infinite      | Thick lead sheet     |
 
-7.6 describe the effects on the atomic and mass numbers of a nucleus of the emission of each of the three main types of radiation
+**7.6 describe the effects on the atomic and mass numbers of a nucleus of the emission of each of the three main types of radiation**
 
 Alpha (α) decay:
 
@@ -100,7 +100,7 @@ Gamma (γ) decay:
 
 After an unstable nucleus has emitted an alpha or beta particle it sometimes has surplus energy. It emits this energy as gamma radiation. Gamma ray is an electromagnetic wave and doesn’t affect the mass number or atomic number of the element.
 
-7.7 understand how to complete balanced nuclear equations
+**7.7 understand how to complete balanced nuclear equations**
 
 In a nuclear equation, in the left hand side the total mass number should be equal to the mass number in the right hand side. And the atomic number should be equal in both sides.
 
@@ -112,7 +112,7 @@ Here, Lithium faced beta decay:
 
 ![betadecay.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.161.jpeg)
 
-7.8 understand that ionising radiations can be detected using a photographic film or a Geiger-Muller detector
+**7.8 understand that ionising radiations can be detected using a photographic film or a Geiger-Muller detector**
 
 Photographic film: Photographic film is a traditional way to detect presence of ionising radiation nearby. Ionising radiations imprints photographic plates. That is the film becomes foggy when it is exposed to a certain amount of radiation.
 
@@ -122,7 +122,7 @@ Geiger Muller: Geiger Muller tube is used to measure the level of radiation. It 
 
 Counting circuit is fitted with a GM tube so that it can measure how many ionising particles entered GM tube. Rate meters are fitted with GM tube to measure the number of ionising events per second, and so give a measure of the radioactivity in Becquerels. Rate meters have a loudspeaker output so the level of radioactivity is indicated by the rate of clicks produced.
 
-7.9 explain the sources of background radiation
+**7.9 explain the sources of background radiation**
 
 Background radiation is low-level ionizing radiation that is produced all the time. The background radiation has many sources including natural and artificial ones.
 
@@ -142,7 +142,7 @@ Human activity has added to background radiation by creating and using artificia
 
 Artificial sources account for about 15 percent of the average background radiation dose. Nearly all artificial background radiation comes from medical procedures such as receiving x-rays for x-ray photographs.
 
-7.10 understand that the activity of a radioactive source decreases over a period of time and is measured in Becquerels
+**7.10 understand that the activity of a radioactive source decreases over a period of time and is measured in Becquerels**
 
 Radioactive substance keeps decaying in a random process. As it decays, its activity is reduced over a period of time. The unit of Radioactivity is Becquerels.
 
@@ -150,11 +150,11 @@ Radioactive substance keeps decaying in a random process. As it decays, its acti
 
 If we plot a graph of activity of a radioactive isotope against time we will get something like the one above. The graph falls steeply at first and more slowly after time. This is because the activity gets smaller, and the smaller the activity the slower the activity will decrease. This kind of decrease proportional of activity to time is called exponential decay.
 
-7.11 understand the term ‘half-life’ and understand that it is different for different radioactive isotopes
+**7.11 understand the term ‘half-life’ and understand that it is different for different radioactive isotopes**
 
 “Half-Life” is the amount of time taken for the activity of any radioactive substance to reduce to half. Each radioactive isotope decays in different speeds. So half life is different for different types of isotopes.
 
-7.12 use the concept of half-life to carry out simple calculations on activity
+**7.12 use the concept of half-life to carry out simple calculations on activity**
 
 ![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.165.png)
 
@@ -180,7 +180,7 @@ The rate of decay corrected from background radiation is proportional to the amo
 
 ![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.166.png)
 
-7.13 describe the uses of radioactivity in medical and non-medical tracers, in radiotherapy, and in the radioactive dating of archaeological specimens and rocks
+**7.13 describe the uses of radioactivity in medical and non-medical tracers, in radiotherapy, and in the radioactive dating of archaeological specimens and rocks**
 
 Radioactive materials are being used in many different ways in medicine, industry and agriculture. There are five main uses of radioactive materials. They are used in tracers, as penetrating radiation, as power sources, for medical treatment and for dating archaeological specimens.
 
@@ -216,7 +216,7 @@ Radioactive materials are being used in many different ways in medicine, industr
 
    The activity of the carbon-14 of a living tree stays fairly constant as the carbon-14 is being replenished while the carbon-14 in the dead tree is not replenished. Therefore, by measuring the activity of carbon-14 in an ancient relic, scientists can calculate its age.
 
-7.14 describe the dangers of ionising radiations, including:
+**7.14 describe the dangers of ionising radiations, including:**
 
 - Radiation can cause mutations in living organisms
 - Radiation can damage cells and tissue

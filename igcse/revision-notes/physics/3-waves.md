@@ -4,7 +4,7 @@
 
 ## (a) Units
 
-3.1 use the following units: degree (°), hertz (Hz), metre (m), metre/second (m/s), second (s).
+**3.1 use the following units: degree (°), hertz (Hz), metre (m), metre/second (m/s), second (s).**
 
 Unit of an angle: degree (<sup>o</sup>)
 Unit of frequency: hertz (Hz)
@@ -14,7 +14,7 @@ Unit of time-period: second (s)
 
 ## (b) Properties of waves
 
-3.2 understand the difference between longitudinal and transverse waves and describe experiments to show longitudinal and transverse waves in, for example, ropes, springs and water
+**3.2 understand the difference between longitudinal and transverse waves and describe experiments to show longitudinal and transverse waves in, for example, ropes, springs and water**
 
 Waves can transfer energy and information from one place to another without transfer of matter. Waves can be divided into two types: mechanical waves and electromagnetic waves.
 
@@ -26,7 +26,7 @@ Mechanical waves can be of two types: transverse and longitudinal.
 
 **Longitudinal waves:** A longitudinal wave is one in which the vibrations or oscillations are along the direction in which the energy or wave is moving. Examples of longitudinal waves include sound waves.
 
-![http://3.bp.blogspot.com/-BAgHbfLAd6w/UT-_dTXnNkI/AAAAAAAAASI/dGmJoiUG1uA/s1600/Longitudinal+Wave.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.093.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.09**3.png)**
 
 Transverse wave don’t need medium to move. Longitudinal wave needs medium to move.
 
@@ -50,13 +50,13 @@ If you push and pull the end of a slinky in a direction parallel to its axis, yo
 
 When the motor is turned on the wooden bar vibrates creating a series of ripples on the surface of water. A light placed above the tank creates pattern of the water waves on the floor. A light placed above the tank creates patterns of the water waves on the floor. By observing the patterns we can see how the water waves are behaving.
 
-3.3 define amplitude, frequency, wavelength and period of a wave
+**3.3 define amplitude, frequency, wavelength and period of a wave**
 
 Amplitude: Amplitude is the maximum displacement of a part of the medium from its rest position.
 
 Wavelength: The distance between a particular point on a wave and the same point on the next wave (for example, from crest to crest) is called the wavelength (λ).
 
-![http://www.bbc.co.uk/schools/gcsebitesize/science/images/74_amplitude__wavelength.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.097.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.097.png)
 
 Frequency: The number of waves produced each second by a source, or the number passing a particular point each second is called frequency( *f*).
 
@@ -80,25 +80,25 @@ To show the interesting effects of diffraction you need to set up continuous pla
 
 ![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.099.png)
 
-3.4 understand that waves transfer energy and information without transferring matter
+**3.4 understand that waves transfer energy and information without transferring matter**
 
 Waves are means of transferring energy and information from place to place. These transfers take place with no matter being transferred. Mobile phones, satellites etc. rely on waves.
 
 Example: If you drop a large stone into a pond, waves will be produced. The waves spread out from the point of impact, carrying to all parts of the pond. But the water in the pond does not move from the centre to the edges.
 
-3.5 know and use the relationship between the speed, frequency and wavelength of a wave:
+**3.5 know and use the relationship between the speed, frequency and wavelength of a wave:**
 
 wave speed = frequency × wavelength
 
 v = f× λ
 
-3.6use the relationship between frequency and time period
+**3.6use the relationship between frequency and time period**
 
 frequency,  f in hertz= 1time period, T (in seconds)
 
 ` `f= 1T
 
-3.7 use the above relationships in different contexts including sound waves and electromagnetic waves
+**3.7 use the above relationships in different contexts including sound waves and electromagnetic waves**
 
 As all wave share properties the above relations can be used for any type of wave.
 
@@ -114,11 +114,11 @@ Ans: v=fλ
 = 250 Hz x 0.02s
 `              `= 5 m/s
 
-3.8 understand that waves can be diffracted when they pass an edge
+**3.8 understand that waves can be diffracted when they pass an edge**
 
 Diffraction is the slight bending of waves as it passes around the edge of an object. The amount of bending depends on the relative size of the wavelength of light to the size of the opening. If the opening is much larger than the wave's wavelength, the bending will be almost unnoticeable. However, if the two are closer in size or equal, the amount of bending is considerable.
 
-3.9 understand that waves can be diffracted through gaps, and that the extent of diffraction depends on the wavelength and the physical dimension of the gap.
+**3.9 understand that waves can be diffracted through gaps, and that the extent of diffraction depends on the wavelength and the physical dimension of the gap.**
 
 ![diffraction.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.100.png)
 
@@ -126,7 +126,7 @@ Diffraction involves a change in direction of waves as they pass through an open
 
 ## (c) The electromagnetic spectrum
 
-3.10 understand that light is part of a continuous electromagnetic spectrum which includes radio, microwave, infrared, visible, ultraviolet, x-ray and gamma ray radiations and that all these waves travel at the same speed in free space
+**3.10 understand that light is part of a continuous electromagnetic spectrum which includes radio, microwave, infrared, visible, ultraviolet, x-ray and gamma ray radiations and that all these waves travel at the same speed in free space**
 
 The electromagnetic spectrum is a continuous spectrum of waves which includes the visible spectrum.
 
@@ -135,7 +135,7 @@ The electromagnetic spectrum is a continuous spectrum of waves which includes th
 1. they all travel at speed of light in vacuum (3x10<sup>8</sup> m/s)
 1. they can all be reflected, refracted and diffracted
 
-3.11 identify the order of the electromagnetic spectrum in terms of decreasing wavelength and increasing frequency, including the colours of the visible spectrum
+**3.11 identify the order of the electromagnetic spectrum in terms of decreasing wavelength and increasing frequency, including the colours of the visible spectrum**
 
 Different frequencies and wavelength differ them into different groups and consequently have different properties. Radio waves have the lowest frequency and the longest wavelength. Gamma rays have the highest frequency and the shortest wavelength.
 ![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.101.png)
@@ -152,7 +152,7 @@ A mnemonic can help: **R**ichard **O**f **Y**ork **G**ave **B**attle **I**n **V*
 
 The EM spectrum is continuous – it is only broken upto into distinct zones for convenience. For example, the visible light spectrum is made up of an indeterminate number of colours that blend smoothly from on shade to the next.
 
-3.12 explain some of the uses of electromagnetic radiations, including:
+**3.12 explain some of the uses of electromagnetic radiations, including:**
 
 **Radio waves**: It is used in communicating information. This can be speech, radio and television, music and encoded messages like computer data, navigation signals and telephone conversations. The properties that make radio waves suitable for communicating are:
 
@@ -173,7 +173,7 @@ The EM spectrum is continuous – it is only broken upto into distinct zones for
 
 **Gamma rays**: They are used to sterillise medical instruments, to kill micro-organisms so that food will keep for longer and to treat cancer using radiotherapy.
 
-3.13 understand the detrimental effects of excessive exposure of the human body to electromagnetic waves, including:
+**3.13 understand the detrimental effects of excessive exposure of the human body to electromagnetic waves, including:**
 
 and describe simple protective measures against the risks.
 
@@ -203,13 +203,13 @@ Lead shielding, Monitor exposure (film badge) can be used to prevent the risk.
 
 ## (d) Light and sound
 
-3.14 understand that light waves are transverse waves which can be reflected, refracted and diffracted
+**3.14 understand that light waves are transverse waves which can be reflected, refracted and diffracted**
 
 Light waves are transverse wave that is emitted from luminous (objects that emit their own light such as sun, stars, fires, light bulbs etc.) or reflected from non-luminous objects (objects which do not emit their own light but are seen by their reflection of light). Light waves are transverse wave and like all waves, they can be reflected, refracted and diffracted.
 
-**3.15 use the law of reflection (the angle of incidence equals the angle of reflection**)
+****3.15 use the law of reflection (the angle of incidence equals the angle of reflection**)**
 
-![Reflection.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.103.png)
+![Reflection.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.10**3.png)**
 
 The law of reflection states that:
 
@@ -228,7 +228,7 @@ The law of reflection states that:
 1. Vary the angle of incidence _i_ and measure the angle of reflection _r._
 1. Compare the values of _i_ and _r_.
 
-3.16 construct ray diagrams to illustrate the formation of a virtual image in a plane mirror
+**3.16 construct ray diagrams to illustrate the formation of a virtual image in a plane mirror**
 
 Types of images:
 
@@ -268,7 +268,7 @@ i- Object    ii-Observer's eye or some indication   iii- Plane mirror   i
 
 ![raydiagram3](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.108.png)
 
-3.17 describe experiments to investigate the refraction of light, using rectangular blocks, semicircular blocks and triangular prisms
+**3.17 describe experiments to investigate the refraction of light, using rectangular blocks, semicircular blocks and triangular prisms**
 
 As a light ray passes from one transparent medium to another, it bends. This bending of light is called refraction. Refraction occurs due to having different speed of light in different medium. For example, light travels slower in glass than in air. When ray of light travels from air to glass, it slows down as it crosses the boundary between two media. The change in speed causes the ray to change direction and therefore refraction occurs.
 
@@ -281,7 +281,7 @@ When the ray first entered the semi-circular glass, it was along the normal. As 
 ![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.111.png)![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.112.png)
 
 The incident ray entered the prism and is refracted. This ray travels along the prism in straight line, then again refraction after leaving the prism.
-![prism_refraction.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.113.png)![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.114.png)
+![prism_refraction.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.11**3.png)![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.114.png)**
 
 ### Experiment: To demonstrate the refraction of light through a piece of glass block.
 
@@ -296,7 +296,7 @@ The incident ray entered the prism and is refracted. This ray travels along the 
 1. Observe the paths of the two rays of light.
 1. Vary the angle of incidence _i_ and measure the angle of refraction _r_ using protractor*.*
 
-3.18 know and use the relationship between refractive index, angle of incidence and angle of refraction:
+**3.18 know and use the relationship between refractive index, angle of incidence and angle of refraction:**
 
 The ratio between sine of the angle of incidence and the sine of the angle of refraction is called refractive index. In a material, the refractive index is constant throughout the circuit.
 
@@ -314,7 +314,7 @@ refractive index=sinsin (incident angle) sin⁡(refravted angle)
 - The higher the wavelength, the more the light will bend.
 - The higher the wavelength, the less the angle of refraction.
 
-  3.19 describe an experiment to determine the refractive index of glass, using a glass block
+**3.19 describe an experiment to determine the refractive index of glass, using a glass block**
 
 ### Experiment: To determine the refractive index of glass, using a glass block.
 
@@ -336,16 +336,16 @@ refractive index=sinsin (incident angle) sin⁡(refravted angle)
 2. Plot a graph of sin I against sin r and find the gradient.
 3. Vary the value of i and repeat.
 
-3.20 describe the role of total internal reflection in transmitting information along optical fibres and in prisms
+**3.20 describe the role of total internal reflection in transmitting information along optical fibres and in prisms**
 
 Total internal reflection: When light falls on the surface of a lighter medium from denser medium at an angle of incidence greater than critical angle, then the light does not refracts. It rather reflects in the self-medium. This type of reflection is called total internal reflection.
 
-![http://www.skinnerscience.com/Year%2011/unit3_6.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.117.jpeg)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.117.jpeg)
 
 Condition of total internal reflection:
 
 1. Light should fall in the surface of lighter medium from denser medium.
-1. Angle of incidence must be greater than the critical angle.
+2. Angle of incidence must be greater than the critical angle.
 
 Uses of total internal reflection:
 
@@ -387,17 +387,17 @@ Advantages of sending data using Optical Fibre:
 - It is less prone to heating.
 - It can send more information per second than copper wires.
 
-  3.21 explain the meaning of critical angle c
+**3.21 explain the meaning of critical angle c**
 
 Critical angle is an incident angle at which the incident ray is refracted and the refracted angle is equal to 90 degree in condition that the light falls on the surface of a lighter medium from denser medium.
 
-3.22 know and use the relationship between critical angle and refractive index:
+**3.22 know and use the relationship between critical angle and refractive index:**
 
 sinsin c=1n
 
 sinsin (critical angle) =1refractive index
 
-3.23 understand the difference between analogue and digital signals
+**3.23 understand the difference between analogue and digital signals**
 
 To send a message using a digital signal, the information is converted into a sequence of numbers called a binary code. Digital electrical signals can either have of only two possible values (typically 0v and 5v). These represent the digits 0 and 1 used in the binary number system.
 
@@ -405,19 +405,19 @@ To send a message using a digital signal, the information is converted into a se
 
 In the analogue method, the information is converted into electrical voltages and current that vary continuously.
 
-![the signal is a wavy line that goes up and down in an uneven pattern](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.123.png)
+![the signal is a wavy line that goes up and down in an uneven pattern](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.12**3.png)**
 
-3.24 describe the advantages of using digital signals rather than analogue signals
+**3.24 describe the advantages of using digital signals rather than analogue signals**
 
 1. Regenerating digital signal creates a clean accurate copy of the original signal but analogue signal are corrupted by other signals.
 1. With digital signal, you can broadcast programs over the same frequency. It is possible because digital signals can carry more information per second than analogue signals. In analogue signal you need wider range of frequency to broadcast.
 1. Digital systems are generally easier to design and build than analogue systems. That is the information can be stored and processed by computers.
 
-3.25 describe how digital signals can carry more information
+**3.25 describe how digital signals can carry more information**
 
 Digital signals are capable of carrying more information than analogue signals because digital signals make use of the bandwidth more efficiently by closely approximating the original analogue signal. The parts of the signal that do not carry any information are thrown out thus saving the bandwidth from being used needlessly. Also, depending on the coding process, digital signals are much more efficient at filtering out noise than are analogue signals, which do not filter out noise at all thus saving even more bandwidth. The process of approximating the analogue signal in digital signal processing is called quantization.
 
-3.26 understand that sound waves are longitudinal waves and how they can be reflected, refracted and diffracted
+**3.26 understand that sound waves are longitudinal waves and how they can be reflected, refracted and diffracted**
 
 Sound waves are longitudinal waves. They are produced by vibration of objects. Like other waves they can also be reflected refracted and diffracted.
 
@@ -457,11 +457,11 @@ When a vibration occurs, it pushes the air molecules around it closer together. 
 
 ![http://www.jiscdigitalmedia.ac.uk/images/ppos-01-fork.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.127.jpeg)
 
-3.27 understand that the frequency range for human hearing is 20 Hz – 20,000 Hz
+**3.27 understand that the frequency range for human hearing is 20 Hz – 20,000 Hz**
 
 An average person can only hear sound that have a frequency higher than 20Hz but lower than 20000 Hz. This spread of frequency is called audible range. Frequency higher than 20000 Hz which cannot be heard by humans are called ultrasounds.Frequency lower than 20 Hz that cannot be heard by humans are called infrasound.
 
-3.28 describe an experiment to measure the speed of sound in air
+**3.28 describe an experiment to measure the speed of sound in air**
 
 ### Experiment: To measure the speed of sound by direct method
 
@@ -505,7 +505,7 @@ v=f×λ
 
 The apparatus is set up as in the figure. Set the signal generator to give a sound with frequency of about 1kHz. Start with the microphones close together, and observe how the two traces on the oscilloscope compare. Then move one microphone further away from the loudspeaker until it is one complete wavelength away from the first – you know you have arrived at this point when the traces one the oscilloscope screen are exactly above one another. Measure the distance between the microphone to get the wavelength of the sound, and use the oscillioscope screen to find an accurate value for the frequency. The speed of sound can then be worked out using the formula v=f×λ.
 
-3.29 understand how an oscilloscope and microphone can be used to display a sound wave
+**3.29 understand how an oscilloscope and microphone can be used to display a sound wave**
 
 When sound waves enter the mircrophone, they make a crystal or a metal plate inside it vibrate. The vibrations are changed into electrical signals, and the oscilloscope uses these to make a spot which moves up and down on the screen. It moves the spot steadily sideways at the same time, producing a wave shape called waveform.
 
@@ -517,7 +517,7 @@ When we speak in microphone, sound waves are converted into electrical signals. 
 
 .![oscilloscope.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.131.jpeg)
 
-3.30 describe an experiment using an oscilloscope to determine the frequency of a sound wave
+**3.30 describe an experiment using an oscilloscope to determine the frequency of a sound wave**
 
 ### Experiment: To determine the frequency of a sound wave
 
@@ -532,7 +532,7 @@ When we speak in microphone, sound waves are converted into electrical signals. 
 7. Calculate the time for one cycle (T).
 8. Now, frequency, f=1T
 
-3.31 relate the pitch of a sound to the frequency of vibration of the source
+**3.31 relate the pitch of a sound to the frequency of vibration of the source**
 
 The sharpness or drollness of a sound is called its pitch.
 
@@ -542,9 +542,9 @@ So the more vibrations the higher pitch.
 
 ![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.132.png)
 
-3.32 relate the loudness of a sound to the amplitude of vibration.
+**3.32 relate the loudness of a sound to the amplitude of vibration.**
 
 The bigger the vibration the higher the amplitude.
 The higher the amplitude the louder the sound.
 
-![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.133.png)
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.13**3.png)**

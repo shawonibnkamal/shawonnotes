@@ -8,6 +8,7 @@ const wordsToCapitalize = [
   'ict',
   'as',
   'a2',
+  'pdf'
 ];
 
 export default (filename) => {
