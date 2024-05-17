@@ -1,0 +1,35 @@
+# Appendix 4: Formulae and Relationships
+
+1. Speed= distancetime taken
+1. Velocity= Displacementtime taken
+1. Average velocity= initial velocity+final velocity2
+1. Weight=mass x gravitational field strength
+1. Momentum = mass x velocity
+1. Force= mv - mut
+1. increase in momentum=force x time
+1. Moment = Force x distance
+1. Sum of clockwise moments = sum of anticlockwise moments
+1. Power = Current x Voltage
+1. Energy = power x time
+1. Voltage = current x resistance
+1. Charge = current x time
+1. frequency= 1Time period
+1. Speed=frequency x wavelength
+1. refractive index= sinsin i sinsin r
+1. sinsin c=1n
+1. efficiency= useful energy output from the systemtotal energy input to the system x 100%
+1. Work done = force x distance
+1. Gravitational potential energy = mass x gravitational field strength x height
+1. Kinetic energy = ½ mv<sup>2</sup>
+1. Power= Work donetime taken
+1. Density= massVolume
+1. Pressure= ForceArea
+1. Pressure difference=height × pressure × gravitational field strength
+1. P1 V1 = P2 V2
+1. Temperature in K = temperature in <sup>o</sup>C +273
+1. PT=P2T2
+1. V<sub>p</sub>/ V<sub>s</sub> = n<sub>p</sub> / n<sub>s</sub>
+1. Power input = Power out
+1. Voltage in primary current x Current in primary current = Voltage in secondary current x Current in secondary current
+1. Orbital Speed= 2ПrT
+1. S=12at2
