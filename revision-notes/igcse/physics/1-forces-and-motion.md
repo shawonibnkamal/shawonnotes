@@ -1,5 +1,7 @@
 ﻿# Section 1: Forces and motion
 
+[[toc]]
+
 ## (a) Units
 
 **1.1 use the following units: kilogram (kg), metre (m), metre/second (m/s), metre/second2 (m/s2), newton (N), second (s), newton per kilogram (N/kg), kilogram metre/second (kg m/s).**
@@ -74,7 +76,7 @@ Difference between speed and velocity:
 
 **1.4 describe experiments to investigate the motion of everyday objects such as toy cars or tennis balls**
 
-### Experiment: Measuring speed using click and stopwatch
+::: details Experiment: Measuring speed using click and stopwatch
 
 Suppose you want to find the speed of cars driving down your road. You may have seen the police using speed guns to check that drivers are keeping to the speed limit. Speed guns use microprocessors to produce an instant reading of the speed of a moving vehicle, but you can conduct a very simple experiment to measure car speed.
 
@@ -84,7 +86,9 @@ Use the speed, distance and time equation to work out the speed of the car.
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.010.png)
 
-### Experiment: Measuring speed using light gate method
+:::
+
+::: details Experiment: Measuring speed using light gate method
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.011.png)
 
@@ -97,11 +101,15 @@ Use the speed, distance and time equation to work out the speed of the car.
 
 > v = length of the card / interuption time
 
-### Experiment: Measuring speed using ticker-time method
+:::
+
+::: details Experiment: Measuring speed using ticker-time method
 
 TODO
 
-### Experiment: Video (sequence) method – Measuring the velocity of a tennis ball.
+:::
+
+::: details Experiment: Video (sequence) method – Measuring the velocity of a tennis ball.
 
 A tennis ball is let to move on a track at a steady speed. During the ball moves, video the ball moving along in front of calibrated scale (a scale where there is marking in length) attached to the slope.
 
@@ -110,8 +118,9 @@ Play the video back to get the snap shots taken at a time. Measure how far the b
 Now calculate the balls average velocity between snaps using the following equation:
 
 > Velocity = distance moved between snaps ÷ 0.04
+> :::
 
-### Experiment: To find out Average Speed of Toy car or trolley
+::: details Experiment: To find out Average Speed of Toy car or trolley
 
 **Apparatus:** Toy car or tennis ball, meter rule, slotted masses, stopwatch, thread.
 
@@ -149,7 +158,9 @@ Now calculate the balls average velocity between snaps using the following equat
 2. Tyres of the toy should not be very rough.
 3. Use light-gates instead of the stopwatch and connect light-gates to datalogger and then to computer, to get more accurate results.
 
-### Experiment: Measuring acceleration using light gate method
+:::
+
+::: details Experiment: Measuring acceleration using light gate method
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.014.png)
 
@@ -170,11 +181,15 @@ Now calculate the balls average velocity between snaps using the following equat
                                  t3
 ```
 
-### Experiment: Measuring acceleration using Video (sequence) method
+:::
+
+::: details Experiment: Measuring acceleration using Video (sequence) method
 
 TODO
 
-### Experiment: Measuring acceleration using Modern Version of Galileo’s ### Experiment:
+:::
+
+::: details Experiment: Measuring acceleration using Modern Version of Galileo’s experiment
 
 Apparatus -
 
@@ -202,7 +217,9 @@ Conclusion
 
 The gradient of a velocity-time graph gives the acceleration
 
-### Experiment: Measuring acceleration using double light gate.
+:::
+
+::: details Experiment: Measuring acceleration using double light gate.
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.014.png)
 
@@ -224,7 +241,9 @@ The gradient of a velocity-time graph gives the acceleration
                       t3
 ```
 
-### Experiment: Measuring acceleration using ticker tape.
+:::
+
+::: details Experiment: Measuring acceleration using ticker tape.
 
 **Apparatus:** Ticker timer and tape, a.c. power supply, trolley, runway
 
@@ -250,6 +269,8 @@ Thus initial velocity u = distance/time = s1/t1
 5. Tabulate results as shown.
 
 ![motion exp acc 2](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.018.png)
+
+:::
 
 **1.5 know and use the relationship between acceleration, velocity and time:**
 
@@ -479,13 +500,15 @@ Disadvantages of friction:
 - It reduces the efficiency of the machines.
 - There is wastage of energy due to friction.
 
-### Experiment: To investigate friction
+::: details Experiment: To investigate friction
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.028.png)
 
 As shown on the diagram above, a block is set on the surface of the track. A nylon line is connected to it which passes over a pulley to a weight. There is friction between the surface of the block and the surface of the track. When the pull of weight equals to the friction then the block starts moving. So the amount of the weight that starts the block to move is equal to the friction.
 
 We can increase the friction by putting some masses over the and we will see that the more is the mass the more is the friction. We can make the track surface rougher such as byusing sand paper we will see the friction increases.
+
+:::
 
 **1.15 know and use the relationship between unbalanced force, mass and acceleration:**
 
@@ -509,7 +532,7 @@ In equation, `F = ma` (where, m=mass and a=acceleration)
 
 Force is directly proportional to acceleration. If force increases acceleration increases.
 
-### Experiment: To investigate `F α a`
+::: details Experiment: To investigate `F α a`
 
 Working principle **-** The rate of change of momentum is directly proportional to the applied force and takes place in the direction of force.
 
@@ -538,7 +561,9 @@ Observation: Here, using the digital video camera, as sequences of pictures are 
 
 Conclusion: The force and acceleration is same and this produces a straight-line graph which determines that force is directly proportional to force. So doubling the force acting on an object doubles its acceleration.
 
-### Experiment: To investigate a α 1/m
+:::
+
+::: details Experiment: To investigate a α 1/m
 
 The same experiment as above, only the force is kept constant and the mass of the trolley is varied.
 
@@ -556,6 +581,8 @@ Combining Experiment 1 and 2, we get:
 
 One newton is the force needed to make a mass of one kilogram accelerate at one metre per second squared.
 
+:::
+
 **1.16 know and use the relationship between weight, mass and g:**
 
 Weight is the pull of earth. To calculate it, use the formula:
@@ -568,7 +595,7 @@ W = mg
 
 Gravitational field strength: The pull of planet on an object of 1 kilogram is called gravitational field strength. It is also denoted by g, where in earth g= 10 m/s<sup>2</sup> if there is no opposite force.
 
-### Experiment: To verify acceleration due to gravity using video camera
+::: details Experiment: To verify acceleration due to gravity using video camera
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.034.png)
 
@@ -578,7 +605,9 @@ We could measure the distance between two images of the tennis ball – say, the
 
 The result of this experiment gives us a value for acceleration caused by the force of gravity.
 
-### Experiment: To measure acceleration due to gravity using electromagnet
+:::
+
+::: details Experiment: To measure acceleration due to gravity using electromagnet
 
 **Apparatus:** Millisecond timer, metal ball, trapdoor and electromagnet.
 
@@ -598,6 +627,8 @@ The result of this experiment gives us a value for acceleration caused by the fo
 1. For each height s repeat three times and take the smallest time as the correct value for t.
 2. Place a piece of paper between the ball bearing and the electromagnet to ensure a quick release.
 3. Remember to convert from milliseconds to seconds.
+
+:::
 
 **1.17 describe the forces acting on falling objects and explain why falling objects reach a terminal velocity**
 
@@ -781,13 +812,15 @@ A stable object is one that is difficult to push over; when pushed and then rele
 1. By increasing the base area.
 2. By decreasing the height of COG.
 
-### Experiment: To determine the position of the centre of gravity of an uniform object using balancing method
+::: details Experiment: To determine the position of the centre of gravity of an uniform object using balancing method
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.049.png)
 
 Balance the object keeping over a scale and draw the line of contact. Balance the object on another axis keeping it over the same scale and draw the line of contact again. The two lines intersect at a point. This point gives the COG.
 
-### Experiment: To determine the position of the centre of gravity of a plane lamina with irregular shape of non-uniform thickness or density
+:::
+
+::: details Experiment: To determine the position of the centre of gravity of a plane lamina with irregular shape of non-uniform thickness or density
 
 **Apparatus:** Retord stand, plumbline, cork and pin
 
@@ -807,11 +840,13 @@ Balance the object keeping over a scale and draw the line of contact. Balance th
 1. The holes must be small so that not too much of the lamina is removed.
 2. The lamina should be free to swing above its point of suspension.
 
+:::
+
 **1.27 know and use the principle of moments for a simple system of parallel forces acting in one plane**
 
 ![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-15-728.jpg?cb=1190070139](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.051.jpeg)**Solving Problems related to Principle of Moments**
 
-### Example 1
+::: details Example 1
 
 Step 1:
 
@@ -829,7 +864,9 @@ Step 3:
 
 Equate the clockwise and anticlockwise moments![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-23-728.jpg?cb=1190070139](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.054.jpeg)
 
-### Example 2
+::: details
+
+::: details Example 2
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.055.png)
 
@@ -844,10 +881,20 @@ d<sub>4</sub> = 300/15
 d<sub>4</sub> = 20m
 
 :::tip
-hello
+![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.055.png)
+
+F<sub>2</sub> d<sub>2</sub> + F<sub>1</sub> d<sub>1</sub> = F<sub>3</sub> d<sub>3</sub> + F<sub>4</sub> d<sub>4</sub>
+
+10 x 20 + 20 x 10 = 5 x 20 + 15 x d<sub>4</sub>
+
+400 – 100 = 15 x d<sub>4</sub>
+
+d<sub>4</sub> = 300/15
+
+d<sub>4</sub> = 20m
 :::
 
-### Example 3
+::: details Example 3
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.056.png)
 
@@ -863,7 +910,9 @@ d<sub>2</sub> = 600/500
 
 d<sub>2</sub> = 1.2 m
 
-### Example 4
+:::
+
+::: details Example 4
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.057.png)
 
@@ -879,7 +928,9 @@ F = 5000×210
 
 F = 1000N
 
-### Experiment: To verify the principle of moment
+:::
+
+::: details Experiment: To verify the principle of moment
 
 ![](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.058.png)
 
@@ -909,6 +960,8 @@ i.e. Sum of anti-clockwise moment = sum of clockwise moment
 
 So the principle of moment is verified.
 
+:::
+
 **1.28 understand that the upward forces on a light beam, supported at its ends, vary with the position of a heavy object placed on the beam**
 
 ![Forces on beam.png](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.059.png)
@@ -927,7 +980,7 @@ y = 400 – x = 400 – 300 = 100
 
 **1.29 describe experiments to investigate how extension varies with applied force for helical springs, metal wires and rubber bands**
 
-### Experiment: Investigating extension with applied force in spring
+::: details Experiment: Investigating extension with applied force in spring
 
 Apparatus:
 
@@ -961,6 +1014,8 @@ Since the graph didn’t produce a straight line, extension is not directly prop
 Observation with metal wire:
 
 ![http://nothingnerdy.wikispaces.com/file/view/Hooke_wire.gif/148559309/Hooke_wire.gif](/images/igcse-physics-notes/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.063.png)
+
+:::
 
 **1.30 understand that the initial linear region of a force-extension graph is associated with Hooke’s law**
 

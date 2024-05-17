@@ -19,7 +19,9 @@ const { page, frontmatter } = useData();
       <div class="main-inside">
         <div class="container">
           <BreadCrumb />
-          <Content />
+          <div class="vp-doc">
+            <Content />
+          </div>
         </div>
       </div>
     </section>

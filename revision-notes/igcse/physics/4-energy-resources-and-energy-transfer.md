@@ -1,5 +1,7 @@
 # Section 4: Energy resources and energy transfer
 
+[[toc]]
+
 ## (a) Units
 
 4.1 use the following units: kilogram (kg), joule (J), metre (m), metre/second (m/s), metre/second2 (m/s2), newton (N), second (s), watt (W).

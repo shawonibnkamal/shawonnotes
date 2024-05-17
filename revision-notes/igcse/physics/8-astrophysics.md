@@ -1,5 +1,7 @@
 # Section 8: Astrophysics
 
+[[toc]]
+
 ## (a) Units
 
 - Kilogram (kg),

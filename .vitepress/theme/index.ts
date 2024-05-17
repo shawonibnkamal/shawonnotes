@@ -1,12 +1,12 @@
 import type { Theme } from 'vitepress';
 import DefaultTheme from 'vitepress/theme';
-import './style.css';
 import Layout from './Layout.vue';
+import './style.css';
 
 export default {
   extends: DefaultTheme,
   Layout: Layout,
   enhanceApp({ app, router, siteData }) {
-    app.provide('themePlugin', { darkMode: false });
+    //..
   },
 } satisfies Theme;

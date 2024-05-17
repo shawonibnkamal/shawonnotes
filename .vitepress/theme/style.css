@@ -94,17 +94,13 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
-table {
-  border-collapse: collapse;
-  width: 100%;
+body {
+  line-height: normal !important;
 }
 
-table th,
-table td {
-  border: 1px solid #ddd;
-  border-left: none;
-  border-right: none;
-  padding: 7px;
+table {
+  display: table !important;
+  width: 100%;
 }
 
 .avatar {
@@ -272,6 +268,7 @@ a:hover {
   text-align: center;
   font-weight: bold;
   margin: 80px 0 0 0;
+  line-height: normal;
 }
 
 .main .container {

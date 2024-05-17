@@ -1,5 +1,7 @@
 # Section 6: Magnetism and electromagnetism
 
+[[toc]]
+
 ## (a) Units
 
 6.1 use the following units: ampere (A), volt (V), watt (W).

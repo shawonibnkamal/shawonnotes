@@ -1,5 +1,7 @@
 # Section 2: Electricity
 
+[[toc]]
+
 ## (a) Units
 
 **2.1 use the following units: ampere (A), coulomb (C), joule (J), ohm (W), second (s), volt (V), watt (W).**

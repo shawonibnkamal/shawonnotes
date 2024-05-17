@@ -1,5 +1,7 @@
 # Section 3: Waves
 
+[[toc]]
+
 ## (a) Units
 
 3.1 use the following units: degree (°), hertz (Hz), metre (m), metre/second (m/s), second (s).
