@@ -12,9 +12,13 @@ import Navbar from './Navbar.vue';
           <div class="col-xs-6">
             <div class="home-nav-table">
               <div class="home-nav-th">IGCSE</div>
-              <a href=""><div class="home-nav-td">Revision Notes</div></a>
-              <a href=""><div class="home-nav-td">Past Papers</div></a>
-              <a href=""
+              <a href="./revision-notes/igcse/"
+                ><div class="home-nav-td">Revision Notes</div></a
+              >
+              <a href="./past-papers/igcse/"
+                ><div class="home-nav-td">Past Papers</div></a
+              >
+              <a href="./specification/igcse"
                 ><div class="home-nav-td home-nav-td-last">
                   Specification
                 </div></a
@@ -24,9 +28,13 @@ import Navbar from './Navbar.vue';
           <div class="col-xs-6">
             <div class="home-nav-table">
               <div class="home-nav-th">IAL</div>
-              <a href=""><div class="home-nav-td">Revision Notes</div></a>
-              <a href=""><div class="home-nav-td">Past Papers</div></a>
-              <a href=""
+              <a href="./revision-notes/ial/"
+                ><div class="home-nav-td">Revision Notes</div></a
+              >
+              <a href="./past-papers/ial/"
+                ><div class="home-nav-td">Past Papers</div></a
+              >
+              <a href="./specification/ial"
                 ><div class="home-nav-td home-nav-td-last">
                   Specification
                 </div></a
