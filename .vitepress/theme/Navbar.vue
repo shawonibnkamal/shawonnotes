@@ -19,7 +19,6 @@
 
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="#">Home</a></li>
           <li class="dropdown">
             <a
               href="#"
@@ -31,9 +30,9 @@
               >Revision Notes <span class="caret"></span
             ></a>
             <ul class="dropdown-menu">
-              <li><a href="/revision-notes/igcse/">IGCSE</a></li>
+              <li><a href="/igcse/revision-notes/">IGCSE</a></li>
               <li>
-                <a href="/revision-notes/ial/">IAL</a>
+                <a href="/ial/revision-notes/">IAL</a>
               </li>
             </ul>
           </li>
@@ -48,8 +47,8 @@
               >Past Papers <span class="caret"></span
             ></a>
             <ul class="dropdown-menu">
-              <li><a href="/past-papers/igcse/">IGCSE</a></li>
-              <li><a href="/past-papers/ial/">IAL</a></li>
+              <li><a href="/igcse/past-papers/">IGCSE</a></li>
+              <li><a href="/ial/past-papers/">IAL</a></li>
             </ul>
           </li>
         </ul>

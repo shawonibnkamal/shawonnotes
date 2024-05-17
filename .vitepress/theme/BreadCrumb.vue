@@ -1,22 +1,7 @@
-<template>
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-      <li class="breadcrumb-item" v-for="(part, index) in pages" :key="index">
-        <template v-if="index < pages.length - 1">
-          <a :href="toPath(index)">{{ getDisplayFileName(part) || 'Home' }}</a>
-        </template>
-        <template v-else>
-          {{ getDisplayFileName(part) || 'Home' }}
-        </template>
-      </li>
-    </ol>
-  </nav>
-</template>
-
 <script setup>
 import { computed } from 'vue';
 import { useRoute } from 'vitepress';
-import getDisplayFileName from '../getDisplayFileName';
+import getDisplayFileName from '../getDisplayFileName.js';
 
 const route = useRoute();
 const pages = computed(() => {
@@ -36,3 +21,18 @@ const toPath = (index) => '/' + pages.value.slice(0, index + 1).join('/') + '/';
   content: '>';
 }
 </style>
+
+<template>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item" v-for="(part, index) in pages" :key="index">
+        <template v-if="index < pages.length - 1">
+          <a :href="toPath(index)">{{ getDisplayFileName(part) || 'Home' }}</a>
+        </template>
+        <template v-else>
+          {{ getDisplayFileName(part) || 'Home' }}
+        </template>
+      </li>
+    </ol>
+  </nav>
+</template>

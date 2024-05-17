@@ -5,8 +5,12 @@ import getDisplayFileName from './.vitepress/getDisplayFileName.js';
 const generateIndexFile = (dirPath) => {
   const filesAndDirs = fs.readdirSync(dirPath);
 
-  let markdownTable = `---\ntitle: ${getDisplayFileName(path.basename(dirPath))}\n---\n\n| Name |\n| ---- |\n`;
-  
+  let markdownTable = `---\n`;
+  markdownTable += `title: ${getDisplayFileName(path.basename(dirPath))}\n`;
+  markdownTable += `---\n`
+  markdownTable += `| Content |\n`;
+  markdownTable += `| ---- |\n`;
+
   filesAndDirs.forEach((fileOrDir) => {
     const filePath = path.join(dirPath, fileOrDir);
     const fileName = path.parse(fileOrDir).name;
@@ -16,7 +20,7 @@ const generateIndexFile = (dirPath) => {
       markdownTable += `| [${titleCaseName}](./${fileName}/) |\n`;
       generateIndexFile(filePath);
     } else if (path.extname(filePath) === '.md' && fileName !== 'index') {
-      markdownTable += `| [${titleCaseName}](${fileName}) |\n`; 
+      markdownTable += `| [${titleCaseName}](${fileName}) |\n`;
     }
   });
 
@@ -24,5 +28,5 @@ const generateIndexFile = (dirPath) => {
 };
 
 
-generateIndexFile('./past-papers');
-generateIndexFile('./revision-notes')
+generateIndexFile('./igcse');
+generateIndexFile('./ial')

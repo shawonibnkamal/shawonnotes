@@ -182,6 +182,10 @@ a:hover {
   }
 }
 
+.navbar-collapse {
+  border-top: none;
+}
+
 /* Dropdown submenu*/
 .dropdown-submenu {
   position: relative;
@@ -193,6 +197,10 @@ a:hover {
   margin-top: -1px;
 }
 
+.navbar-nav > li > .dropdown-menu {
+  border-radius: 5px;
+}
+
 /* content-table in homepage*/
 
 .home-nav {
@@ -201,7 +209,10 @@ a:hover {
   padding-top: 50px;
 }
 
-.home-nav-th,
+.home-nav-th {
+  padding: 20px;
+}
+
 .home-nav-td {
   padding: 10px;
 }

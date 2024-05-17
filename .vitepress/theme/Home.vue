@@ -12,13 +12,13 @@ import Navbar from './Navbar.vue';
           <div class="col-xs-6">
             <div class="home-nav-table">
               <div class="home-nav-th">IGCSE</div>
-              <a href="./revision-notes/igcse/"
+              <a href="./igcse/revision-notes/"
                 ><div class="home-nav-td">Revision Notes</div></a
               >
-              <a href="./past-papers/igcse/"
+              <a href="./igcse/past-papers/"
                 ><div class="home-nav-td">Past Papers</div></a
               >
-              <a href="./specification/igcse"
+              <a href="./igcse/specification"
                 ><div class="home-nav-td home-nav-td-last">
                   Specification
                 </div></a
@@ -28,13 +28,13 @@ import Navbar from './Navbar.vue';
           <div class="col-xs-6">
             <div class="home-nav-table">
               <div class="home-nav-th">IAL</div>
-              <a href="./revision-notes/ial/"
+              <a href="./ial/revision-notes/"
                 ><div class="home-nav-td">Revision Notes</div></a
               >
-              <a href="./past-papers/ial/"
+              <a href="./ial/past-papers/"
                 ><div class="home-nav-td">Past Papers</div></a
               >
-              <a href="./specification/ial"
+              <a href="./ial/specification"
                 ><div class="home-nav-td home-nav-td-last">
                   Specification
                 </div></a
@@ -58,5 +58,6 @@ import Navbar from './Navbar.vue';
   height: 100vh;
   background-image: url(img/sitepages-bg.jpg);
   background-repeat: repeat;
+  line-height: 4em;
 }
 </style>
