@@ -5,8 +5,9 @@
     "vitepress": "^1.0.2"
   },
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "preview": "vitepress preview"
-  }
+    "dev": "node ./generateIndexFiles.js && vitepress dev",
+    "build": "node ./generateIndexFiles.js && vitepress build",
+    "preview": "node ./generateIndexFiles.js && vitepress preview"
+  },
+  "type": "module"
 }

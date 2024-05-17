@@ -2,9 +2,9 @@
 import { useData } from 'vitepress';
 import { useSidebar } from 'vitepress/theme';
 import Navbar from './Navbar.vue';
+import BreadCrumb from './BreadCrumb.vue';
 
 const { page, frontmatter } = useData();
-console.log(page);
 </script>
 
 <template>
@@ -18,6 +18,7 @@ console.log(page);
     <section class="main">
       <div class="main-inside">
         <div class="container">
+          <BreadCrumb />
           <Content />
         </div>
       </div>
