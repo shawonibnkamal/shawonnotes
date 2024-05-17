@@ -68,7 +68,7 @@ When a fast-moving particle such as an alpha or beta particle collides with an a
 
 Penetrating power
 
-![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.15**7.png)\*\*
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.157.png)
 
 The Figure shows the relative penetrating power of three kinds of radiation. The alpha particles can be stopped by a sheet of paper whereas beta particles and gamma rays penetrate it easily. This shows that alpha particles have the least penetrating power. Infact, it has a range of only few centimeters in air. Beta particles have a range of several metres in air but can be stopped by a 5mm tick aluminium sheet. Gamma rays are the most penetrating, having a range of a few hundred metres in air and can only be stopped by a 2 cm-thick lead shield.
 

@@ -26,7 +26,7 @@ Mechanical waves can be of two types: transverse and longitudinal.
 
 **Longitudinal waves:** A longitudinal wave is one in which the vibrations or oscillations are along the direction in which the energy or wave is moving. Examples of longitudinal waves include sound waves.
 
-![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.09**3.png)**
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.093.png)
 
 Transverse wave don’t need medium to move. Longitudinal wave needs medium to move.
 
@@ -207,9 +207,9 @@ Lead shielding, Monitor exposure (film badge) can be used to prevent the risk.
 
 Light waves are transverse wave that is emitted from luminous (objects that emit their own light such as sun, stars, fires, light bulbs etc.) or reflected from non-luminous objects (objects which do not emit their own light but are seen by their reflection of light). Light waves are transverse wave and like all waves, they can be reflected, refracted and diffracted.
 
-****3.15 use the law of reflection (the angle of incidence equals the angle of reflection**)**
+**3.15 use the law of reflection (the angle of incidence equals the angle of reflection)**
 
-![Reflection.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.10**3.png)**
+![Reflection.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.103.png)
 
 The law of reflection states that:
 
@@ -281,7 +281,10 @@ When the ray first entered the semi-circular glass, it was along the normal. As 
 ![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.111.png)![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.112.png)
 
 The incident ray entered the prism and is refracted. This ray travels along the prism in straight line, then again refraction after leaving the prism.
-![prism_refraction.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.11**3.png)![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.114.png)**
+
+![prism_refraction.png](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.113.png)
+
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.114.png)
 
 ### Experiment: To demonstrate the refraction of light through a piece of glass block.
 
@@ -405,7 +408,7 @@ To send a message using a digital signal, the information is converted into a se
 
 In the analogue method, the information is converted into electrical voltages and current that vary continuously.
 
-![the signal is a wavy line that goes up and down in an uneven pattern](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.12**3.png)**
+![the signal is a wavy line that goes up and down in an uneven pattern](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.123.png)
 
 **3.24 describe the advantages of using digital signals rather than analogue signals**
 
@@ -547,4 +550,4 @@ So the more vibrations the higher pitch.
 The bigger the vibration the higher the amplitude.
 The higher the amplitude the louder the sound.
 
-![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.13**3.png)**
+![](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.133.png)

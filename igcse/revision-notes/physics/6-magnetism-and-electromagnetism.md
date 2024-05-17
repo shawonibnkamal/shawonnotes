@@ -112,7 +112,7 @@ A field around a solenoid is similar to that of a bar magnet.
 
 A field around a flat coil is basically like a single wire, but there are two.
 
-![current_flatCoil.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.14**6.jpeg)\*\*
+![current_flatCoil.jpg](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.146.jpeg)
 
 **6.11 understand that there is a force on a charged particle when it moves in a magnetic field as long as its motion is not parallel to the field**
 

@@ -59,7 +59,7 @@ effeciency=0.1%
 
 In a Sankey diagram it is presented like this:
 
-![sankey-diagram.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.13**4.png)**
+![sankey-diagram.gif](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.134.png)
 
 **4.6 describe how energy transfer may take place by conduction, convection and radiation**
 
