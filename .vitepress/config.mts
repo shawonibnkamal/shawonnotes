@@ -11,14 +11,10 @@ export default defineConfig({
     [
       'script',
       {
-        async: 'true',
-        src: 'https://www.googletagmanager.com/gtag/js?id=UA-47062542-1',
+        defer: '',
+        src: 'https://static.cloudflareinsights.com/beacon.min.js',
+        'data-cf-beacon': '{"token": "4d581ec7f1f84807a8be373b105dde86"}',
       },
-    ],
-    [
-      'script',
-      {},
-      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'UA-47062542-1');",
     ],
     [
       'script',
