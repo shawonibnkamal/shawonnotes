@@ -1,6 +1,6 @@
 # Shawon Notes
 
-Shawon Notes is an open-source compiled study resource website for IGCSE and IAL students. 
+Shawon Notes is an open-source compiled study resource website for IGCSE and IAL students.
 
 I am in the process of rebuilding the website and migrating all the notes to markdown, so it is easier to maintain. You no longer have to use the slow and ad-filled old website.
 
@@ -20,4 +20,4 @@ If you need help or have any questions about contributing, please feel free to c
 
 ## License
 
-Shawon Notes is open source and available under the [MIT License](LICENSE).
+Shawon Notes is open source and available under the [MIT License](./LICENSE).
