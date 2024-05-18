@@ -18,11 +18,6 @@ import Navbar from './Navbar.vue';
               <a href="./igcse/past-papers/"
                 ><div class="home-nav-td">Past Papers</div></a
               >
-              <a href="./igcse/specification"
-                ><div class="home-nav-td home-nav-td-last">
-                  Specification
-                </div></a
-              >
             </div>
           </div>
           <div class="col-xs-6">
@@ -33,11 +28,6 @@ import Navbar from './Navbar.vue';
               >
               <a href="./ial/past-papers/"
                 ><div class="home-nav-td">Past Papers</div></a
-              >
-              <a href="./ial/specification"
-                ><div class="home-nav-td home-nav-td-last">
-                  Specification
-                </div></a
               >
             </div>
           </div>
