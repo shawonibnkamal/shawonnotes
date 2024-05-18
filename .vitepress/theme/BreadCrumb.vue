@@ -4,6 +4,7 @@ import { useRoute } from 'vitepress';
 import getDisplayFileName from '../getDisplayFileName.js';
 
 const route = useRoute();
+
 const pages = computed(() => {
   let pages =
     typeof route.path === 'string' ? route.path.split('/').slice(1) : [];

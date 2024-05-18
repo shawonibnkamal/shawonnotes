@@ -11,5 +11,5 @@ title: Physics
 | [6 Magnetism And Electromagnetism](6-magnetism-and-electromagnetism) |
 | [7 Radioactivity And Particles](7-radioactivity-and-particles) |
 | [8 Astrophysics](8-astrophysics) |
-| [Download PDF](download-pdf.pdf) |
+| [Download PDF](download-pdf) |
 | [Glossary](./glossary/) |

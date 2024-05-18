@@ -4,8 +4,9 @@ import { mdToPdf } from 'md-to-pdf';
 
 const IMAGE_REGEX = /!\[(.*?)\]\((.*?)\)/g;
 const FOOTER = 'PDF auto-generated from [Shawon Notes](https://shawonnotes.com). If you found it useful, please consider contributing to the project in [Github](https://github.com/shawonibnkamal/shawonnotes/).\n\n';
+const PUBLIC_DIRECTORY = './public/pdfs/'
 
-const generatePdfFromMarkdownFiles = async (dir) => {
+const generatePdfFromMarkdownFiles = async (dir, filename) => {
 	let combinedMarkdown = '';
 	await traverseDirectory(dir, async (filePath) => {
 		let content = fs.readFileSync(filePath, 'utf8');
@@ -15,7 +16,7 @@ const generatePdfFromMarkdownFiles = async (dir) => {
 
 	combinedMarkdown += FOOTER;
 
-	const pdf = await mdToPdf({ content: combinedMarkdown }, { dest: path.join(dir, 'download-pdf.pdf') }).catch(console.error);
+	const pdf = await mdToPdf({ content: combinedMarkdown }, { dest: path.join(PUBLIC_DIRECTORY, filename) }).catch(console.error);
 
 	if (pdf) {
 		console.log('PDF is written to', pdf.filename);
@@ -45,4 +46,4 @@ const prependDirectoryPathToRelativeUrls = (dir, content) => {
 	});
 }
 
-generatePdfFromMarkdownFiles('./igcse/revision-notes/physics/');
+generatePdfFromMarkdownFiles('./igcse/revision-notes/physics/', 'igcse-physics-revision-note.pdf');

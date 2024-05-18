@@ -11,12 +11,3 @@ const { page, frontmatter } = useData();
   <Page v-else />
   <!-- <Page /> renders <Content /> -->
 </template>
-
-<script>
-export default {
-  mounted() {
-    document.documentElement.classList.remove('dark');
-    document.documentElement.classList.add('light');
-  },
-};
-</script>

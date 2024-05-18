@@ -1,6 +1,5 @@
 <script setup>
 import { useData } from 'vitepress';
-import { useSidebar } from 'vitepress/theme';
 import Navbar from './Navbar.vue';
 import BreadCrumb from './BreadCrumb.vue';
 

@@ -864,7 +864,7 @@ Step 3:
 
 Equate the clockwise and anticlockwise moments![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-23-728.jpg?cb=1190070139](./images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.054.jpeg)
 
-::: details
+:::
 
 ::: details Example 2
 

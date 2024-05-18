@@ -5,13 +5,8 @@ export default defineConfig({
   description: 'Compiled resources for IGCSE and IAL to save your time',
   themeConfig: {
     logo: '/images/logo.png',
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'About', link: '/about' },
-      { text: 'IGCSE', link: '/igcse/igcse' },
-      { text: 'IAL', link: '/ial/ial' },
-    ],
   },
+  appearance: false,
   head: [
     [
       'script',

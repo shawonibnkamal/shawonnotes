@@ -2,14 +2,18 @@ import fs from 'fs';
 import path from 'path';
 import getDisplayFileName from './.vitepress/getDisplayFileName.js';
 
+const BREAK = `---\n`;
+const TABLE_HEADER = `| Content |\n`;
+const TABLE_BREAK = `| ---- |\n`;
+
 const generateIndexFile = (dirPath) => {
   const filesAndDirs = fs.readdirSync(dirPath);
 
-  let markdownTable = `---\n`;
+  let markdownTable = BREAK;
   markdownTable += `title: ${getDisplayFileName(path.basename(dirPath))}\n`;
-  markdownTable += `---\n`
-  markdownTable += `| Content |\n`;
-  markdownTable += `| ---- |\n`;
+  markdownTable += BREAK
+  markdownTable += TABLE_HEADER;
+  markdownTable += TABLE_BREAK;
 
   filesAndDirs.forEach((fileOrDir) => {
     const filePath = path.join(dirPath, fileOrDir);
@@ -32,7 +36,6 @@ const generateIndexFile = (dirPath) => {
 
   fs.writeFileSync(path.join(dirPath, 'index.md'), markdownTable);
 };
-
 
 generateIndexFile('./igcse');
 generateIndexFile('./ial')
