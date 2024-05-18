@@ -30,7 +30,11 @@ const { page, frontmatter } = useData();
         <div class="row">
           <div class="col-sm-8 footer-links">
             <a href="/about">About</a>
-            <a href="https://github.com/shawonibnkamal/shawonnotes">Github</a>
+            <a
+              href="https://github.com/shawonibnkamal/shawonnotes"
+              target="_blank"
+              >Contribute to this website</a
+            >
           </div>
 
           <div class="col-sm-4 credit">Shawon Notes &copy; 2024</div>
@@ -46,4 +50,3 @@ body {
   background-repeat: repeat-x;
 }
 </style>
- 

@@ -36,6 +36,7 @@
               <li><a href="/igcse/revision-notes/">Revision Notes</a></li>
             </ul>
           </li>
+
           <li class="dropdown">
             <a
               href="#"
@@ -52,6 +53,14 @@
               <li><a href="/ial/past-papers/">Past Papers</a></li>
               <li><a href="/ial/revision-notes/">Revision Notes</a></li>
             </ul>
+          </li>
+
+          <li>
+            <a
+              href="https://github.com/shawonibnkamal/shawonnotes"
+              target="_blank"
+              >Github</a
+            >
           </li>
         </ul>
       </div>
