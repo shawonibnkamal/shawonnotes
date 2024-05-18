@@ -20,4 +20,4 @@ If you need help or have any questions about contributing, please feel free to c
 
 ## License
 
-Shawon Notes is open source and available under the [MIT License](./LICENSE).
+Shawon Notes is open source and available under the MIT License.
