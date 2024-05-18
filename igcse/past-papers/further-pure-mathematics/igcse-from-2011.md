@@ -1,14 +1,5 @@
 ---
 title: 'Edexcel International GCSE Further Pure Mathematics Past Papers from 2011'
-date: '2018-04-24T20:00:43+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/further-pure-mathematics/international-gcse
-author: admin
-excerpt: ''
-type: page
-id: 143
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

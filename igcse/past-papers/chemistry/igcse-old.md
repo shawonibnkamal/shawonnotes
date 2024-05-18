@@ -1,14 +1,5 @@
 ---
 title: 'IGCSE Edexcel Chemistry Past Papers'
-date: '2018-04-24T19:54:34+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/chemistry/igcse
-author: admin
-excerpt: ''
-type: page
-id: 123
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

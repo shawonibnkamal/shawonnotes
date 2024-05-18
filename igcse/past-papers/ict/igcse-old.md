@@ -1,14 +1,5 @@
 ---
 title: 'IGCSE Edexcel ICT Past Papers'
-date: '2018-04-24T20:04:30+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/ict/igcse
-author: admin
-excerpt: ''
-type: page
-id: 151
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

@@ -27,13 +27,13 @@
               role="button"
               aria-haspopup="true"
               aria-expanded="false"
-              >Revision Notes <span class="caret"></span
-            ></a>
+            >
+              IGCSE
+              <span class="caret"></span>
+            </a>
             <ul class="dropdown-menu">
-              <li><a href="/igcse/revision-notes/">IGCSE</a></li>
-              <li>
-                <a href="/ial/revision-notes/">IAL</a>
-              </li>
+              <li><a href="/igcse/past-papers/">Past Papers</a></li>
+              <li><a href="/igcse/revision-notes/">Revision Notes</a></li>
             </ul>
           </li>
           <li class="dropdown">
@@ -44,11 +44,13 @@
               role="button"
               aria-haspopup="true"
               aria-expanded="false"
-              >Past Papers <span class="caret"></span
-            ></a>
+            >
+              IAL
+              <span class="caret"></span>
+            </a>
             <ul class="dropdown-menu">
-              <li><a href="/igcse/past-papers/">IGCSE</a></li>
-              <li><a href="/ial/past-papers/">IAL</a></li>
+              <li><a href="/ial/past-papers/">Past Papers</a></li>
+              <li><a href="/ial/revision-notes/">Revision Notes</a></li>
             </ul>
           </li>
         </ul>

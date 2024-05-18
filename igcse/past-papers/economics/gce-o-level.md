@@ -1,14 +1,5 @@
 ---
 title: 'Edexcel GCE O&#8217; Level Economics Past Papers'
-date: '2018-04-24T19:56:37+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/economics/gce-o-level
-author: admin
-excerpt: ''
-type: page
-id: 129
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

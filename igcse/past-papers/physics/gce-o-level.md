@@ -1,14 +1,5 @@
 ---
 title: 'Edexcel GCE O Level Physics Past Papers'
-date: '2018-04-24T20:08:23+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/physics/gce-o-level
-author: admin
-excerpt: ''
-type: page
-id: 167
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

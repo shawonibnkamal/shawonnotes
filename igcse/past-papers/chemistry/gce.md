@@ -1,14 +1,5 @@
 ---
 title: 'Edexcel GCE Chemistry Past Papers'
-date: '2018-04-24T19:54:10+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/chemistry/gce
-author: admin
-excerpt: ''
-type: page
-id: 121
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table id="tablePP" style="width: 100%;">

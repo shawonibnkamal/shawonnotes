@@ -1,14 +1,5 @@
 ---
 title: 'International GCSE Edexcel Accounting Past Papers from 2011'
-date: '2018-04-24T19:46:39+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/accounting/international-gcse
-author: admin
-excerpt: ''
-type: page
-id: 100
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

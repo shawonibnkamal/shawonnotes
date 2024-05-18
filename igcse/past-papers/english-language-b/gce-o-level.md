@@ -1,14 +1,5 @@
 ---
 title: 'GCE O Level Edexcel English Language Past Papers'
-date: '2018-04-24T19:58:27+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/english-language-b/gce-o-level
-author: admin
-excerpt: ''
-type: page
-id: 135
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

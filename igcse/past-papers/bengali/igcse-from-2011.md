@@ -1,14 +1,5 @@
 ---
 title: 'International GCSE Edexcel Bengali Past Papers from 2011'
-date: '2018-04-24T19:50:10+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/bengali/international-gcse
-author: admin
-excerpt: ''
-type: page
-id: 108
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

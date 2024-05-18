@@ -1,14 +1,5 @@
 ---
 title: 'IGCSE Edexcel Physics Past Papers'
-date: '2018-04-24T20:09:15+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/physics/igcse-2011
-author: admin
-excerpt: ''
-type: page
-id: 171
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

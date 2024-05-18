@@ -1,12 +1,5 @@
 ---
 title: 'International GCSE Biology Past Papers from 2011'
-date: '2018-04-24T19:53:15+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/biology/international-gcse
-author: admin
-excerpt: ''
-type: page
-id: 117
 ---
 
 <table class="table table-pastpapers">

@@ -1,14 +1,5 @@
 ---
 title: 'Edexcel GCE O Level Biology Past Papers'
-date: '2018-04-24T19:51:35+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/biology/gce-o-level
-author: admin
-excerpt: ''
-type: page
-id: 112
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

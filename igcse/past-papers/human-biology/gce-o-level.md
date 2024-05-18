@@ -1,14 +1,5 @@
 ---
 title: 'Edexcel GCE O&#8217; Level Human Biology Past Papers'
-date: '2018-04-24T20:05:34+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/human-biology/gce-o-level
-author: admin
-excerpt: ''
-type: page
-id: 155
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">

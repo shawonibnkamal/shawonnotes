@@ -1,11 +1,5 @@
 ---
 title: 'Edexcel AS/IAL Physics Past Papers'
-date: '2018-04-24T21:09:46+00:00'
-status: publish
-author: admin
-excerpt: ''
-type: page
-id: 195
 ---
 
 <table class="table table-pastpapers">

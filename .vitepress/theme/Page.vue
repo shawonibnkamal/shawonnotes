@@ -30,7 +30,7 @@ const { page, frontmatter } = useData();
         <div class="row">
           <div class="col-sm-8 footer-links">
             <a href="/about">About</a>
-            <a href="/contact">Contact</a>
+            <a href="https://github.com/shawonibnkamal/shawonnotes">Github</a>
           </div>
 
           <div class="col-sm-4 credit">Shawon Notes &copy; 2024</div>

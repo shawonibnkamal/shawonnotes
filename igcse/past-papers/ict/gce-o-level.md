@@ -1,14 +1,5 @@
 ---
 title: 'Edexcel GCE O Level ICT Past Papers'
-date: '2018-04-24T20:03:47+00:00'
-status: publish
-permalink: /index.php/edexcel-past-papers/ict/gce-o-level
-author: admin
-excerpt: ''
-type: page
-id: 149
-ampforwp-amp-on-off:
-  - default
 ---
 
 <table class="table table-pastpapers">
