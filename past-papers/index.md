@@ -1,6 +1,0 @@
----
-title: Past Papers
----
-
-| Name |
-| ---- |

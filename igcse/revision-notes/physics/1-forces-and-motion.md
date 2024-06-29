@@ -383,22 +383,22 @@ Throw a ball at a person in one direction. That person will hit the ball again i
 To sum up the examples, the effects that occur when a force is applied to an object are:
 
 1. The object may start to move or stop moving.
-1. The object may speed up or slow down.
-1. The object may change its shape
-1. The object may change its direction of movement.
+2. The object may speed up or slow down.
+3. The object may change its shape
+4. The object may change its direction of movement.
 
 **1.10 identify different types of force such as gravitational or electrostatic**
 
 Different sorts of Force:
 
 1. Gravitational force or weight: The pull of earth due to gravity.
-1. Normal Reaction: Simple reaction that stops something when to apply force to it. E.g.: A book is kept on the table which has a normal reaction on it. Otherwise the book would fall down.
-1. Air Resistance: The resistivity or drag in the air while an object moves is called Air Resistance.E.g.: When a parachutist open the parachute the movement slows down for the opposite force acting in it.
-1. Upthrust: Upthrust force acts only on liquid or air. It pushes an object upwards inspite of gravity. E.g.: A helium balloon moves upwards due to up thrust force.
-1. Magnetic: Magnetic force is the attraction force between the poles of magnets. N=S
-1. Electrostatic: Electrostatic force is the attraction force between charges. +=-
-1. Tension: The pull at both ends of a stretched spring ,string, or rope.
-1. Frictional force: the force produced when two objects slide one over another is called frictional force.
+2. Normal Reaction: Simple reaction that stops something when to apply force to it. E.g.: A book is kept on the table which has a normal reaction on it. Otherwise the book would fall down.
+3. Air Resistance: The resistivity or drag in the air while an object moves is called Air Resistance.E.g.: When a parachutist open the parachute the movement slows down for the opposite force acting in it.
+4. Upthrust: Upthrust force acts only on liquid or air. It pushes an object upwards inspite of gravity. E.g.: A helium balloon moves upwards due to up thrust force.
+5. Magnetic: Magnetic force is the attraction force between the poles of magnets. N=S
+6. Electrostatic: Electrostatic force is the attraction force between charges. +=-
+7. Tension: The pull at both ends of a stretched spring ,string, or rope.
+8. Frictional force: the force produced when two objects slide one over another is called frictional force.
 
 **1.11 distinguish between vector and scalar quantities**
 
