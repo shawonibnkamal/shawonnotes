@@ -6,7 +6,7 @@
   },
   "scripts": {
     "dev": "node ./generateIndexFiles.js && node ./generatePdfs.js && vitepress dev",
-    "build": "node ./generateIndexFiles.js && node ./generatePdfs.js && vitepress build",
+    "build": "vitepress build",
     "preview": "vitepress preview"
   },
   "type": "module",
