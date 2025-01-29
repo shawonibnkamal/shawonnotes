@@ -1,4 +1,4 @@
-# **Chapter 8: Graph Algorithms (BFS, DFS, Union-Find, Dijkstra)**
+# **Chapter 9: Graph Algorithms (BFS, DFS, Union-Find, Dijkstra)**
 
 ## **Concept & When to Use**
 

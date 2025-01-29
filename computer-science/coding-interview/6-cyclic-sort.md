@@ -1,4 +1,4 @@
-# **Chapter 5: Cyclic Sort**
+# **Chapter 6: Cyclic Sort**
 
 ## **Concept & When to Use**
 

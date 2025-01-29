@@ -1,4 +1,4 @@
-# **Chapter 9: Dynamic Programming (Top-down & Bottom-up)**
+# **Chapter 10: Dynamic Programming (Top-down & Bottom-up)**
 
 ## **Concept & When to Use**
 
