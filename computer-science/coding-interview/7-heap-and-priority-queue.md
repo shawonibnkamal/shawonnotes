@@ -10,8 +10,6 @@ This technique uses:
 - A **Max Heap** (simulated using a Min Heap with negated values) to retrieve the largest elements.
 - **Balancing heaps** enables efficient median retrieval and other optimizations.
 
----
-
 ### **When to Use Heaps & Priority Queues**
 
 ✔ **Finding the Kth largest/smallest element** (e.g., "Kth Largest Element in an Array").
@@ -34,8 +32,6 @@ This technique uses:
 
 🔹 **Top element retrieval takes O(1)**, making heaps ideal for priority-based problems.
 
----
-
 ## **Grind 75 Problems**
 
 The **Heap and Priority Queue** pattern is essential for solving these **Grind 75** problems:
@@ -45,8 +41,6 @@ The **Heap and Priority Queue** pattern is essential for solving these **Grind 7
 3. **Task Scheduler** (LeetCode #621)
 
 Below, we explore these problems, different solution approaches, and trade-offs.
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -68,8 +62,6 @@ def findKthLargest(nums: list[int], k: int) -> int:
 ```
 
 ✅ **Simple, but inefficient** for large datasets due to sorting (**O(n log n)**).
-
----
 
 ### **Optimized Approach (Min Heap) – O(n log k) Time, O(k) Space**
 
@@ -96,8 +88,6 @@ def findKthLargest(nums: list[int], k: int) -> int:
 
 - **O(n log k) time complexity**, faster than sorting for large `n`.
 - **O(k) space complexity**, since we store only `k` elements.
-
----
 
 ### **2. Find Median in a Stream**
 
@@ -131,8 +121,6 @@ class MedianFinder:
 ```
 
 ✅ **Simple, but inefficient** due to sorting on every insert (**O(n log n)**).
-
----
 
 ### **Optimized Approach (Two Heaps) – O(log n) Insert, O(1) Find Median**
 
@@ -170,8 +158,6 @@ class MedianFinder:
 - **O(1) median retrieval** vs. **O(n) median retrieval in sorting**.
 - **Extra space for two heaps (O(n))**, but avoids frequent sorting.
 
----
-
 ### **3. Task Scheduler**
 
 💡 **Problem:** Given an array of tasks and a cooling interval `n`, find the **minimum time required** to execute all tasks, ensuring that the same task is scheduled only after `n` intervals.
@@ -201,8 +187,6 @@ def leastInterval(tasks: list[str], n: int) -> int:
 ```
 
 ✅ **Works but inefficient** due to sorting (**O(n log n)**).
-
----
 
 ### **Optimized Approach (Max Heap) – O(n log k) Time, O(n) Space**
 
@@ -242,8 +226,6 @@ def leastInterval(tasks: list[str], n: int) -> int:
 - **O(n log k) is better than O(n log n) sorting**.
 - **Max Heap ensures efficient task execution**.
 - **Uses extra space for heap & queue**.
-
----
 
 ## **Key Takeaways**
 

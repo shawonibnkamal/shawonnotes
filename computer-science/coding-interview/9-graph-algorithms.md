@@ -16,8 +16,6 @@ Graph algorithms are vital for solving problems related to **network traversal, 
 - **Union-Find:** When you need to manage and merge sets of connected nodes efficiently (e.g., determining if two nodes are connected in an undirected graph).
 - **Dijkstra’s:** When you need to find the shortest path between nodes in weighted graphs.
 
----
-
 ## **Grind 75 Problems**
 
 The following **Grind 75** problems make use of various graph algorithms:
@@ -25,8 +23,6 @@ The following **Grind 75** problems make use of various graph algorithms:
 1. **Clone Graph (DFS/BFS)**
 2. **Course Schedule (Topological Sort)**
 3. **Number of Islands (DFS/BFS)**
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -99,8 +95,6 @@ def cloneGraph(node: 'Node') -> 'Node':
 - **O(V + E) time complexity**: Each node and edge is visited once.
 - **O(V) space complexity**: Store all visited nodes.
 - **DFS is easy to implement recursively but can lead to stack overflow for deep graphs. BFS is more memory-intensive but avoids recursion depth issues.**
-
----
 
 ### **2. Course Schedule (Topological Sort)**
 
@@ -182,8 +176,6 @@ def canFinish(numCourses: int, prerequisites: list[list[int]]) -> bool:
 - **O(V) space complexity** (graph and in-degree storage).
 - **DFS is elegant but may be tricky to implement for large graphs. BFS is iterative and avoids recursion depth issues.**
 
----
-
 ### **3. Number of Islands (DFS/BFS)**
 
 💡 **Problem:** Given a 2D grid representing a map of `'1'`s (land) and `'0'`s (water), find the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically.
@@ -254,8 +246,6 @@ def numIslands(grid: list[list[str]]) -> int:
 - **O(M \* N) time complexity** (each cell is visited once).
 - **O(M \* N) space complexity** (for the recursion stack or queue).
 - **DFS may cause stack overflow on large grids, while BFS avoids recursion but uses more memory for large grids.**
-
----
 
 ## **BFS vs. DFS vs. Union-Find**
 

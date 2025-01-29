@@ -12,8 +12,6 @@ Backtracking is a general algorithmic technique used for finding all (or some) s
 
 Backtracking is often used to solve problems where we need to explore all possible solutions but can eliminate many possibilities early (i.e., pruning). It is similar to brute force, but it is more efficient because it avoids trying out solutions that are guaranteed to fail.
 
----
-
 ## **Grind 75 Problems**
 
 Here are the **Grind 75** problems that are suitable for solving using the backtracking approach:
@@ -21,8 +19,6 @@ Here are the **Grind 75** problems that are suitable for solving using the backt
 1. **Subsets**
 2. **Permutations**
 3. **Sudoku Solver**
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -59,8 +55,6 @@ def subsets(nums):
 - **Recursive approach:** Backtracking with recursion is simple and intuitive. However, it can lead to deep recursion for large input arrays, which may cause stack overflow in extreme cases.
 - **Iterative approach:** An iterative approach using bit manipulation can also be used for generating subsets in O(2^n) time, but it may be less readable and intuitive than the recursive backtracking approach.
 
----
-
 ### **2. Permutations**
 
 💡 **Problem:** Given a collection of distinct integers, return all possible permutations.
@@ -95,8 +89,6 @@ def permute(nums):
 
 - **Recursive approach:** This is the most common and clean solution, but for large arrays, the number of permutations grows factorially, which may become inefficient for larger inputs.
 - **Iterative approach:** Permutations can also be generated iteratively using an algorithm like Heap's algorithm, but backtracking is more flexible and easier to understand for many cases.
-
----
 
 ### **3. Sudoku Solver**
 
@@ -143,14 +135,10 @@ def solveSudoku(board):
 - **Recursive approach:** The backtracking approach is intuitive and straightforward. However, for large puzzles or complex constraints, it may be inefficient without proper pruning.
 - **Iterative approach:** An iterative approach using constraint propagation (like the AC-3 algorithm) can be more efficient, but backtracking is easier to implement and understand for Sudoku puzzles.
 
----
-
 ## **Recursive vs. Iterative Approaches**
 
 - **Recursive approach (Backtracking):** This approach is generally easier to implement and understand for problems like subsets, permutations, and Sudoku. It allows for elegant exploration of all possibilities and pruning of invalid branches. However, recursion can be inefficient for large inputs due to the deep call stacks, and can sometimes lead to stack overflow errors.
 - **Iterative approach:** While iterative solutions like using bit manipulation or generating permutations using an explicit stack can be more efficient in terms of space, they are often more complex to implement and less intuitive. Backtracking via recursion is typically the best approach for problems that naturally fit this paradigm.
-
----
 
 ## **Summary**
 

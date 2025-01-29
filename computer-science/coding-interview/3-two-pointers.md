@@ -20,8 +20,6 @@ The **Two Pointers** technique is an efficient approach used to solve problems i
 
 🔹 **Fast-Slow Pointers:** Used for problems involving **linked lists** or **cyclic detection** (e.g., "detect a cycle in a linked list").
 
----
-
 ## **Grind 75 Problems**
 
 The **Two Pointers** pattern appears in multiple **Grind 75 problems**, such as:
@@ -31,8 +29,6 @@ The **Two Pointers** pattern appears in multiple **Grind 75 problems**, such as:
 3. **Container With Most Water** (LeetCode #11)
 
 Each of these problems benefits from the **Two Pointers** technique. Below, we analyze each problem and discuss brute-force vs. optimized solutions.
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -76,8 +72,6 @@ def twoSum(nums: list[int], target: int) -> list[int]:
 
 - **Sorting helps reduce complexity** to O(n), but it only works if the input is already sorted.
 - If the array was **unsorted**, we would need **O(n log n) sorting time** or use a **hash map** (O(n) but requires extra space).
-
----
 
 ### **2. Three Sum**
 
@@ -130,8 +124,6 @@ def threeSum(nums: list[int]) -> list[list[int]]:
 - **Sorting speeds up** the solution but requires **O(n log n)** time.
 - **Avoiding duplicate triplets** ensures correct output.
 
----
-
 ### **3. Container With Most Water**
 
 💡 **Problem:** Given an array `height`, find the two lines that **hold the most water**.
@@ -170,8 +162,6 @@ def maxArea(height: list[int]) -> int:
 
 - **Optimized approach ensures O(n) performance** by eliminating unnecessary comparisons.
 - Moving **only the smaller height pointer** guarantees maximization of the water area.
-
----
 
 ## **Key Takeaways**
 

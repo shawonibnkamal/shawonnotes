@@ -15,8 +15,6 @@ Topological Sorting is a fundamental algorithm in **graph theory** used for prob
 1. **Course Schedule** (Medium)
 2. **Alien Dictionary** (Hard)
 
----
-
 ## **Topological Sorting Algorithms**
 
 ### **1. Kahn’s Algorithm (BFS Approach)**
@@ -90,8 +88,6 @@ def topological_sort_dfs(graph, num_nodes):
     return stack[::-1]  # Reverse to get correct order
 ```
 
----
-
 ## **Trade-offs & Complexity Analysis**
 
 | Approach                   | Time Complexity | Space Complexity | Notes                                   |
@@ -104,8 +100,6 @@ def topological_sort_dfs(graph, num_nodes):
 1. **Use Kahn’s Algorithm (BFS)** when iterative processing is required (e.g., resolving dependencies in layers).
 2. **Use DFS-Based Sorting** when recursion is natural and we need to track finishing order.
 3. **Topological sorting only works on DAGs**—cycle detection is crucial before applying it.
-
----
 
 ### **Practice Problems**
 

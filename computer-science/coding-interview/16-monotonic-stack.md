@@ -16,8 +16,6 @@ The **Monotonic Stack** is a specialized stack data structure used in problems t
 2. **Daily Temperatures** (Medium)
 3. **Next Greater Element I & II** (Medium)
 
----
-
 ## **Monotonic Stack Implementation & Variants**
 
 ### **1. Finding Next Greater Element (NGE)**
@@ -103,8 +101,6 @@ def daily_temperatures(temperatures):
     return result
 ```
 
----
-
 ## **Trade-offs & Complexity Analysis**
 
 | Approach            | Time Complexity | Space Complexity | Notes                             |
@@ -117,8 +113,6 @@ def daily_temperatures(temperatures):
 1. **Use monotonic stacks** for problems that require range-based calculations efficiently.
 2. **Stack direction matters**: Increasing stacks are used for **finding next smaller elements**, while decreasing stacks help in **next greater element problems**.
 3. **Histogram problems** can be solved efficiently using a stack-based approach to keep track of valid widths.
-
----
 
 ### **Practice Problems**
 

@@ -15,8 +15,6 @@ The **Trie (Prefix Tree)** is a specialized tree data structure used for **effic
 1. **Implement Trie (Prefix Tree)** (Medium)
 2. **Word Search II** (Hard)
 
----
-
 ## **Trie Data Structure & Implementation**
 
 ### **1. Trie Node & Basic Operations**
@@ -104,8 +102,6 @@ class Solution:
         return list(result)
 ```
 
----
-
 ## **Trade-offs & Complexity Analysis**
 
 | Approach                        | Time Complexity | Space Complexity | Notes                                                   |
@@ -118,8 +114,6 @@ class Solution:
 1. **Tries are useful for prefix-based queries**, offering a major advantage over hash tables.
 2. **Word Search II combines Tries with DFS** to efficiently find words in a matrix.
 3. **Trade-offs exist between space efficiency and performance**, but Tries are optimal for problems requiring fast prefix searches.
-
----
 
 ### **Practice Problems**
 

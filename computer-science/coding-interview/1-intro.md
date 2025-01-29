@@ -23,8 +23,6 @@ For each problem, this guide does more than just present a single answer—it ex
 
 By the end, you’ll not only be able to **solve** problems but also **defend your choices in an interview** with clear justifications.
 
----
-
 ## **How to Use This Guide**
 
 Mastering coding interviews is not about memorizing solutions but about **understanding patterns and trade-offs**. This guide is structured to help you achieve this through a **progressive learning approach**.
@@ -53,8 +51,6 @@ Once comfortable with patterns, simulate **real interview conditions** by:
 - Practicing with a **time limit** (e.g., 30–45 minutes per problem).
 - Explaining your thought process **out loud** as if in an interview.
 - Writing code in a **plain text editor or whiteboard** without autocompletion.
-
----
 
 ## **Interview Process Overview**
 
@@ -89,7 +85,5 @@ Many candidates focus only on coding and neglect **behavioral questions**, which
 - **Discuss trade-offs and edge cases** during your explanation.
 - **Optimize only after getting a working solution**.
 - **Practice thinking out loud**, since interviewers want to hear your thought process.
-
----
 
 This guide is designed to **give you a structured path to success**—whether you're preparing for FAANG, startups, or any top tech company. By following this methodology, you'll **build problem-solving intuition and confidently tackle any interview challenge.** 🚀

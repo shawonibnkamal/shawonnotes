@@ -9,8 +9,6 @@ Tree traversal is a fundamental technique in **binary trees and graphs**, used t
 
 These approaches help solve problems related to **tree structure, hierarchy, and relationships** efficiently.
 
----
-
 ### **When to Use BFS vs. DFS**
 
 | **Criteria**                  | **BFS (Level Order Traversal)**             | **DFS (Preorder, Inorder, Postorder)**          |
@@ -19,8 +17,6 @@ These approaches help solve problems related to **tree structure, hierarchy, and
 | **Space Complexity**          | O(N) (queue holds all nodes at a level)     | O(H) (stack holds recursion depth, H=height)    |
 | **Best for**                  | Problems needing level-wise relationships   | Problems requiring full tree exploration        |
 | **Iterative Implementation?** | Uses a queue (FIFO)                         | Uses a stack (LIFO) or recursion                |
-
----
 
 ## **Grind 75 Problems**
 
@@ -31,8 +27,6 @@ The **Tree Traversal** pattern is crucial for solving the following **Grind 75**
 3. **Validate Binary Search Tree** (DFS)
 
 We explore different solutions and trade-offs for these problems.
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -83,8 +77,6 @@ def levelOrder(root: TreeNode) -> list[list[int]]:
 - **O(N) space complexity** (stores all nodes at the deepest level).
 - **BFS ensures level-wise traversal, but uses more memory than DFS**.
 
----
-
 ### **2. Lowest Common Ancestor (DFS)**
 
 💡 **Problem:** Given a binary tree and two nodes `p` and `q`, find their **Lowest Common Ancestor (LCA)**.
@@ -115,8 +107,6 @@ def lowestCommonAncestor(root: TreeNode, p: TreeNode, q: TreeNode) -> TreeNode:
 - **O(N) time complexity** (DFS visits each node once).
 - **O(H) space complexity** (recursive stack depth is the tree height).
 - **Recursive DFS is elegant, but may cause stack overflow in deep trees**.
-
----
 
 ### **3. Validate Binary Search Tree (DFS)**
 
@@ -149,8 +139,6 @@ def isValidBST(root: TreeNode) -> bool:
 - **O(H) space complexity** (recursive depth depends on tree height).
 - **DFS is memory-efficient for balanced trees but can cause stack overflows in skewed trees**.
 
----
-
 ## **BFS vs. DFS: Which One to Use?**
 
 | **Scenario**                         | **Use BFS (Queue)**              | **Use DFS (Stack/Recursion)**         |
@@ -160,8 +148,6 @@ def isValidBST(root: TreeNode) -> bool:
 | **Tree structure validation (BST)?** | ❌ No                            | ✅ Yes (inorder traversal)            |
 | **Tree depth-related problems?**     | ❌ No                            | ✅ Yes (finding ancestors, recursion) |
 | **Memory constraints?**              | ❌ More memory                   | ✅ Less memory in balanced trees      |
-
----
 
 ## **Key Takeaways**
 

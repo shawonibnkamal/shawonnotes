@@ -18,8 +18,6 @@ There are two primary approaches in DP:
 - When a problem can be broken down into overlapping subproblems.
 - When an optimal solution to a problem can be constructed from solutions to subproblems.
 
----
-
 ## **Grind 75 Problems**
 
 Here are the **Grind 75** problems that make use of dynamic programming techniques:
@@ -27,8 +25,6 @@ Here are the **Grind 75** problems that make use of dynamic programming techniqu
 1. **Coin Change**
 2. **Longest Increasing Subsequence**
 3. **Edit Distance**
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -63,8 +59,6 @@ def coinChange(coins, amount):
 - **Top-down (Memoization)**: Involves recursion with memoization, which can be intuitive but has overhead due to recursive calls. It can be more difficult to implement for large input sizes compared to the bottom-up approach.
 - **Bottom-up (Tabulation)**: It avoids recursion, which can lead to stack overflow in the top-down approach. It is more efficient in terms of both time and space, especially for larger input sizes, and is generally the preferred approach.
 
----
-
 ### **2. Longest Increasing Subsequence**
 
 💡 **Problem:** Given an integer array `nums`, return the length of the longest strictly increasing subsequence.
@@ -97,8 +91,6 @@ def lengthOfLIS(nums):
 
 - **Top-down (Memoization)**: You can solve this problem using recursion with memoization, but the time complexity will still be O(n^2), and managing the recursive state and bounds could be cumbersome.
 - **Bottom-up (Tabulation)**: The bottom-up approach is more intuitive and avoids recursion. It ensures better memory usage because it doesn’t store the recursive call stack. For large inputs, the bottom-up approach is usually more practical.
-
----
 
 ### **3. Edit Distance**
 
@@ -143,15 +135,11 @@ def minDistance(word1, word2):
 - **Top-down (Memoization):** This can be more intuitive, especially for recursion lovers. However, it uses extra space for recursion and might have performance drawbacks for larger strings due to function call overhead.
 - **Bottom-up (Tabulation):** The bottom-up approach is more efficient in terms of both time and space and avoids the pitfalls of recursion. It’s generally the preferred choice for problems like this, especially for large inputs.
 
----
-
 ## **Recursion vs. Memoization vs. Tabulation**
 
 - **Recursion** is the most intuitive approach for DP problems but can lead to inefficient solutions due to redundant calculations. It also risks exceeding the recursion limit on larger inputs.
 - **Memoization** (top-down DP) saves the results of subproblems to avoid recomputing them. It combines the clarity of recursion with the efficiency of storing results but still suffers from the overhead of recursive calls.
 - **Tabulation** (bottom-up DP) builds the solution iteratively and is generally more efficient because it avoids recursion depth issues and function call overhead. It’s the preferred approach for most DP problems due to its simplicity and efficiency.
-
----
 
 ## **Summary**
 

@@ -15,8 +15,6 @@ Kadane’s Algorithm works because **a maximum subarray ending at index `i` must
 
 This simple **"keep or restart"** decision makes Kadane’s Algorithm both **greedy and optimal**.
 
----
-
 ### **Core Idea**
 
 We maintain two variables:
@@ -29,8 +27,6 @@ At each index, update `current_sum` as:
 \text{current_sum} = \max(\text{current_sum} + \text{nums}[i], \text{nums}[i])
 
 Update `max_sum` if `current_sum` is larger.
-
----
 
 ### **Example Problems and Solutions**
 
@@ -70,8 +66,6 @@ print(maxSubArray(nums))  # Output: 6  (Subarray: [4,-1,2,1])
 ✅ **Constant space** (no extra storage needed).
 
 ⚠️ **Only works for sum-based problems** (modifications needed for other variations).
-
----
 
 ### **2. Maximum Product Subarray (Medium)**
 
@@ -119,8 +113,6 @@ print(maxProduct(nums))  # Output: 6  (Subarray: [2,3])
 
 ⚠️ **Requires extra tracking (min & max products)**.
 
----
-
 ### **When to Use Kadane’s Algorithm**
 
 | **Problem Type**              | **Kadane’s Algorithm?** | **Why?**                                        |
@@ -130,8 +122,6 @@ print(maxProduct(nums))  # Output: 6  (Subarray: [2,3])
 | Subarrays with Constraints    | ⚠️ Maybe                | Needs variations (e.g., at most K elements).    |
 | Maximum Subarray with Removal | ❌ No                   | DP may be better.                               |
 | 2D Grid (Max Sum)             | ❌ No                   | Use **Kadane’s on rows**, then **prefix sums**. |
-
----
 
 ### **Conclusion**
 

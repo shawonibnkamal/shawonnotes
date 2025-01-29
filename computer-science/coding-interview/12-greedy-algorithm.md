@@ -16,8 +16,6 @@ Greedy algorithms are a fundamental problem-solving technique that work by makin
 2. **Gas Station** (Medium)
 3. **Interval Scheduling Maximization** (like **Activity Selection Problem**)
 
----
-
 ## **Greedy Algorithm Strategies & Implementations**
 
 ### **1. Jump Game (Greedy Traversal)**
@@ -84,8 +82,6 @@ def max_non_overlapping_intervals(intervals):
 
 **Space Complexity**: O(1)
 
----
-
 ## **Trade-offs & Complexity Analysis**
 
 | Approach                           | Time Complexity | Space Complexity | Notes                                              |
@@ -99,8 +95,6 @@ def max_non_overlapping_intervals(intervals):
 1. **Greedy algorithms work well for optimization problems** where local choices lead to a global optimum.
 2. **Sorting-based greedy strategies** are common in scheduling problems.
 3. **Greedy approaches don’t always work**—validating correctness is crucial.
-
----
 
 ### **Practice Problems**
 

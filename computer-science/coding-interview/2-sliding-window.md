@@ -14,8 +14,6 @@ Use this pattern when:
 
 ✔ **A brute-force approach involves recomputing overlapping parts of an array.**
 
----
-
 ## **Types of Sliding Window Approaches**
 
 There are two main types of sliding window approaches:
@@ -30,8 +28,6 @@ There are two main types of sliding window approaches:
 - The window size **changes dynamically** based on the problem constraints.
 - Used when trying to find **the shortest/longest subarray** that meets a condition (e.g., "find the smallest subarray with a sum ≥ `S`").
 
----
-
 ## **Grind 75 Problems**
 
 The **Sliding Window** pattern appears in multiple **Grind 75 problems**, such as:
@@ -41,8 +37,6 @@ The **Sliding Window** pattern appears in multiple **Grind 75 problems**, such a
 3. **Minimum Window Substring** (Variable-size) (LeetCode #76)
 
 Below, we analyze each problem and discuss brute-force vs. optimized solutions.
-
----
 
 ## **1. Fixed-size Sliding Window**
 
@@ -86,8 +80,6 @@ print(maxSumSubarray(nums, k))  # Output: 9
 
 - Uses constant space (O(1)), but requires careful index management.
 - **Efficient alternative** to recomputing sums for every subarray.
-
----
 
 ## **2. Variable-size Sliding Window**
 
@@ -134,8 +126,6 @@ print(lengthOfLongestSubstring(s))  # Output: 3
 
 - Uses **extra space** for `char_set`, but ensures **O(n) performance**.
 - Works efficiently for **ASCII characters** but may need modifications for Unicode.
-
----
 
 ## **3. Variable-size Sliding Window (Shrinking)**
 
@@ -200,8 +190,6 @@ print(minWindow(s, t))  # Output: "BANC"
 
 - Uses extra space for **hash maps**, but avoids recomputation.
 - Ensures **O(n) performance**, ideal for long strings.
-
----
 
 ## **Key Takeaways**
 

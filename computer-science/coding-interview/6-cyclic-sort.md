@@ -22,8 +22,6 @@ The **Cyclic Sort** pattern is useful when dealing with problems that involve a 
 
 🔹 **After sorting, iterate again** to identify missing or duplicate numbers.
 
----
-
 ## **Grind 75 Problems**
 
 The **Cyclic Sort** technique is essential for solving the following **Grind 75** problems:
@@ -32,8 +30,6 @@ The **Cyclic Sort** technique is essential for solving the following **Grind 75*
 2. **First Missing Positive** (LeetCode #41)
 
 Below, we explore these problems, different solution approaches, and trade-offs.
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -63,8 +59,6 @@ def findDuplicates(nums: list[int]) -> list[int]:
 ✅ **Correct, but uses extra space (O(n)).**
 
 ❌ **Does not modify the array in-place.**
-
----
 
 ### **Optimized Approach (Cyclic Sort) – O(n) Time, O(1) Space**
 
@@ -100,8 +94,6 @@ def findDuplicates(nums: list[int]) -> list[int]:
 - **Uses no extra space.**
 - **Modifies the input array in-place.**
 
----
-
 ### **2. First Missing Positive**
 
 💡 **Problem:** Given an unsorted integer array `nums`, return the **smallest missing positive integer**.
@@ -126,8 +118,6 @@ def firstMissingPositive(nums: list[int]) -> int:
 ✅ **Correct, but slow (O(n log n)).**
 
 ❌ **Extra space if using a set.**
-
----
 
 ### **Optimized Approach (Cyclic Sort) – O(n) Time, O(1) Space**
 
@@ -162,8 +152,6 @@ def firstMissingPositive(nums: list[int]) -> int:
 - **O(n) time complexity is optimal.**
 - **Uses no extra space.**
 - **Modifies input array in-place.**
-
----
 
 ## **Key Takeaways**
 

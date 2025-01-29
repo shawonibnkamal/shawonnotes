@@ -25,8 +25,6 @@ The **Fast & Slow Pointers** (also known as the **Tortoise and Hare**) technique
 - The fast pointer moves **twice as fast** as the slow pointer.
 - If a cycle exists, the fast pointer will eventually **catch up** to the slow pointer.
 
----
-
 ## **Grind 75 Problems**
 
 The **Fast & Slow Pointers** technique is essential for solving the following **Grind 75** problems:
@@ -35,8 +33,6 @@ The **Fast & Slow Pointers** technique is essential for solving the following **
 2. **Find Duplicate Number** (LeetCode #287)
 
 Below, we explore these problems, along with different solution approaches and trade-offs.
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -64,8 +60,6 @@ def hasCycle(head: ListNode) -> bool:
     return False
 ```
 
----
-
 ### **Optimized Approach (Floyd’s Cycle Detection) – O(1) Space**
 
 - Use **fast and slow pointers**.
@@ -91,8 +85,6 @@ def hasCycle(head: ListNode) -> bool:
 - **Floyd’s Algorithm is optimal (O(1) space)** but requires careful pointer movement.
 - **Hash Set method is easier to understand** but requires **O(n) extra space**.
 
----
-
 ### **2. Find Duplicate Number**
 
 💡 **Problem:** Given an array `nums` with `n + 1` integers where each number is in the range `[1, n]`, find the duplicate number **without modifying the array** and using only **O(1) extra space**.
@@ -114,8 +106,6 @@ def findDuplicate(nums: list[int]) -> int:
     return -1
 ```
 
----
-
 ### **Better Approach (Using Hash Set) – O(n) Space**
 
 - Use a **set** to track visited numbers.
@@ -133,8 +123,6 @@ def findDuplicate(nums: list[int]) -> int:
         seen.add(num)
     return -1
 ```
-
----
 
 ### **Optimized Approach (Floyd’s Cycle Detection) – O(1) Space**
 
@@ -175,8 +163,6 @@ def findDuplicate(nums: list[int]) -> int:
 
 - **Floyd’s Cycle Detection is O(n) time, O(1) space** (optimal).
 - **Hash Set method is simpler but uses O(n) extra space**.
-
----
 
 ## **Key Takeaways**
 

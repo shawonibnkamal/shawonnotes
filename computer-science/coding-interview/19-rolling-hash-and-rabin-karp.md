@@ -36,8 +36,6 @@ Uses **rolling hash** for **fast substring matching**:
 3. If hashes match, **compare characters to confirm** (to avoid false positives).
 4. Slide the window and update the hash in **O(1)**.
 
----
-
 ## **Example Problems and Solutions**
 
 ### **1. Repeated DNA Sequences (Medium)**
@@ -88,8 +86,6 @@ print(findRepeatedDnaSequences(s))  # Output: ["AAAAACCCCC", "CCCCCAAAAA"]
 ✅ **Memory-efficient hashing** instead of storing all substrings.
 
 ⚠️ **Potential hash collisions** (rare but possible).
-
----
 
 ### **2. Substring with Concatenation of All Words (Hard)**
 
@@ -149,8 +145,6 @@ print(findSubstring(s, words))  # Output: [0, 9]
 
 ⚠️ **Does not use rolling hash (word-based hashmap instead)**.
 
----
-
 ## **When to Use Rolling Hash vs. Other String Matching Algorithms**
 
 | **Algorithm**                 | **Best Use Case**         | **Time Complexity** | **Notes**                          |
@@ -159,8 +153,6 @@ print(findSubstring(s, words))  # Output: [0, 9]
 | **KMP (Knuth-Morris-Pratt)**  | Exact pattern matching    | O(N + M)            | Good when no hash needed           |
 | **Rabin-Karp (Rolling Hash)** | Multiple pattern matching | O(N) (avg)          | Fast for large texts               |
 | **Aho-Corasick (Trie + BFS)** | Multi-pattern matching    | O(N + M)            | Works for dictionary-based lookups |
-
----
 
 ## **Conclusion**
 

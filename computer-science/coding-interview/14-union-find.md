@@ -10,8 +10,6 @@ Union-Find (also called Disjoint Set Union, DSU) is a powerful data structure fo
 
 Union-Find provides nearly **O(1) (amortized)** time complexity for key operations when optimized using **path compression** and **union by rank/size**.
 
----
-
 ### **Core Operations**
 
 Union-Find supports two main operations:
@@ -25,8 +23,6 @@ Union-Find supports two main operations:
 - **Union by Rank/Size**: Ensures smaller trees attach to larger ones, keeping the structure balanced.
 
 With both optimizations, Union-Find operates in **O(α(N))**, where **α(N)** (inverse Ackermann function) is **almost constant** for practical inputs.
-
----
 
 ### **Example Problems and Solutions**
 
@@ -87,8 +83,6 @@ print(findCircleNum(isConnected))  # Output: 2
 - **Better than DFS/BFS** for larger graphs since it avoids recursion depth issues.
 - **Nearly O(1) operations** with optimizations, making it highly efficient.
 
----
-
 ### **2. Redundant Connection (Medium)**
 
 **Problem:** Given a tree (graph with `n` nodes and `n-1` edges) with one extra edge, find the **redundant** edge that creates a cycle.
@@ -120,8 +114,6 @@ print(findRedundantConnection(edges))  # Output: [2,3]
 
 - **More efficient than DFS/BFS** for cycle detection in undirected graphs.
 - **Scales well** for large graphs, as opposed to an adjacency list approach.
-
----
 
 ### **3. Accounts Merge (Hard)**
 
@@ -170,8 +162,6 @@ print(accountsMerge(accounts))
 - **Faster than DFS-based merging** for large datasets.
 - **Efficient for millions of emails**, avoiding repeated DFS traversals.
 
----
-
 ### **When to Use Union-Find**
 
 | **Problem Type**                    | **Union-Find?** | **Why?**                                         |
@@ -181,8 +171,6 @@ print(accountsMerge(accounts))
 | Cycle Detection (Directed Graphs)   | ❌ No           | Use **DFS** or **Kahn’s Algorithm** instead.     |
 | Kruskal’s Algorithm (MST)           | ✅ Yes          | Quickly processes edge unions.                   |
 | Path Queries (Dynamic Graph)        | ✅ Yes          | Answers connectivity in **O(1) amortized time**. |
-
----
 
 ### **Conclusion**
 

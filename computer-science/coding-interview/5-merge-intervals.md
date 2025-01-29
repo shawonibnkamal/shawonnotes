@@ -22,8 +22,6 @@ The **Merge Intervals** pattern is useful when dealing with **overlapping interv
 
 🔹 **Heap (Priority Queue) can optimize counting active intervals** (used in scheduling problems).
 
----
-
 ## **Grind 75 Problems**
 
 The **Merge Intervals** technique is essential for solving the following **Grind 75** problems:
@@ -32,8 +30,6 @@ The **Merge Intervals** technique is essential for solving the following **Grind
 2. **Meeting Rooms II** (LeetCode #253)
 
 Below, we explore these problems, different solution approaches, and trade-offs.
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -60,8 +56,6 @@ def merge(intervals: list[list[int]]) -> list[list[int]]:
 ```
 
 ❌ **Not efficient for large inputs**.
-
----
 
 ### **Optimized Approach (Sorting & Merging) – O(n log n) Time, O(n) Space**
 
@@ -96,8 +90,6 @@ def merge(intervals: list[list[int]]) -> list[list[int]]:
 - Sorting is **O(n log n)**, but merging is **O(n)**, making this approach **efficient**.
 - **Modifies input** in-place, which can be useful but requires caution.
 
----
-
 ### **2. Meeting Rooms II**
 
 💡 **Problem:** Given an array of meeting time intervals, return the **minimum number of conference rooms** required.
@@ -123,8 +115,6 @@ def minMeetingRooms(intervals: list[list[int]]) -> int:
 ```
 
 ❌ **Too slow for large inputs**.
-
----
 
 ### **Optimized Approach (Sorting + Min Heap) – O(n log n) Time, O(n) Space**
 
@@ -162,8 +152,6 @@ def minMeetingRooms(intervals: list[list[int]]) -> int:
 
 - Sorting is **O(n log n)**, but heap operations are **O(log n)** per interval, making this approach **efficient**.
 - **Heap keeps track of active meetings** in the smallest amount of space possible.
-
----
 
 ## **Key Takeaways**
 

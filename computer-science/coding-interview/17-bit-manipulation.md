@@ -18,16 +18,12 @@ Bit manipulation involves directly manipulating bits (the 0s and 1s) that make u
 - To reduce space or time complexity, especially in problems that involve checking subsets, counting bits, or performing bitwise arithmetic.
 - When dealing with large datasets where other methods may be too slow or inefficient.
 
----
-
 ## **Grind 75 Problems**
 
 Here are the **Grind 75** problems that make use of bit manipulation techniques:
 
 1. **Single Number**
 2. **Reverse Bits**
-
----
 
 ## **Solutions & Trade-offs**
 
@@ -63,8 +59,6 @@ def singleNumber(nums):
 - **XOR approach:** This approach is highly efficient in terms of time and space complexity. It is simple and works perfectly for this type of problem.
 - **Set-based approach:** A more naive approach would involve using a set to store the numbers that have been seen and check for duplicates. However, this solution would have O(n) time complexity with O(n) space complexity, which is less efficient compared to the XOR approach.
 
----
-
 ### **2. Reverse Bits**
 
 💡 **Problem:** Reverse bits of a given 32-bit unsigned integer.
@@ -92,8 +86,6 @@ def reverseBits(n):
 - **Bit shifting approach:** This is the most efficient approach for reversing bits because it operates in constant time (O(1)) and space (O(1)). It also doesn't require additional space for storing the binary representation or performing unnecessary calculations.
 - **Set-based approach:** Another method might involve converting the number to binary and reversing the string representation, but this is less efficient in terms of both time and space, and it involves additional steps like converting back to an integer.
 
----
-
 ## **XOR vs. Set-based Approach**
 
 - **XOR** is a powerful operation for problems where elements appear in pairs or need to be canceled out. It offers optimal time and space complexity (O(n) and O(1), respectively) and is often the best choice for problems like finding the single number or detecting duplicates.
@@ -108,8 +100,6 @@ def reverseBits(n):
 
 - When dealing with problems that don't have the properties that make XOR efficient (e.g., problems where you need to track all unique elements or don't have a clear cancellation property).
 - Set-based solutions are easier to understand and can be helpful for simpler problems or when learning bit manipulation concepts.
-
----
 
 ## **Summary**
 

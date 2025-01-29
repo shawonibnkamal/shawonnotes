@@ -17,8 +17,6 @@ They are particularly useful for:
 | **Fenwick Tree (BIT)** | O(log N)             | O(log N)            | O(N)             |
 | **Segment Tree**       | O(log N)             | O(log N)            | O(2N)            |
 
----
-
 ### **Fenwick Tree (Binary Indexed Tree - BIT)**
 
 A **Fenwick Tree** efficiently supports **prefix sum queries** and **point updates** in **O(log N)** time using bitwise operations.
@@ -68,8 +66,6 @@ print(fenwick.range_sum(1, 2))  # Output: 4 (1 + 3)
 ✅ **Fast updates and queries in O(log N)**.
 
 ⚠️ **Cannot efficiently handle range updates (use Segment Tree instead)**.
-
----
 
 ### **Segment Tree**
 
@@ -139,8 +135,6 @@ print(seg_tree.query(0, 2))  # Output: 8 (1 + 2 + 5)
 
 ⚠️ **Takes more space (2N instead of N for Fenwick Tree).**
 
----
-
 ### **When to Use Fenwick Tree vs. Segment Tree**
 
 | **Use Case**                           | **Fenwick Tree** | **Segment Tree**      |
@@ -150,8 +144,6 @@ print(seg_tree.query(0, 2))  # Output: 8 (1 + 2 + 5)
 | **Range min/max/GCD queries**          | ❌ No            | ✅ Best Choice        |
 | **Range updates (lazy propagation)**   | ❌ No            | ✅ Yes                |
 | **Space efficiency**                   | ✅ O(N)          | ❌ O(2N)              |
-
----
 
 ### **Example Problem: Range Sum Query - Mutable**
 
@@ -195,8 +187,6 @@ print(numArray.sumRange(0, 2))  # Output: 8
 ✅ **Faster than brute force**.
 
 ⚠️ **Fenwick Tree works well for sum queries but not min/max queries**.
-
----
 
 ### **Conclusion**
 

@@ -20,8 +20,6 @@ When you're faced with a coding problem in an interview, the key is not just to 
    - **Test Cases:** After writing the code, run it with multiple test cases to ensure its correctness. Test edge cases, and make sure the solution handles large inputs efficiently.
    - **Ask for Feedback:** Once you've completed your solution, ask the interviewer for feedback. See if there's a different approach they would recommend, or if you could optimize the solution further.
 
----
-
 ## **Communicating During an Interview**
 
 Effective communication is a critical aspect of any interview, especially when you're working through a problem. Here’s how to communicate well during your coding interview:
@@ -38,8 +36,6 @@ Effective communication is a critical aspect of any interview, especially when y
 4. **Stay Calm and Positive:**
    - **Don’t Panic:** If you get stuck, don’t panic. Pause, take a breath, and try to approach the problem from a different angle. The interviewer is often more interested in seeing how you handle challenges than whether you solve the problem on your first try.
    - **Stay Positive:** Even if you don’t immediately know the answer, express enthusiasm for solving the problem. A positive attitude shows resilience and problem-solving skills.
-
----
 
 ## **Debugging Efficiently**
 
@@ -60,8 +56,6 @@ Debugging is an essential skill in coding interviews. Here’s how to debug effe
 5. **Ask for Help if Needed:**
    - **Don’t Hesitate to Ask:** If you’re stuck, don’t be afraid to ask the interviewer for a hint. It’s better to ask for a nudge in the right direction than to waste too much time in frustration.
 
----
-
 ## **Common Pitfalls**
 
 1. **Misunderstanding the Problem:**
@@ -79,8 +73,6 @@ Debugging is an essential skill in coding interviews. Here’s how to debug effe
 5. **Failing to Handle Time Pressure:**
    - **Panic Under Time Constraints:** Coding interviews often come with a time limit. Stay calm, and don’t rush. Focus on writing correct code first, then optimize if you have time.
    - **Inability to Manage Time Efficiently:** Allocate time for each part of the interview—understanding the problem, planning your solution, coding, testing, and debugging. Don’t spend too much time on any single part.
-
----
 
 ## **Summary**
 
@@ -143,8 +135,6 @@ As you approach your coding interview, it’s essential to prepare effectively a
 - **Stay Calm and Positive:** Remember that the interviewer is not only looking for a correct solution but also for how you approach problems. If you get stuck, stay calm, work through the problem, and demonstrate your problem-solving process.
 - **Clarify Before Coding:** Make sure you fully understand the problem and the requirements before diving into coding. Don't hesitate to ask clarifying questions.
 
----
-
 ## **Recommended Resources**
 
 To further enhance your preparation, here’s a list of valuable resources that will help you refine your coding and interview skills:
@@ -193,8 +183,6 @@ To further enhance your preparation, here’s a list of valuable resources that 
 
 - **The Complete Guide to Behavioral Interviews:** A book focused on preparing you for the behavioral rounds of interviews, including questions on leadership, problem-solving, and conflict resolution.
 - **Amazon Leadership Principles:** If you’re targeting a company like Amazon, review their Leadership Principles thoroughly. Be ready to relate your past experiences to these principles.
-
----
 
 ## **Conclusion**
 
