@@ -7,11 +7,13 @@ const TABLE_HEADER = `| Content |\n`;
 const TABLE_BREAK = `| ---- |\n`;
 
 const generateIndexFile = (dirPath) => {
-  const filesAndDirs = fs.readdirSync(dirPath);
+  const filesAndDirs = fs.readdirSync(dirPath).sort((a, b) => {
+    return naturalSort(a, b);
+  });
 
   let markdownTable = BREAK;
   markdownTable += `title: ${getDisplayFileName(path.basename(dirPath))}\n`;
-  markdownTable += BREAK
+  markdownTable += BREAK;
   markdownTable += TABLE_HEADER;
   markdownTable += TABLE_BREAK;
 
@@ -37,5 +39,10 @@ const generateIndexFile = (dirPath) => {
   fs.writeFileSync(path.join(dirPath, 'index.md'), markdownTable);
 };
 
+const naturalSort = (a, b) => {
+  return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+};
+
 generateIndexFile('./igcse');
-generateIndexFile('./ial')
+generateIndexFile('./ial');
+generateIndexFile('./computer-science');

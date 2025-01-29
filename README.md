@@ -13,15 +13,13 @@ Shawon Notes is an open-source compiled study resource website for IGCSE and IAL
 
 To install the dependencies, run the following command in the terminal:
 
-```
-npm install
-```
+````
+npm install```
 
 To run the local server:
+````
 
-```
-npm run dev
-```
+npm run dev```
 
 ## How to Contribute
 
