@@ -321,6 +321,7 @@ a:hover {
 
 .footer-inside {
   background-color: #2d3033;
+  max-width: 1400px;
   width: 95%;
   margin: 0 auto 0 auto;
   padding: 50px 15px;
