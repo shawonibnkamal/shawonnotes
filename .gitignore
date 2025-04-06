@@ -3,3 +3,5 @@ node_modules
 cache
 dist
 index.md
+igcse/past-papers/**/*.md
+ial/past-papers/**/*.md
