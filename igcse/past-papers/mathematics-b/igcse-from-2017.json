@@ -1,0 +1,603 @@
+{
+  "title": "IGCSE Edexcel Mathematics B Past Papers",
+  "papers": [
+    {
+      "year": "2018 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_pef_20180822.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_pef_20180822.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_pef_20180822.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_pef_20180822.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_rms_20180822.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_rms_20180822.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_rms_20180822.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_rms_20180822.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_que_20180525.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_que_20180525.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_que_20180608.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_que_20180608.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2019 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_que_20190522.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_que_20190522.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_que_20190607.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_que_20190607.pdf",
+          "label": "Paper 02R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_pef_20190822.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_pef_20190822.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_pef_20190822.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_pef_20190822.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_rms_20190822.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_rms_20190822.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_rms_20190822.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_rms_20190822.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        }
+      ]
+    },
+    {
+      "year": "2019 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_que_20190110.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_que_20190110.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_que_20190116.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_que_20190116.pdf",
+          "label": "Paper 02R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_pef_20190307.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_pef_20190307.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_pef_20190307.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_pef_20190307.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_msc_20190307.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_msc_20190307.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_msc_20190307.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_msc_20190307.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        }
+      ]
+    },
+    {
+      "year": "2020 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_que_20201104.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_que_20201104.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_que_20201106.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_que_20201106.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2020 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01-rms-20200305.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01r-rms-20200305.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02-rms-20200305.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02r-rms-20200305.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01-que-20200305.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01r-que-20200305.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02-que-20200305.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02r-que-20200305.pdf",
+          "label": "Paper 02R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_pef_20200305.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_pef_20200305.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_pef_20200305.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_pef_20200305.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        }
+      ]
+    },
+    {
+      "year": "2021 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_que_20211103.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_que_20211105.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_pef_20210211.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_pef_20210211.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_pef_20210211.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_pef_20210211.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_msc_20210211.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_msc_20210211.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_msc_20210211.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_msc_20210211.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        }
+      ]
+    },
+    {
+      "year": "2021 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_rms_20210604.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_rms_20210604.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_que_20210421.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/Exam-materials/4MB1_02_que_20210427.pdf",
+          "label": "Paper 02 (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2021 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_pef_20210304.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_pef_20210304.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_pef_20210304.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_pef_20210304.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_msc_20210304.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_msc_20210304.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_msc_20210304.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_msc_20210304.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_que_20210304.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_que_20210304.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_que_20210304.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_que_20210304.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2022 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01-pef-20220825.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01r-pef-20220825.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02-pef-20220825.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02r-pef-20220825.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01-rms-20220825.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01r-rms-20220825.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02-rms-20220825.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02r-rms-20220825.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01-que-20220521.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01r-que-20220521.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02-que-20220627.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02r-que-20220608.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2022 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_pef_20220303.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_pef_20220303.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_pef_20220303.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_pef_20220303.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_rms_20220303.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_rms_20220303.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_rms_20220303.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_rms_20220303.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_que_20220111.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01R_que_20220111.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_que_20220118.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02R_que_20220118.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2022 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01-rms-20220224.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02-rms-20220224.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_01_pef_20220224.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4MB1_02_pef_20220224.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        }
+      ]
+    },
+    {
+      "year": "2023 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-01-que-20231114.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-02-que-20231124.pdf",
+          "label": "Paper 02 (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2023 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-01-pef-20230824.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-01r-pef-20230824.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-02-pef-20230824.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-02r-pef-20230824.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-01-rms-20230824.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-01r-rms-20230824.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-02-rms-20230824.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-02r-rms-20230824.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-01-que-20230519.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-01r-que-20230519.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-02-que-20230607.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Mathematics-B/2016/Exam-materials/4mb1-02r-que-20230607.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2023 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01-pef-20230302.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01r-pef-20230302.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02-pef-20230302.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02r-pef-20230302.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01-rms-20230302.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01r-rms-20230302.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02-rms-20230302.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02r-rms-20230302.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01-que-20230111.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-01r-que-20230111.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02-que-20230118.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/exam-materials/4mb1-02r-que-20230118.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    }
+  ]
+}

@@ -5,13 +5,19 @@
     "vitepress": "^1.0.2"
   },
   "scripts": {
-    "dev": "node ./generateIndexFiles.js && node ./generatePdfs.js && vitepress dev",
+    "dev": "node ./convertJsonToMd.js && node ./generateIndexFiles.js && node ./generatePdfs.js && vitepress dev",
     "build": "node ./generateIndexFiles.js && vitepress build",
     "preview": "vitepress preview"
   },
   "type": "module",
   "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "google-it": "^1.6.4",
     "gray-matter": "^4.0.3",
-    "md-to-pdf": "^5.2.4"
+    "md-to-pdf": "^5.2.4",
+    "openai": "^4.91.1",
+    "puppeteer": "^24.6.0",
+    "serpapi": "^2.1.0"
   }
 }

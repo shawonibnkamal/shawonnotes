@@ -1,0 +1,497 @@
+{
+  "title": "IGCSE Edexcel Chemistry Past Papers",
+  "papers": [
+    {
+      "year": "2019 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_que_20190520.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_que_20190517.pdf",
+          "label": "Paper 1CR (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_que_20190613.pdf",
+          "label": "Paper 2C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_que_20190613.pdf",
+          "label": "Paper 2CR (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_pef_20190822.pdf",
+          "label": "Paper 1C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_pef_20190822.pdf",
+          "label": "Paper 1CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_pef_20190822.pdf",
+          "label": "Paper 2C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_pef_20190822.pdf",
+          "label": "Paper 2CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1-1C-msc-20190822-V2.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_rms_20190822.pdf",
+          "label": "Paper 1CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_rms_20190822.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_rms_20190822.pdf",
+          "label": "Paper 2CR (Mark Scheme)"
+        }
+      ]
+    },
+    {
+      "year": "2020 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_que_20201111.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_que_20201111.pdf",
+          "label": "Paper 1CR (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_que_20201121.pdf",
+          "label": "Paper 2C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_que_20201121.pdf",
+          "label": "Paper 2CR (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2020 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_pef_20200305.pdf",
+          "label": "Paper 1C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_pef_20200305.pdf",
+          "label": "Paper 1CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_pef_20200305.pdf",
+          "label": "Paper 2C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_pef_20200305.pdf",
+          "label": "Paper 2CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_rms_20200305.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_rms_20200305.pdf",
+          "label": "Paper 1CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_rms_20200305.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_rms_20200305.pdf",
+          "label": "Paper 2CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_que_20200305.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_que_20200305-.pdf",
+          "label": "Paper 1CR (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_que_20200305.pdf",
+          "label": "Paper 2C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_que_20200305.pdf",
+          "label": "Paper 2CR (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2021 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_que_20211110.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_que_20211120.pdf",
+          "label": "Paper 2C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_pef_20210211.pdf",
+          "label": "Paper 1C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_pef_20210211.pdf",
+          "label": "Paper 1CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_pef_20210211.pdf",
+          "label": "Paper 2C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_pef_20210211.pdf",
+          "label": "Paper 2CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_msc_20210211.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_msc_20210211.pdf",
+          "label": "Paper 1CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_msc_20210211.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_msc_20210211.pdf",
+          "label": "Paper 2CR (Mark Scheme)"
+        }
+      ]
+    },
+    {
+      "year": "2021 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_rms_20210604.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_rms_20210604.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_que_20210428.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/Exam-materials/4CH1_2C_que_20210429.pdf",
+          "label": "Paper 2C (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2021 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_pef_20210304.pdf",
+          "label": "Paper 1C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_pef_20210304.pdf",
+          "label": "Paper 1CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_pef_20210304.pdf",
+          "label": "Paper 2C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_pef_20210304.pdf",
+          "label": "Paper 2CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_msc_20210304.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_msc_20210304.pdf",
+          "label": "Paper 1CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_msc_20210304.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_msc_20210304.pdf",
+          "label": "Paper 2CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_que_20210304.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_que_20210304.pdf",
+          "label": "Paper 1CR (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_que_20210304.pdf",
+          "label": "Paper 2C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_que_20210304.pdf",
+          "label": "Paper 2CR (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2022 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1c-pef-20220825.pdf",
+          "label": "Paper 1C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1cr-pef-20220825.pdf",
+          "label": "Paper 1CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2c-pef-20220825.pdf",
+          "label": "Paper 2C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2cr-pef-20220825.pdf",
+          "label": "Paper 2CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1c-rms-20220825.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1cr-rms-20220825.pdf",
+          "label": "Paper 1CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2c-rms-20220825.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2cr-rms-20220825.pdf",
+          "label": "Paper 2CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1c-que-20220528.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1cr-que-20220528.pdf",
+          "label": "Paper 1CR (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2c-que-20220621.pdf",
+          "label": "Paper 2C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2cr-que-20220621.pdf",
+          "label": "Paper 2CR (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2022 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_pef_20220303.pdf",
+          "label": "Paper 1C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_pef_20220303.pdf",
+          "label": "Paper 1CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_pef_20220303.pdf",
+          "label": "Paper 2C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_pef_20220303.pdf",
+          "label": "Paper 2CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_rms_20220303.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_rms_20220303.pdf",
+          "label": "Paper 1CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_rms_20220303.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_rms_20220303.pdf",
+          "label": "Paper 2CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_que_20220108.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1CR_que_20220108.pdf",
+          "label": "Paper 1CR (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_que_20220118.pdf",
+          "label": "Paper 2C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2CR_que_20220118.pdf",
+          "label": "Paper 2CR (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2022 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1c-rms-20220224.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2c-rms-20220224.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_1C_pef_20220224.pdf",
+          "label": "Paper 1C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4CH1_2C_pef_20220224.pdf",
+          "label": "Paper 2C (Examiner's Report)"
+        }
+      ]
+    },
+    {
+      "year": "2023 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1c-que-20231115.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-2c-que-20231121.pdf",
+          "label": "Paper 2C (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2023 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1c-pef-20230824.pdf",
+          "label": "Paper 1C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1cr-pef-20230824.pdf",
+          "label": "Paper 1CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-2c-pef-20230824.pdf",
+          "label": "Paper 2C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-2cr-pef-20230824.pdf",
+          "label": "Paper 2CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1c-rms-20230824.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1cr-rms-20230824.pdf",
+          "label": "Paper 1CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-2c-rms-20230824.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-2cr-rms-20230824.pdf",
+          "label": "Paper 2CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1c-que-20230523.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-1cr-que-20230523.pdf",
+          "label": "Paper 1CR (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-2c-que-20230614.pdf",
+          "label": "Paper 2C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Chemistry/2017/Exam-materials/4ch1-2cr-que-20230614.pdf",
+          "label": "Paper 2CR (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2023 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1c-pef-20230302.pdf",
+          "label": "Paper 1C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1cr-pef-20230302.pdf",
+          "label": "Paper 1CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2c-pef-20230302.pdf",
+          "label": "Paper 2C (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2cr-pef-20230302.pdf",
+          "label": "Paper 2CR (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1c-rms-20230302.pdf",
+          "label": "Paper 1C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1cr-rms-20230302.pdf",
+          "label": "Paper 1CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2c-rms-20230302.pdf",
+          "label": "Paper 2C (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2cr-rms-20230302.pdf",
+          "label": "Paper 2CR (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1c-que-20230112.pdf",
+          "label": "Paper 1C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-1cr-que-20230112.pdf",
+          "label": "Paper 1CR (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2c-que-20230119.pdf",
+          "label": "Paper 2C (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/exam-materials/4ch1-2cr-que-20230119.pdf",
+          "label": "Paper 2CR (Question Paper)"
+        }
+      ]
+    }
+  ]
+}
