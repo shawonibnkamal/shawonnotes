@@ -5,8 +5,9 @@
     "vitepress": "^1.0.2"
   },
   "scripts": {
-    "dev": "node ./convertJsonToMd.js && node ./generateIndexFiles.js && node ./generatePdfs.js && vitepress dev",
-    "build": "node ./generateIndexFiles.js && vitepress build",
+    "prepare": "node ./convertJsonToMd.js && node ./generateIndexFiles.js",
+    "dev": "npm run prepare && node ./generatePdfs.js && vitepress dev",
+    "build": "npm run prepare && vitepress build",
     "preview": "vitepress preview"
   },
   "type": "module",
