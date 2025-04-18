@@ -6,7 +6,7 @@ import axios from 'axios';
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 // Directory containing the Markdown files
-const INPUT_DIR = './igcse/revision-notes';
+const INPUT_DIR = './igcse/revision-notes/chemistry';
 
 // Function to clean a Markdown file using OpenAI
 async function cleanMarkdownFile(filePath) {
@@ -60,7 +60,12 @@ ${content}
   }
 }
 
-// Function to recursively process all Markdown files in a directory
+// Add a sleep function to introduce a delay
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// Modify the processMarkdownFiles function to include a delay
 async function processMarkdownFiles(dir) {
   const files = fs.readdirSync(dir);
 
@@ -73,6 +78,9 @@ async function processMarkdownFiles(dir) {
     } else if (file.endsWith('.md')) {
       // Clean up Markdown files
       await cleanMarkdownFile(filePath);
+
+      // Introduce a delay to avoid hitting the rate limit
+      await sleep(1000); // 1-second delay
     }
   }
 }
