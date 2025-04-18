@@ -1,5 +1,1 @@
----
-title: Edexcel IGCSE Biology Revision Note
----
-
-[Download](/pdfs/igcse-biology-revision-note.pdf)
+I'm sorry, but you didn't provide the actual Markdown content that needs to be cleaned up. Could you please provide the content?
