@@ -6,7 +6,7 @@ import axios from 'axios';
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 // Directory containing the Markdown files
-const INPUT_DIR = './igcse/revision-notes/chemistry';
+const INPUT_DIR = './igcse/revision-notes/chemistry/section-5:-chemistry-in-industry';
 
 // Function to clean a Markdown file using OpenAI
 async function cleanMarkdownFile(filePath) {
@@ -25,7 +25,7 @@ You are a Markdown expert. Clean up the following Markdown file:
 7. Remove repetitive blockquote symbols ('>') and replace them with proper Markdown formatting.
 8. Use heading tags (#, ##, ###, etc.) instead of bold text for section titles where appropriate.
 
-Return the cleaned Markdown content with consistent formatting. Here is the Markdown content:
+Return only the cleaned Markdown content without any additional text or explanations. Here is the Markdown content:
 
 ${content}
 `;
@@ -34,7 +34,7 @@ ${content}
     const response = await axios.post(
       'https://api.openai.com/v1/chat/completions',
       {
-        model: 'gpt-4',
+        model: 'gpt-4o-mini',
         messages: [
           { role: 'system', content: 'You are a Markdown expert.' },
           { role: 'user', content: prompt },

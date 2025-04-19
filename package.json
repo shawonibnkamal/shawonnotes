@@ -5,8 +5,8 @@
     "vitepress": "^1.0.2"
   },
   "scripts": {
-    "prepare": "node ./convertJsonToMd.js && node ./generateIndexFiles.js",
-    "dev": "npm run prepare && node ./generatePdfs.js && vitepress dev",
+    "prepare": "node ./convertJsonToMd.js && node ./generateIndexFiles.js && node ./generatePdfs.js",
+    "dev": "vitepress dev",
     "build": "npm run prepare && vitepress build",
     "preview": "vitepress preview"
   },
@@ -16,6 +16,7 @@
     "cheerio": "^1.0.0",
     "google-it": "^1.6.4",
     "gray-matter": "^4.0.3",
+    "mathjax": "^3.2.2",
     "md-to-pdf": "^5.2.4",
     "openai": "^4.91.1",
     "puppeteer": "^24.6.0",

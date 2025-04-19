@@ -28,5 +28,28 @@ export default defineConfig({
         src: 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js',
       },
     ],
+    [
+      'script',
+      {},
+      `
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\\\(', '\\\\)']],
+          displayMath: [['$$', '$$'], ['\\\\[', '\\\\]']],
+          processEscapes: true // Allows escaping of $ for inline math
+        },
+        svg: {
+          fontCache: 'global'
+        }
+      };
+      `,
+    ],
+    [
+      'script',
+      {
+        type: 'text/javascript',
+        src: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js',
+      },
+    ],
   ],
 });
