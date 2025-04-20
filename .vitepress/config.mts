@@ -36,7 +36,7 @@ export default defineConfig({
         tex: {
           inlineMath: [['$', '$'], ['\\\\(', '\\\\)']],
           displayMath: [['$$', '$$'], ['\\\\[', '\\\\]']],
-          processEscapes: true // Allows escaping of $ for inline math
+          processEscapes: true
         },
         svg: {
           fontCache: 'global'
@@ -49,6 +49,7 @@ export default defineConfig({
       {
         type: 'text/javascript',
         src: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js',
+        defer: '',
       },
     ],
   ],

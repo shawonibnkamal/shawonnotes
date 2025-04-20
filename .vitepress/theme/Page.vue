@@ -1,9 +1,26 @@
 <script setup>
+import { onMounted, onUpdated } from 'vue';
 import { useData } from 'vitepress';
 import Navbar from './Navbar.vue';
 import BreadCrumb from './BreadCrumb.vue';
 
 const { page, frontmatter } = useData();
+
+function renderMathJax() {
+  if (window.MathJax) {
+    window.MathJax.typesetPromise().catch((err) =>
+      console.error('MathJax rendering failed:', err),
+    );
+  }
+}
+
+onMounted(() => {
+  renderMathJax();
+});
+
+onUpdated(() => {
+  renderMathJax();
+});
 </script>
 
 <template>
