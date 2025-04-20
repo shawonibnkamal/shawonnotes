@@ -7,10 +7,14 @@ import BreadCrumb from './BreadCrumb.vue';
 const { page, frontmatter } = useData();
 
 function renderMathJax() {
-  if (window.MathJax) {
-    window.MathJax.typesetPromise().catch((err) =>
-      console.error('MathJax rendering failed:', err),
-    );
+  try {
+    if (window.MathJax) {
+      window.MathJax.typesetPromise().catch((err) =>
+        console.error('MathJax rendering failed:', err),
+      );
+    }
+  } catch (e) {
+    console.error('Error while renderMathJax - ' + e);
   }
 }
 
