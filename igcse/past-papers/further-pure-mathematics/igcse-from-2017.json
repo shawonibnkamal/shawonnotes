@@ -1,4 +1,465 @@
 {
   "title": "IGCSE Edexcel Further Pure Mathematics Past Papers",
-  "papers": []
+  "papers": [
+    {
+      "year": "2019 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_pef_20190822.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_20190822.pdf",
+          "label": "Paper 01R (Unknown Type)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_pef_20190822.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_pef_20190822.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_rms_20190822.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_rms_20190822.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_rms_20190822.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_rms_20190822.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_que_20190618.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_que_20190618.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_que_20190621.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_que_20190621.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2020 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_que_20201120.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_que_20201120.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_que_20201124.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_que_20201124.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2020 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_pef_20200305.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_pef_20200305.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_pef_20200305.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_pef_20200305.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_rms_20200305.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_rms_20200305.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_rms_20200305.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_rms_20200305.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_que_20200305.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_que_20200305-.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_que_20200305-.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_que_20200305.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2021 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_que_20211207.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_que_20211207.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_pef_20210211.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_pef_20210211.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_pef_20210211.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_pef_20210211.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_msc_20210211.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_msc_20210211.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_msc_20210211.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_msc_20210211.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        }
+      ]
+    },
+    {
+      "year": "2021 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_rms_20210604.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_rms_20210604.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_que_20210427.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/Exam-materials/4PM1_02_que_20210505.pdf",
+          "label": "Paper 02 (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2022 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01-pef-20220825.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01r-pef-20220825.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02-pef-20220825.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02r-pef-20220825.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01-rms-20220825.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01r-rms-20220825.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02-rms-20220825.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02r-rms-20220825.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01-que-20220527.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01r-que-20220527.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02-que-20220618.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02r-que-20220618.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2022 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_pef_20220303.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_pef_20220303.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_pef_20220303.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_pef_20220303.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_rms_20220303.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_rms_20220303.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_rms_20220303.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_rms_20220303.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_que_20220112.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01R_que_20220112.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_que_20220115.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02R_que_20220115.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2022 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_pef_20220224.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_pef_20220224.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_01_rms_20220224.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4PM1_02_rms_20220224.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        }
+      ]
+    },
+    {
+      "year": "2023 November",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-01-que-20231101.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-02-que-20231118.pdf",
+          "label": "Paper 02 (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2023 June",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-01-pef-20230824.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-01r-pef-20230824.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-02-pef-20230824.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-02r-pef-20230824.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-01-rms-20230824.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-01r-rms-20230824.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-02-rms-20230824.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-02r-rms-20230824.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-01-que-20230527.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-01r-que-20230527.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-02-que-20230609.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Further-Pure-Mathematics/2017/Exam-materials/4pm1-02r-que-20230710.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "2023 January",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01-pef-20230302.pdf",
+          "label": "Paper 01 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01r-pef-20230302.pdf",
+          "label": "Paper 01R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02-pef-20230302.pdf",
+          "label": "Paper 02 (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02r-pef-20230302.pdf",
+          "label": "Paper 02R (Examiner's Report)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01-rms-20230302.pdf",
+          "label": "Paper 01 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01r-rms-20230302.pdf",
+          "label": "Paper 01R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02-rms-20230302.pdf",
+          "label": "Paper 02 (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02r-rms-20230302.pdf",
+          "label": "Paper 02R (Mark Scheme)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01-que-20230113.pdf",
+          "label": "Paper 01 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-01r-que-20230113.pdf",
+          "label": "Paper 01R (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02-que-20230121.pdf",
+          "label": "Paper 02 (Question Paper)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/Exam-materials/4pm1-02r-que-20230121.pdf",
+          "label": "Paper 02R (Question Paper)"
+        }
+      ]
+    },
+    {
+      "year": "Specimen Paper",
+      "links": [
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/teaching-and-learning-materials/igcse-further-pure-maths-4pm1-01-specimen-paper-ms.pdf",
+          "label": "Paper FURTHER (Unknown Type)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/teaching-and-learning-materials/igcse-further-pure-maths-4pm1-01-specimen-paper.pdf",
+          "label": "Paper FURTHER (Unknown Type)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/teaching-and-learning-materials/igcse-further-pure-maths-4pm1-02-specimen-paper-ms.pdf",
+          "label": "Paper FURTHER (Unknown Type)"
+        },
+        {
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2017/teaching-and-learning-materials/igcse-further-pure-maths-4pm1-02-specimen-paper.pdf",
+          "label": "Paper FURTHER (Unknown Type)"
+        }
+      ]
+    }
+  ]
 }
