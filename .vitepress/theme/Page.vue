@@ -34,74 +34,32 @@ const normalizePath = (path) => {
   return path;
 };
 
-function findNextRecursive(
-  items,
-  currentPath,
-  parentItems = null,
-  parentIndex = -1,
-) {
-  for (let i = 0; i < items.length; i++) {
-    const item = items[i];
-
-    // If the current page is found, return the next item
-    if (normalizePath(item.link) === currentPath) {
-      console.log('Current Page Found:', item.link);
-
-      // If the current item has nested items, dive into the first file
-      if (item.items) {
-        const firstFile = findFirstFile(item.items);
-        if (firstFile) return firstFile;
-      }
-
-      // Otherwise, return the next item in the current list
-      if (i + 1 < items.length) {
-        return items[i + 1];
-      }
-
-      // If no next item is found, go up to the parent list
-      if (parentItems && parentIndex >= 0) {
-        return findNextRecursive(parentItems, null, null, parentIndex + 1);
-      }
-
-      return null; // No next page found
-    }
-
-    // Recursively search in nested items
-    if (item.items) {
-      const next = findNextRecursive(item.items, currentPath, items, i);
-      if (next) return next;
-    }
-  }
-
-  return null; // No next page found
-}
-
-// Recursive function to find the first file in a directory
-function findFirstFile(items) {
-  for (const item of items) {
-    if (item.link) {
-      return item; // Return the first file found
-    }
-    if (item.items) {
-      const firstFile = findFirstFile(item.items);
-      if (firstFile) return firstFile;
-    }
-  }
-  return null;
-}
-
-// Compute the next page based on the sidebar
 const nextPage = computed(() => {
   const sidebar = theme.value.sidebar || [];
   const currentPath = normalizePath(
     `/${page.value.relativePath.replace(/\.md$/, '')}`,
-  ); // Normalize current path
-  console.log('Current Path:', currentPath);
-  console.log('Sidebar:', JSON.stringify(sidebar, null, 2)); // Debug the sidebar structure
+  ); // Normalize the current path
 
-  for (const group of sidebar) {
-    const next = findNextRecursive(group.items || [], currentPath);
-    if (next) return next;
+  // Flatten the sidebar into a single array of pages
+  const flatPages = [];
+  const flattenSidebar = (items) => {
+    for (const item of items) {
+      if (item.link) {
+        flatPages.push(item); // Add the page to the flat list
+      }
+      if (item.items) {
+        flattenSidebar(item.items); // Recursively flatten nested items
+      }
+    }
+  };
+  flattenSidebar(sidebar);
+
+  // Find the current page index
+  const currentIndex = flatPages.findIndex((page) => page.link === currentPath);
+
+  // Return the next page if it exists
+  if (currentIndex !== -1 && currentIndex + 1 < flatPages.length) {
+    return flatPages[currentIndex + 1];
   }
 
   return null; // No next page found
@@ -127,7 +85,6 @@ const nextPage = computed(() => {
       </div>
     </section>
 
-    <!-- Next Page Button -->
     <div v-if="nextPage" class="next-page">
       <a :href="nextPage.link" class="next-page-link">
         Next: {{ nextPage.text }}

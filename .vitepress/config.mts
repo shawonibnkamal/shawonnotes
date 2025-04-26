@@ -2,41 +2,50 @@ import { defineConfig } from 'vitepress';
 import fs from 'fs';
 import path from 'path';
 import { SidebarItem } from './types.mts';
+import getDisplayFileName from './getDisplayFileName';
 
-function generateSidebarForFolder(folderName: string, basePath = '') {
+function generateSidebarForFolder(
+  folderName: string,
+  basePath = '',
+  flatPages: SidebarItem[] = [],
+) {
   const folderPath = path.resolve(__dirname, `../${folderName}${basePath}`);
-  const files = fs.readdirSync(folderPath).sort(); // Sort files alphabetically
-  const sidebar: SidebarItem[] = [];
+  const files = fs.readdirSync(folderPath).sort((a, b) => {
+    return a.localeCompare(b);
+  });
 
   for (const file of files) {
+    if (file === 'images') continue;
+
     const fullPath = path.join(folderPath, file);
     const stat = fs.statSync(fullPath);
 
     if (stat.isDirectory()) {
-      // Recursively process subdirectories
-      const children = generateSidebarForFolder(
-        folderName,
-        `${basePath}/${file}`,
-      );
-      sidebar.push({
-        text: file, // Use the folder name as the section title
-        link: `/${folderName}${basePath}/${file}/`, // Add link for folders with index.md
-        items: children,
-      });
+      const indexPath = path.join(fullPath, 'index.md');
+      const folderLink = `/${folderName}${basePath}/${file}/`;
+      if (
+        fs.existsSync(indexPath) &&
+        !flatPages.some((page) => page.link === folderLink)
+      ) {
+        flatPages.push({
+          text: getDisplayFileName(file), // Use the folder name as the page title
+          link: folderLink, // Link to the folder
+        });
+      }
+
+      generateSidebarForFolder(folderName, `${basePath}/${file}`, flatPages);
     } else if (stat.isFile() && file.endsWith('.md')) {
-      // Add Markdown files to the sidebar
-      const isIndex = file === 'index.md';
-      sidebar.push({
-        text: isIndex ? folderName : file.replace('.md', ''), // Use folder name for index.md
-        link: `/${folderName}${basePath}${isIndex ? '' : `/${file.replace('.md', '')}`}`, // Normalize index.md links
+      if (file === 'index.md') continue;
+      flatPages.push({
+        text: getDisplayFileName(file),
+        link: `/${folderName}${basePath}${`/${file.replace('.md', '')}`}`,
       });
     }
   }
 
-  return sidebar;
+  return flatPages;
 }
 
-// Generate sidebars for the specified folders
 const sidebar = [
   {
     text: 'IGCSE',
