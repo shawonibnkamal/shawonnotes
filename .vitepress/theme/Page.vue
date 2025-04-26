@@ -33,6 +33,27 @@ const normalizePath = (path) => {
   return path;
 };
 
+const editLink = computed(() => {
+  const githubBaseUrl =
+    'https://github.com/shawonibnkamal/shawonnotes/blob/main/';
+  const relativePath = page.value.relativePath;
+
+  // Handle index files (link to the folder)
+  if (relativePath.endsWith('index.md')) {
+    const folderPath = relativePath.replace(/index\.md$/, ''); // Remove 'index.md'
+    return githubBaseUrl + folderPath;
+  }
+
+  // Handle past papers (JSON files)
+  if (relativePath.includes('past-papers')) {
+    const jsonPath = relativePath.replace(/\.md$/, '.json'); // Convert .md to .json
+    return githubBaseUrl + jsonPath;
+  }
+
+  // Default case: Assume the file exists in GitHub
+  return githubBaseUrl + relativePath;
+});
+
 const pageLinks = computed(() => {
   const sidebar = theme.value.sidebar || [];
   const currentPath = normalizePath(
@@ -103,10 +124,13 @@ const pageLinks = computed(() => {
           <div class="col-sm-8 footer-links">
             <a href="/about">About</a>
             <a
-              href="https://github.com/shawonibnkamal/shawonnotes"
+              v-if="editLink"
+              :href="editLink"
               target="_blank"
-              >Contribute to this website</a
+              rel="noopener noreferrer"
             >
+              Edit this page on GitHub
+            </a>
           </div>
 
           <div class="col-sm-4 credit">Shawon Notes &copy; 2024</div>
