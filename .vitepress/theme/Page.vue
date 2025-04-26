@@ -26,7 +26,6 @@ onUpdated(() => {
   renderMathJax();
 });
 
-// Normalize the current path to handle index.md
 const normalizePath = (path) => {
   if (path.endsWith('/index')) {
     return path.replace(/\/index$/, '/');
@@ -34,35 +33,33 @@ const normalizePath = (path) => {
   return path;
 };
 
-const nextPage = computed(() => {
+const pageLinks = computed(() => {
   const sidebar = theme.value.sidebar || [];
   const currentPath = normalizePath(
     `/${page.value.relativePath.replace(/\.md$/, '')}`,
-  ); // Normalize the current path
+  );
 
-  // Flatten the sidebar into a single array of pages
   const flatPages = [];
   const flattenSidebar = (items) => {
     for (const item of items) {
       if (item.link) {
-        flatPages.push(item); // Add the page to the flat list
+        flatPages.push(item);
       }
       if (item.items) {
-        flattenSidebar(item.items); // Recursively flatten nested items
+        flattenSidebar(item.items);
       }
     }
   };
   flattenSidebar(sidebar);
 
-  // Find the current page index
   const currentIndex = flatPages.findIndex((page) => page.link === currentPath);
+  const nextPage =
+    currentIndex !== -1 && currentIndex + 1 < flatPages.length
+      ? flatPages[currentIndex + 1]
+      : null;
+  const prevPage = currentIndex > 0 ? flatPages[currentIndex - 1] : null;
 
-  // Return the next page if it exists
-  if (currentIndex !== -1 && currentIndex + 1 < flatPages.length) {
-    return flatPages[currentIndex + 1];
-  }
-
-  return null; // No next page found
+  return { nextPage, prevPage };
 });
 </script>
 
@@ -81,15 +78,22 @@ const nextPage = computed(() => {
           <div class="vp-doc">
             <Content />
           </div>
+
+          <div class="navigation-buttons">
+            <div v-if="pageLinks.nextPage" class="prev-page">
+              <a :href="pageLinks.prevPage.link" class="prev-page-link">
+                Previous: {{ pageLinks.prevPage.text }}
+              </a>
+            </div>
+            <div v-if="pageLinks.nextPage" class="next-page">
+              <a :href="pageLinks.nextPage.link" class="next-page-link">
+                Next: {{ pageLinks.nextPage.text }}
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </section>
-
-    <div v-if="nextPage" class="next-page">
-      <a :href="nextPage.link" class="next-page-link">
-        Next: {{ nextPage.text }}
-      </a>
-    </div>
 
     <footer>
       <div class="footer-inside">
@@ -116,19 +120,43 @@ body {
   background-repeat: repeat-x;
 }
 
-.next-page {
-  margin-top: 20px;
-  text-align: right;
+.navigation-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
 }
 
+.prev-page-link,
 .next-page-link {
-  font-size: 1.2rem;
-  font-weight: bold;
-  color: #007acc;
+  display: inline-block;
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: #f9f9f9;
+  transition:
+    background-color 0.2s,
+    box-shadow 0.2s;
+}
+
+.prev-page-link:hover,
+.next-page-link:hover {
+  background-color: #eaeaea;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   text-decoration: none;
 }
 
-.next-page-link:hover {
-  text-decoration: underline;
+.prev-page-link:focus,
+.next-page-link:focus {
+  outline: 2px solid #ccc;
+}
+
+.navigation-buttons .prev-page {
+  text-align: left;
+}
+
+.navigation-buttons .next-page {
+  text-align: right;
 }
 </style>
