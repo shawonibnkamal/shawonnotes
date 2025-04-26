@@ -1,6 +1,6 @@
-## (c) The electromagnetic spectrum
+# (c) The electromagnetic spectrum
 
-**3.10 understand that light is part of a continuous electromagnetic spectrum which includes radio, microwave, infrared, visible, ultraviolet, x-ray and gamma ray radiations and that all these waves travel at the same speed in free space**
+## **3.10 understand that light is part of a continuous electromagnetic spectrum which includes radio, microwave, infrared, visible, ultraviolet, x-ray and gamma ray radiations and that all these waves travel at the same speed in free space**
 
 The electromagnetic spectrum is a continuous spectrum of waves which includes the visible spectrum.
 
@@ -9,7 +9,7 @@ The electromagnetic spectrum is a continuous spectrum of waves which includes th
 1. they all travel at speed of light in vacuum (3x10<sup>8</sup> m/s)
 1. they can all be reflected, refracted and diffracted
 
-**3.11 identify the order of the electromagnetic spectrum in terms of decreasing wavelength and increasing frequency, including the colours of the visible spectrum**
+## **3.11 identify the order of the electromagnetic spectrum in terms of decreasing wavelength and increasing frequency, including the colours of the visible spectrum**
 
 Different frequencies and wavelength differ them into different groups and consequently have different properties. Radio waves have the lowest frequency and the longest wavelength. Gamma rays have the highest frequency and the shortest wavelength.
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.101.png)
@@ -26,7 +26,7 @@ A mnemonic can help: **R**ichard **O**f **Y**ork **G**ave **B**attle **I**n **V*
 
 The EM spectrum is continuous – it is only broken upto into distinct zones for convenience. For example, the visible light spectrum is made up of an indeterminate number of colours that blend smoothly from on shade to the next.
 
-**3.12 explain some of the uses of electromagnetic radiations, including:**
+## **3.12 explain some of the uses of electromagnetic radiations, including:**
 
 **Radio waves**: It is used in communicating information. This can be speech, radio and television, music and encoded messages like computer data, navigation signals and telephone conversations. The properties that make radio waves suitable for communicating are:
 
@@ -47,7 +47,7 @@ The EM spectrum is continuous – it is only broken upto into distinct zones for
 
 **Gamma rays**: They are used to sterillise medical instruments, to kill micro-organisms so that food will keep for longer and to treat cancer using radiotherapy.
 
-**3.13 understand the detrimental effects of excessive exposure of the human body to electromagnetic waves, including:**
+## **3.13 understand the detrimental effects of excessive exposure of the human body to electromagnetic waves, including:**
 
 and describe simple protective measures against the risks.
 

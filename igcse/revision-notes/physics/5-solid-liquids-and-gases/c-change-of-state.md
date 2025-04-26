@@ -1,6 +1,6 @@
-## (c) Change of state
+# (c) Change of state
 
-**5.7 understand the changes that occur when a solid melts to form a liquid, and when a liquid evaporates or boils to form a gas**
+## **5.7 understand the changes that occur when a solid melts to form a liquid, and when a liquid evaporates or boils to form a gas**
 
 What is melting:
 
@@ -30,7 +30,7 @@ Describe the process of boiling.
 
 In liquid state the molecule move randomly around the vessel. If we give further heat, the speed of the molecules increases. If we continue giving heat, a speed reaches when the molecules take off from the liquid state and change into gaseous state. This is how all liquid changes into gas.
 
-**5.8 describe the arrangement and motion of particles in solids, liquids and gases**
+## **5.8 describe the arrangement and motion of particles in solids, liquids and gases**
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.139.png)
 

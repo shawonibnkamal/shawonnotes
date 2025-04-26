@@ -1,6 +1,6 @@
 # (b) Movement and Position
 
-**1.2 plot and interpret distance-time graphs**
+## **1.2 plot and interpret distance-time graphs**
 
 **Distance =** The change of position of an object is called distance. The diagram shows an example:
 
@@ -37,7 +37,7 @@ Some explanation of motion from graph:
 | <p>**Not moving**</p><p>![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.007.png)</p>         | <p>**Acceleration**</p><p>![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.008.png)</p>           |
 | <p>**Deceleration**</p><p>![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.009.png)</p>       |                                                                                                                  |
 
-**1.3 know and use the relationship between average speed, distance moved and time:**
+## **1.3 know and use the relationship between average speed, distance moved and time:**
 
 **average speed = distance moved /time taken**
 
@@ -57,7 +57,7 @@ Difference between speed and velocity:
 | ii. Speed can be in any direction.          | ii. Velocity is speed in particular direction.     |
 | iii. Speed is a scalar quantity.            | <p>iii. Velocity is a vector quantity.</p><p></p>  |
 
-**1.4 describe experiments to investigate the motion of everyday objects such as toy cars or tennis balls**
+## **1.4 describe experiments to investigate the motion of everyday objects such as toy cars or tennis balls**
 
 ::: details Experiment: Measuring speed using click and stopwatch
 
@@ -255,7 +255,7 @@ Thus initial velocity u = distance/time = s1/t1
 
 :::
 
-**1.5 know and use the relationship between acceleration, velocity and time:**
+## **1.5 know and use the relationship between acceleration, velocity and time:**
 
 Acceleration is the rate at which objects change their velocity. The rate of decease of velocity is called deceleration. It is just a negative acceleration. It is defined as follows:
 
@@ -271,7 +271,7 @@ This is written as an equation:
 
 where a=acceleration, v=final velocity, u=initial velocity and t=time
 
-**1.6 plot and interpret velocity-time graphs**
+## **1.6 plot and interpret velocity-time graphs**
 
 ![velocity-time graph.gif](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.019.png)
 
@@ -281,7 +281,7 @@ Some common velocity-time graphs:
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.020.png)
 
-**1.7 determine acceleration from the gradient of a velocity-time graph**
+## **1.7 determine acceleration from the gradient of a velocity-time graph**
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.021.png)
 
@@ -292,7 +292,7 @@ Acceleration  = gradient
               = 4 meter per second squared
 ```
 
-**1.8 determine the distance travelled from the area between a velocity-time graph and the time axis.**
+## **1.8 determine the distance travelled from the area between a velocity-time graph and the time axis.**
 
 Distance can be determined by finding the area under a velocity-time graph as shown below:
 

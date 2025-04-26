@@ -1,6 +1,6 @@
 # (a) Units
 
-**2.1 use the following units: ampere (A), coulomb (C), joule (J), ohm (W), second (s), volt (V), watt (W).**
+## **2.1 use the following units: ampere (A), coulomb (C), joule (J), ohm (W), second (s), volt (V), watt (W).**
 
 - Unit of current: ampere (A)
 - Unit of charge: coulomb (C)

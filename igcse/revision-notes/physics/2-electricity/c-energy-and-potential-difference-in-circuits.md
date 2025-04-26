@@ -1,6 +1,6 @@
 # (c) Energy and potential difference in circuits
 
-**2.8 explain why a series or parallel circuit is more appropriate for particular applications, including domestic lighting**
+## **2.8 explain why a series or parallel circuit is more appropriate for particular applications, including domestic lighting**
 
 Series Circuit:
 
@@ -18,7 +18,7 @@ Decorative lights are usually wired in series. Each bulb only needs a low voltag
 
 The lights in our house are wired in parallel. Each bulb can be switched on and off separately and the brightness of the bulbs does not change. If one bulb breaks or is removed, you can still use the other lights.
 
-**2.9 understand that the current in a series circuit depends on the applied voltage and the number and nature of other components**
+## **2.9 understand that the current in a series circuit depends on the applied voltage and the number and nature of other components**
 
 Series circuit: In a series circuit the current is the same in all parts. Current is not used up as it passes around a circuit.
 
@@ -38,7 +38,7 @@ As the resistance in I<sub>2</sub> is higher, the current is small.
 
 I<sub>3</sub> = I<sub>1</sub> + I<sub>2</sub> The current in a parallel circuit is shared between the branches depending on the resistance.
 
-**2.10 describe how current varies with voltage in wires, resistors, metal filament lamps and diodes, and how this can be investigated experimentally**
+## **2.10 describe how current varies with voltage in wires, resistors, metal filament lamps and diodes, and how this can be investigated experimentally**
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.075.png)
 
@@ -67,19 +67,19 @@ When switch S is closed for the readings on the ammeter and voltmeter are noted.
 
 ` `The graph in Figure is a straight line passing through the origin. This tells us that the current flowing through the wire is directly proportional to the voltage applied across its end – that is, if the voltage across the wire is doubled the current flowing through it doubles.![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.077.png)
 
-**2.11 describe the qualitative effect of changing resistance on the current in a circuit**
+## **2.11 describe the qualitative effect of changing resistance on the current in a circuit**
 
 R α 1/I
 
 Resistance is inversely proportional to current. Higher resistance means lower current and higher current means lower resistance. In other words resistance is the opposition of current. Resistance blocks charge flow.
 
-**2.12 describe the qualitative variation of resistance of LDRs with illumination and of thermistors with temperature ![http://projectshopbd.com/wp-content/uploads/2014/09/ldr-1.jpg](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.078.jpeg)**
+## **2.12 describe the qualitative variation of resistance of LDRs with illumination and of thermistors with temperature ![http://projectshopbd.com/wp-content/uploads/2014/09/ldr-1.jpg](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.078.jpeg)**
 
 **Light Dependant Resistors:** An LDR is a light dependant resistor. Its resistance changes with the intensity of light. In dark condition LDRs contain few free electrons and so have a high resistance. If however light is shone onto an LDR more electrons are freed and the resistance decreases. LDRs are often used in light sensitive circuits in devices such as photographic equipment, automatic lightning controls and burglar alarms.
 
 **Thermistor:** A thermistor is a temperature dependant resistor. It is made from a semiconducting material such as silicon or germanium. At room temperature the number of free electrons is small and so the resistance of a thermistor is large. If however if it is warmed the number of the electrons increases and its resistance decreases. Thermistors are often used in temperature-sensitive circuits in devices such as fire alarms and thermostats.![http://www.ussensor.com/sites/default/files/inrush-current-limiting-power-thermistor-lg.jpg](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.079.jpeg)
 
-**2.13 know that lamps and LEDs can be used to indicate the presence of a current in a circuit**
+## **2.13 know that lamps and LEDs can be used to indicate the presence of a current in a circuit**
 
 A light-emitting diode (LED) is a special kind of diode that glows when electricity passes through it. Most LEDs are made from a semi-conducting material called gallium arsenide phosphide.![A white LED light](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.080.jpeg)
 
@@ -87,23 +87,23 @@ LEDs can be bought in a range of colours. They can also be bought in forms that 
 
 In common with all diodes, the LED will only allow current to pass in one direction. The cathode is normally indicated by a flat side on the casing and the anode is normally indicated by a slightly longer leg. The current required to power an LED is usually around 20 mA.
 
-**2.14 know and use the relationship between voltage, current and resistance:**
+## **2.14 know and use the relationship between voltage, current and resistance:**
 
 voltage = current × resistance
 
 V = I × R
 
-**2.15 understand that current is the rate of flow of charge**
+## **2.15 understand that current is the rate of flow of charge**
 
 The size of an electric current indicates the rate at which charge flows. Charge(Q) is measured in coulombs (C). Current is measured in amperes (A). If 1 C of charge flows along a wire every second the current passing the wire is 1A.
 
-**2.16 know and use the relationship between charge, current and time:**
+## **2.16 know and use the relationship between charge, current and time:**
 
 charge = current × time
 
 Q = I × t
 
-**2.17 know that electric current in solid metallic conductors is a flow of negatively charged electrons**
+## **2.17 know that electric current in solid metallic conductors is a flow of negatively charged electrons**
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.081.png)
 
@@ -115,7 +115,7 @@ In conductors some electrons are free to drift. But the number of electrons flow
 
 Electrons/charges move from the negative terminal to positive. But when you are dealing with topics such as circuit and motors, it is still considered that current flow from positive to negative. This is called conventional current.
 
-**2.18 understand that:**
+## **2.18 understand that:**
 
 - **voltage is the energy transferred per unit charge passed**
 - **the volt is a joule per coulomb.**

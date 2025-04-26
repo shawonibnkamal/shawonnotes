@@ -1,6 +1,6 @@
-## (b) Properties of waves
+# (b) Properties of waves
 
-**3.2 understand the difference between longitudinal and transverse waves and describe experiments to show longitudinal and transverse waves in, for example, ropes, springs and water**
+## **3.2 understand the difference between longitudinal and transverse waves and describe experiments to show longitudinal and transverse waves in, for example, ropes, springs and water**
 
 Waves can transfer energy and information from one place to another without transfer of matter. Waves can be divided into two types: mechanical waves and electromagnetic waves.
 
@@ -36,7 +36,7 @@ If you push and pull the end of a slinky in a direction parallel to its axis, yo
 
 When the motor is turned on the wooden bar vibrates creating a series of ripples on the surface of water. A light placed above the tank creates pattern of the water waves on the floor. A light placed above the tank creates patterns of the water waves on the floor. By observing the patterns we can see how the water waves are behaving.
 
-**3.3 define amplitude, frequency, wavelength and period of a wave**
+## **3.3 define amplitude, frequency, wavelength and period of a wave**
 
 Amplitude: Amplitude is the maximum displacement of a part of the medium from its rest position.
 
@@ -66,25 +66,25 @@ To show the interesting effects of diffraction you need to set up continuous pla
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.099.png)
 
-**3.4 understand that waves transfer energy and information without transferring matter**
+## **3.4 understand that waves transfer energy and information without transferring matter**
 
 Waves are means of transferring energy and information from place to place. These transfers take place with no matter being transferred. Mobile phones, satellites etc. rely on waves.
 
 Example: If you drop a large stone into a pond, waves will be produced. The waves spread out from the point of impact, carrying to all parts of the pond. But the water in the pond does not move from the centre to the edges.
 
-**3.5 know and use the relationship between the speed, frequency and wavelength of a wave:**
+## **3.5 know and use the relationship between the speed, frequency and wavelength of a wave:**
 
 wave speed = frequency × wavelength
 
 v = f× λ
 
-**3.6use the relationship between frequency and time period**
+## **3.6use the relationship between frequency and time period**
 
 frequency,  f in hertz= 1time period, T (in seconds)
 
 ` `f= 1T
 
-**3.7 use the above relationships in different contexts including sound waves and electromagnetic waves**
+## **3.7 use the above relationships in different contexts including sound waves and electromagnetic waves**
 
 As all wave share properties the above relations can be used for any type of wave.
 
@@ -100,11 +100,11 @@ Ans: v=fλ
 = 250 Hz x 0.02s
 `              `= 5 m/s
 
-**3.8 understand that waves can be diffracted when they pass an edge**
+## **3.8 understand that waves can be diffracted when they pass an edge**
 
 Diffraction is the slight bending of waves as it passes around the edge of an object. The amount of bending depends on the relative size of the wavelength of light to the size of the opening. If the opening is much larger than the wave's wavelength, the bending will be almost unnoticeable. However, if the two are closer in size or equal, the amount of bending is considerable.
 
-**3.9 understand that waves can be diffracted through gaps, and that the extent of diffraction depends on the wavelength and the physical dimension of the gap.**
+## **3.9 understand that waves can be diffracted through gaps, and that the extent of diffraction depends on the wavelength and the physical dimension of the gap.**
 
 ![diffraction.gif](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.100.png)
 

@@ -1,12 +1,12 @@
 # (d) Electric charge
 
-2.19 identify common materials which are electrical conductors or insulators, including metals and plastics
+## 2.19 identify common materials which are electrical conductors or insulators, including metals and plastics
 
 Conductors: Electrical conductors are materials that allow current to pass through them. Conductors have free electron diffusion to pass current. Metals like copper, silver, aluminium havefree electrons and can conduct electricity.
 
 Insulators: Insulators do not conduct electricity because they don’t have free electrons. Examples of insulators are plastics, rubber, wood etc.
 
-**2.20 describe experiments to investigate how insulating materials can be charged by friction**
+## **2.20 describe experiments to investigate how insulating materials can be charged by friction**
 
 ### Experiment: To investigate how insulating materials can be charged by friction
 
@@ -25,7 +25,7 @@ Observation
 1. You will notice that the leaf below will deflect.
 1. This will prove that charge can be produced by friction.
 
-**2.21 explain that positive and negative electrostatic charges are produced on materials by the loss and gain of electrons**
+## **2.21 explain that positive and negative electrostatic charges are produced on materials by the loss and gain of electrons**
 
 If two materials are rubbed together electrons will be transferred. The one that gains electrons will be negatively charged and the one that losses electrons will be positively charged.
 
@@ -38,7 +38,7 @@ If two materials are rubbed together electrons will be transferred. The one that
 |  Polythene strip rubbed with woolen duster  |     duster      |    Polythene    |
 | Cellulose acetate rubbed with woolen duster |     acetate     |     duster      |
 
-**2.22 understand that there are forces of attraction between unlike charges and forces of repulsion between like charges**
+## **2.22 understand that there are forces of attraction between unlike charges and forces of repulsion between like charges**
 
 Similar charges repel each other and unlike charges attract each other. The attraction and repulsion occurs because of electrostatic force.
 
@@ -109,11 +109,11 @@ After the balloon has been charged with static electricity, but before it is bro
 
 As the negatively charged balloon is bought closer to the wall some of the negative electrons are repelled from the surface of the wall. This gives the surface of the wall a slight positive charge that attracts the negatively charged balloon.
 
-**2.23 explain electrostatic phenomena in terms of the movement of electrons**
+## **2.23 explain electrostatic phenomena in terms of the movement of electrons**
 
 An electrostatic phenomenon is an event where electricity has a special effect, for example a static shock. Electrons move from one material to another. Materials with a negative charge will look for some way to earth like clouds through lightning.
 
-**2.24 explain the potential dangers of electrostatic charges, eg when fuelling aircraft and tankers**
+## **2.24 explain the potential dangers of electrostatic charges, eg when fuelling aircraft and tankers**
 
 In some situations the presence of static electricity can be a disadvantage.
 
@@ -122,7 +122,7 @@ In some situations the presence of static electricity can be a disadvantage.
 - Our clothing can, under certain circumstances become charged with static electricity. When we remove the clothes there is the possibility of receiving a small electric shock as the charges escape to the earth.
 - Workers handing electronic components must take care not to become charged by static as this can easily destroy expensive components. They wear earthing straps and work on earthed metal benches to prevent this.
 
-**2.25 explain some uses of electrostatic charges, eg in photocopiers and inkjet printers.**
+## **2.25 explain some uses of electrostatic charges, eg in photocopiers and inkjet printers.**
 
 Electrostatic charges can be used in electrostatic paint spraying, inkjet printers, photocopiers, electrostatic precipitators etc.
 

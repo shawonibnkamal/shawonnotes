@@ -1,6 +1,6 @@
 # (b) Mains electricity
 
-**2.2 understand and identify the hazards of electricity including frayed cables, long cables, damaged plugs, water around sockets, and pushing metal objects into sockets**
+## **2.2 understand and identify the hazards of electricity including frayed cables, long cables, damaged plugs, water around sockets, and pushing metal objects into sockets**
 
 Mains electricity: The source of electricity in our houses is called mains electricity.
 
@@ -24,7 +24,7 @@ Electricity is very useful, but it can be dangerous if it is not used safely. Th
 - Water around electric sockets or mains operated devices.
 - Pushing metal objects into the mains sockets – usually only a problem with very young children, solved by using socket covers.
 
-**2.3 understand the uses of insulation, double insulation, earthing, fuses and circuit breakers in a range of domestic appliances**
+## **2.3 understand the uses of insulation, double insulation, earthing, fuses and circuit breakers in a range of domestic appliances**
 
 Insulation: Some appliances are cased with insulators like plastic rather than metal to prevent user from receiving shock. This casing is called insulation.
 
@@ -50,11 +50,11 @@ Switches: Switches in main circuit should always be included in the live wire so
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.069.png)
 
-**2.4 understand that a current in a resistor results in the electrical transfer of energy and an increase in temperature, and how this can be used in a variety of domestic contexts**
+## **2.4 understand that a current in a resistor results in the electrical transfer of energy and an increase in temperature, and how this can be used in a variety of domestic contexts**
 
 Normal wiring in the house are said to have low resistance and the current pass through them easily. Heating elements like nichrome wire have high resistance. When current flows through them current cannot pass, and the energy is transferred to heat energy and the element heats up.It is also used in the lights – normal light bulbs have a very thin filament which gets so hot when current passes through it that it glows white. We use the heating effect of current in electric kettle, iron, filament lamps, fan heaters, hair dryers etc.
 
-**2.5 know and use the relationship: power = current × voltage, P = I × V and apply the relationship to the selection of appropriate fuses**
+## **2.5 know and use the relationship: power = current × voltage, P = I × V and apply the relationship to the selection of appropriate fuses**
 
 Power is amount that represents how much voltage or energy is converted every second. It is calculated using this equation:
 
@@ -67,7 +67,7 @@ Fuses in plugs are made in standard ratings. The most common are 3A, 5A and 13A.
 - if the device works at 3A, use a 5A fuse
 - if the device works at 10A, use a 13A fuse
 
-**2.6 use the relationship between energy transferred, current, voltage and time:**
+## **2.6 use the relationship between energy transferred, current, voltage and time:**
 
 Energy transferred = current × voltage × time
 
@@ -83,7 +83,7 @@ Since, P = I x V
 E = I x V x t
 ```
 
-**2.7 understand the difference between mains electricity being alternating current (a.c.) and direct current (d.c.) being supplied by a cell or battery.**
+## **2.7 understand the difference between mains electricity being alternating current (a.c.) and direct current (d.c.) being supplied by a cell or battery.**
 
 **Alternating current:**
 

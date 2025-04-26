@@ -1,6 +1,6 @@
-## (a) Units
+# (a) Units
 
-**3.1 use the following units: degree (°), hertz (Hz), metre (m), metre/second (m/s), second (s).**
+## **3.1 use the following units: degree (°), hertz (Hz), metre (m), metre/second (m/s), second (s).**
 
 Unit of an angle: degree (<sup>o</sup>)
 Unit of frequency: hertz (Hz)

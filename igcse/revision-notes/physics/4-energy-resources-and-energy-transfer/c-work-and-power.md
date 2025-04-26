@@ -1,6 +1,6 @@
-## (c) Work and power
+# (c) Work and power
 
-**4.9 know and use the relationship between work, force and distance moved in the direction of the force:**
+## **4.9 know and use the relationship between work, force and distance moved in the direction of the force:**
 
 Energy is the ability to do work.
 
@@ -10,11 +10,11 @@ W=F x d
 
 1J of work is done when a force of 1N is applied through a distance of 1m in the direction of the force.
 
-**4.10 understand that work done is equal to energy transferred**
+## **4.10 understand that work done is equal to energy transferred**
 
 Doing work means the energy is either decreased or increased. If a weight of 500N is raised 2m, 1000J of work is done. That means energy is increased by 1000J. Therefore work done is equal to energy transferred.
 
-**4.11 know and use the relationship:**
+## **4.11 know and use the relationship:**
 
 The energy that the weight has gained is called gravitational potential energy.
 
@@ -22,13 +22,13 @@ gravitional potential energy=mass × gravitional acceleration × height
 
 G.P.E=mgh
 
-**4.12 know and use the relationship:**
+## **4.12 know and use the relationship:**
 
 <i>Kinetic energy = ½ x mass x velocity<sup>2</sup></i>
 
 <i>K.E = ½ x m x v<sup>2</sup></i>
 
-**4.13 understand how conservation of energy produces a link between gravitational potential energy, kinetic energy and work**
+## **4.13 understand how conservation of energy produces a link between gravitational potential energy, kinetic energy and work**
 
 An object of mass,m weights mxg newtons. So the force,F, needed to lift is mg. If we raise the object through a distance h, the work done on the object is mgh. This is also the gain of GPE.
 
@@ -36,11 +36,11 @@ When the object is raised, it falls-it loses GPE but gains KE. At the end of the
 
 work done lifting object=gain in GPE=gain in KE of the object just before hitting the ground
 
-**4.14 describe power as the rate of transfer of energy or the rate of doing work**
+## **4.14 describe power as the rate of transfer of energy or the rate of doing work**
 
 Power is the rate of transferring energy or doing work. Its measures how fast energy is transferred. The Watt is the rate of transfer of energy of one joule per second.
 
-**4.15 use the relationship between power, work done (energy transferred) and time taken:**
+## **4.15 use the relationship between power, work done (energy transferred) and time taken:**
 
 power=work donetime
 
@@ -48,7 +48,7 @@ P=Wt
 
 ## (d) Energy resources and electricity generation
 
-**4.16 describe the energy transfers involved in generating electricity using:**
+## **4.16 describe the energy transfers involved in generating electricity using:**
 
 - **Wind**: Winds are powered by the Sun's heat energy. Wind is a renewable source of energy. Wind mills have been used to grind corn and power machinery like pumps drain lowland areas. Today, wind turbines drive generators to provide electrical energy. Here, kinetic energy is transformed to electrical energy.
 - **Water:**Water is used to generate energy in three ways: Hydroelectric power, Tidal power & Wave energy. All the ways uses the same role using the movement of water(K.E.) to rotate that generator and produce electricity. In this casekinetic energy is also transformed to electrical energy.
@@ -58,7 +58,7 @@ P=Wt
 - **Fossil fuels**: Fossil fuels are natural gas, oil and coal. Those are burned which rotates the turbine in the generator to produce electricity.
 - **Nuclear power**: Nuclear fuels like uranium are used in nuclear generator. The heat produced in nuclear reaction is used to produce steam from water which rotates the turbine and produce electricity.
 
-**4.17 describe the advantages and disadvantages of methods of large- scale electricity production from various renewable and non- renewable resources.**
+## **4.17 describe the advantages and disadvantages of methods of large- scale electricity production from various renewable and non- renewable resources.**
 
 **Renewable Resources:**
 

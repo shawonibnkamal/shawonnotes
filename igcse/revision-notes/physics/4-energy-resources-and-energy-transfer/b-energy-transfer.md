@@ -1,6 +1,6 @@
-## (b) Energy transfer
+# (b) Energy transfer
 
-**4.2 describe energy transfers involving the following forms of energy: thermal (heat), light, electrical, sound, kinetic, chemical, nuclear and potential (elastic and gravitational)**
+## **4.2 describe energy transfers involving the following forms of energy: thermal (heat), light, electrical, sound, kinetic, chemical, nuclear and potential (elastic and gravitational)**
 
 Thermal energy: The energy which is released by a hot object when it cools down is called thermal energy. E.g: If we rub our hands together, kinetic energy will transform into thermal energy.
 
@@ -18,19 +18,19 @@ Nuclear energy: The energy which is released by nuclear reaction is called nucle
 
 Potential energy: The energy which is gained by changing size, shape and position of an object is called potential energy. E.g: Raise a ball 10m above ground, it will gain gravitational potential energy.
 
-**4.3 understand that energy is conserved**
+## **4.3 understand that energy is conserved**
 
 Energy is not created or destroyed in any process. It is just converted from one from type to another.
 
 Wasted energy: When we try to do things, there is some energy converted to unwanted forms. This form of energy is known as wasted energy.
 
-**4.4 know and use the relationship:**
+## **4.4 know and use the relationship:**
 
 Effeciency is the ratio of useful energy output and the total energy input.
 
 effeciency=useful energy outputtotal energy input x 100%
 
-**4.5 describe a variety of everyday and scientific devices and situations, explaining the fate of the input energy in terms of the above relationship, including their representation by Sankey diagrams**
+## **4.5 describe a variety of everyday and scientific devices and situations, explaining the fate of the input energy in terms of the above relationship, including their representation by Sankey diagrams**
 
 Whenever we are transferring energy, proportion of input energy is wasted. Like a lamp has input energy of 100J. It uses 10J to give light and the other 90J is wasted as heat.
 
@@ -44,7 +44,7 @@ In a Sankey diagram it is presented like this:
 
 ![sankey-diagram.gif](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.134.png)
 
-**4.6 describe how energy transfer may take place by conduction, convection and radiation**
+## **4.6 describe how energy transfer may take place by conduction, convection and radiation**
 
 There are three basic ways energy can transfer from place to place: conduction, convection and radiation.
 
@@ -65,7 +65,7 @@ The liquid or gas in hot areas is less dense than the liquid or gas in cold area
 
 **Radiation**: Radiation is the transfer of energy by means of wave (Infra-red). It doesn’t need any medium to flow through. It travels at the speed of light and is actually a specific part of this family of electromagnetic waves. So radiation is the continual emission of infrared waves from the surface of all bodies transmitted without the aid of medium.
 
-**4.7 explain the role of convection in everyday phenomena**
+## **4.7 explain the role of convection in everyday phenomena**
 
 **1. Household hot-water systems**
 
@@ -91,13 +91,13 @@ When the power is switched on, the water near the heating coil gets heated up, e
 
 The rotary fan inside an air-conditioner forces cool dry air out into the room. The cool air, being denser, sinks while the warm air below, being less dense, rises and is drawn into the air-conditioner where it is cooled. In this way, the air is recirculated and the temperature of the air falls to the value preset on the thermostat.
 
-**4. Refrigerators**
+## **4. Refrigerators**
 
 Refrigerators work in very much the same way as air-conditioners. The freezing unit is placed at the otp to cool the air so that the cold air, being denser, sinks while the warm air at the bottom rises. This sets up convection currents inside the cabinet which help to cool the contents inside.
 
 ![[untitled.JPG]](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.136.jpeg)
 
-**4.8 explain how insulation is used to reduce energy transfers from buildings and the human body.**
+## **4.8 explain how insulation is used to reduce energy transfers from buildings and the human body.**
 
 The bigger the difference in temperature between an object and its surroundings, the greater the rate at which heat energy is transferred. Other factors also effect the rate at which an object transfers energy by heating. These include the:
 

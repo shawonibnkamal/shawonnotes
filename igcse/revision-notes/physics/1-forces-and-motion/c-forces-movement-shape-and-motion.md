@@ -17,7 +17,7 @@ To sum up the examples, the effects that occur when a force is applied to an obj
 3. The object may change its shape
 4. The object may change its direction of movement.
 
-**1.10 identify different types of force such as gravitational or electrostatic**
+## **1.10 identify different types of force such as gravitational or electrostatic**
 
 Different sorts of Force:
 
@@ -30,7 +30,7 @@ Different sorts of Force:
 7. Tension: The pull at both ends of a stretched spring ,string, or rope.
 8. Frictional force: the force produced when two objects slide one over another is called frictional force.
 
-**1.11 distinguish between vector and scalar quantities**
+## **1.11 distinguish between vector and scalar quantities**
 
 Scalar quantities are physical quantities that have magnitude only.
 
@@ -56,7 +56,7 @@ Difference:
 |                      Changes by changing size.                      |                        Changes by changing size or direction or even both.                        |
 | Product of two scalar is a scalar i.e _scalar_ X _scalar = scalar._ | Products of two vectors can be either be scalar or vector i.e. _vector X vector = scalar/vector._ |
 
-**1.12 understand that force is a vector quantity**
+## **1.12 understand that force is a vector quantity**
 
 Force is a vector quantity due to the following reasons -
 
@@ -66,7 +66,7 @@ Force is a vector quantity due to the following reasons -
 
 E.g: Gravitational force has one direction which is downwards. Upthrust has the direction of upwards.
 
-**1.13 find the resultant force of forces that act along a line**
+## **1.13 find the resultant force of forces that act along a line**
 
 Forces which act along a straight line can be added if the forces are in the same direction or subtracted if the forces are in the opposite direction. The force that you get after adding or subtracting is called the resultant force. The resultant force is a single force that has the same effect as all the other forces combined.
 
@@ -96,7 +96,7 @@ Resultant force = 1000 – 1000
                 = 0 N (rest object)
 ```
 
-**1.14 understand that friction is a force that opposes motion**
+## **1.14 understand that friction is a force that opposes motion**
 
 Friction is the force that causes moving objects to slow down and finally stop. The kinetic energy of the moving object is converted to heat as work is done by the friction force. Friction occurs when solid objects rub against other solid object and also when objects move through fluids(liquids and gases).
 
@@ -140,7 +140,7 @@ We can increase the friction by putting some masses over the and we will see tha
 
 :::
 
-**1.15 know and use the relationship between unbalanced force, mass and acceleration:**
+## **1.15 know and use the relationship between unbalanced force, mass and acceleration:**
 
 **Balanced force:** When two or more forces acting on an object cancels each other and there is no resultant force, then the forces are called balanced force.
 
@@ -213,7 +213,7 @@ One newton is the force needed to make a mass of one kilogram accelerate at one 
 
 :::
 
-**1.16 know and use the relationship between weight, mass and g:**
+## **1.16 know and use the relationship between weight, mass and g:**
 
 Weight is the pull of earth. To calculate it, use the formula:
 
@@ -260,7 +260,7 @@ The result of this experiment gives us a value for acceleration caused by the fo
 
 :::
 
-**1.17 describe the forces acting on falling objects and explain why falling objects reach a terminal velocity**
+## **1.17 describe the forces acting on falling objects and explain why falling objects reach a terminal velocity**
 
 Terminal velocity is the steady velocity of a falling object whose drag is balanced by the weight.
 
@@ -276,7 +276,7 @@ In a free falling object two types of force acts: Drag and Weight. The size of t
 
 When a skydiver jumps from a plane at high altitude he will accelerate for a time and eventually reach terminal velocity. When she will open her parachute, this will cause a sudden increase in the drag force. At that time drag force will be higher than the weight and he will decelerate for some time. Later those forces will become equal and reach a new terminal velocity.
 
-**1.18 describe experiments to investigate the forces acting on falling objects, such as sycamore seeds or parachutes**
+## **1.18 describe experiments to investigate the forces acting on falling objects, such as sycamore seeds or parachutes**
 
 **Sycamore seeds**
 
@@ -286,7 +286,7 @@ We can measure the weight of the sycamore seeds using an electric balance. Now t
 
 When a parachute is released only the weight acts on it. We can use a force meter to determine the weight. When the parachute falls downward, air resistance acts on it in the upward direction. So the downward unbalanced force decreases. The force meter attached to the parachute gives a lower reading. As the parachute goes down the speed increases. The drag force also increases. The reading on the force meter decreases as well. A moment comes when the drag force becomes equal to the weight. In this situation the reading in the force meter becomes zero. If we want to find the air resistance at any momentum we will have to subtract the weight from the unbalanced force. This is how we can investigate the forces acting on a falling object.
 
-**1.19 describe the factors affecting vehicle stopping distance including speed, mass, road condition and reaction time**
+## **1.19 describe the factors affecting vehicle stopping distance including speed, mass, road condition and reaction time**
 
 Stopping distance: The stopping distance is the sum of Thinking distance and Braking distance.
 
@@ -308,7 +308,7 @@ The braking distance depends on the following factors -
 4. **Tyre condition**: If the tyre is new (rough), there will be less braking distance.
 5. **Braking system**: For loose braking system, the braking distance will be more.
 
-**1.20 know and use the relationship between momentum, mass and velocity:**
+## **1.20 know and use the relationship between momentum, mass and velocity:**
 
 Momentum is a quantity possessed by masses in motion (product of mass and velocity). Momentum is measure of how difficult it is to stop something that is moving. We calculate the momentum of a moving object using the formula:
 
@@ -316,7 +316,7 @@ Momentum,p (kg m/s) = mass, m(in kg) x velocity, v (in m/s)
 
 `P = m x v`
 
-**1.21 use the idea of momentum to explain safety features**
+## **1.21 use the idea of momentum to explain safety features**
 
 Objects in a car have mass, speed and direction. If the object, such as a person, is not secured in the car they will continue moving in the same direction (forward) with the same speed (the speed the car was going) when the car abruptly stops until a force acts on them.
 
@@ -334,7 +334,7 @@ Cars are now designed with various safety features that increase the time over w
 
 Many cars are now fitted with air bags to reduce the forces acting on passengers. The purpose of an airbag is to help the passenger in the car reduce their speed in collision without getting injured. An airbag provides a force over time. This is known as impulse. The more time the force has to act on the passenger to slow them down, the less damage caused to the passenger.
 
-**1.22 use the conservation of momentum to calculate the mass, velocity or momentum of objects**
+## **1.22 use the conservation of momentum to calculate the mass, velocity or momentum of objects**
 
 If a moving object hits another slow or stationary object, it will result an equal force to both of the objects (according to Newton’s Third Law). That forces act in opposite directions and obviously for the same amount of time. This means the F x t for each is the same size. The moving object lost its momentum while the stationary object gained its momentum. So it is balanced. The total moment of the two objects is unchanged before and after the collision- _momentum is conserved_.
 
@@ -372,7 +372,7 @@ Law of conservation of momentum is only verified if two forces act on it - actio
 
 Rocket motors use the principle of conservation of momentum to propel spacecraft through space. They produce a continuous, controlled explosion that forces large amount of fast-moving gases (produced by fuel burning) out of the back of the rocket. The spacecraft gains an equal amount of momentum in the opposite direction to that of the moving exhaust gases and moves upward with a very high speed.
 
-**1.23 use the relationship between force, change in momentum and time taken:**
+## **1.23 use the relationship between force, change in momentum and time taken:**
 
 Initial momentum of object = mu
 
@@ -389,7 +389,7 @@ Force = Rate of increase of momentum
 
 Force = Change in momentum / time
 
-**1.24 demonstrate an understanding of Newton’s third law**
+## **1.24 demonstrate an understanding of Newton’s third law**
 
 Newton’s thirds law: “For every action there is an equal and opposite reaction.”
 
@@ -403,7 +403,7 @@ Newton’s third law states four characteristics of forces:
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.043.png)
 
-**1.25 know and use the relationship between the moment of a force and its distance from the pivot:**
+## **1.25 know and use the relationship between the moment of a force and its distance from the pivot:**
 
 ```
 moment = force * perpendicular distance from the pivot
@@ -425,7 +425,7 @@ When a force causes an object to turn in an anti-clockwise direction, it is call
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.046.png)
 
-**1.26 recall that the weight of a body acts through its centre of gravity**
+## **1.26 recall that the weight of a body acts through its centre of gravity**
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.047.png)
 
@@ -472,7 +472,7 @@ Balance the object keeping over a scale and draw the line of contact. Balance th
 
 :::
 
-**1.27 know and use the principle of moments for a simple system of parallel forces acting in one plane**
+## **1.27 know and use the principle of moments for a simple system of parallel forces acting in one plane**
 
 ![http://image.slidesharecdn.com/turning-effect-of-forces3233/95/turning-effect-of-forces-15-728.jpg?cb=1190070139](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.051.jpeg)**Solving Problems related to Principle of Moments**
 
@@ -592,7 +592,7 @@ So the principle of moment is verified.
 
 :::
 
-**1.28 understand that the upward forces on a light beam, supported at its ends, vary with the position of a heavy object placed on the beam**
+## **1.28 understand that the upward forces on a light beam, supported at its ends, vary with the position of a heavy object placed on the beam**
 
 ![Forces on beam.png](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.059.png)
 
@@ -608,7 +608,7 @@ x + y = 400x * ¼ = y * ¾x * ¼ = (400 - x) * ¾x = 3(400 - x)x = 1200 – 3x4x
 y = 400 – x = 400 – 300 = 100
 ```
 
-**1.29 describe experiments to investigate how extension varies with applied force for helical springs, metal wires and rubber bands**
+## **1.29 describe experiments to investigate how extension varies with applied force for helical springs, metal wires and rubber bands**
 
 ::: details Experiment: Investigating extension with applied force in spring
 
@@ -647,7 +647,7 @@ Observation with metal wire:
 
 :::
 
-**1.30 understand that the initial linear region of a force-extension graph is associated with Hooke’s law**
+## **1.30 understand that the initial linear region of a force-extension graph is associated with Hooke’s law**
 
 Hooke’s law, “Within the elastic limit, extension is directly proportional to the load i.e. e α f”
 
@@ -659,7 +659,7 @@ Hooke’s Law only applies if you do not stretch a spring to far. At a point the
 
 ![](../images/Aspose.Words.c1b9a4dc-6c4d-413f-80a3-1828319749d9.065.png)
 
-**1.31 describe elastic behaviour as the ability of a material to recover its original shape after the forces causing deformation have been removed.**
+## **1.31 describe elastic behaviour as the ability of a material to recover its original shape after the forces causing deformation have been removed.**
 
 Objects showing elastic behaviour has the ability to return to its original shape after the forces causing its shape are removed. This property is called elasticity. Examples of objects showing elastic behaviour are coiled springs.
 
