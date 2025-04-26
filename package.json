@@ -5,7 +5,7 @@
     "vitepress": "^1.0.2"
   },
   "scripts": {
-    "prepare": "node ./convertJsonToMd.js && node ./generateIndexFiles.js",
+    "prepare": "node ./generatePastPaperMdFiles.js && node ./generateIndexFiles.js",
     "dev": "vitepress dev",
     "build": "npm run prepare && vitepress build",
     "preview": "vitepress preview"
