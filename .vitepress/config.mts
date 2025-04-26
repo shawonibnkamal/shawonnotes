@@ -3,6 +3,26 @@ import fs from 'fs';
 import path from 'path';
 import { SidebarItem } from './types.mts';
 import getDisplayFileName from './getDisplayFileName';
+import matter from 'gray-matter';
+
+function extractTitleFromFile(filePath: string): string {
+  const content = fs.readFileSync(filePath, 'utf-8');
+  const { data, content: markdownContent } = matter(content);
+
+  // Use the title from frontmatter if available
+  if (data.title) {
+    return data.title;
+  }
+
+  // Fallback to the first `#` heading in the Markdown content
+  const match = markdownContent.match(/^#\s+(.*)/m);
+  if (match) {
+    return match[1];
+  }
+
+  // Fallback to the filename if no title or heading is found
+  return getDisplayFileName(path.basename(filePath));
+}
 
 function generateSidebarForFolder(
   folderName: string,
@@ -11,7 +31,10 @@ function generateSidebarForFolder(
 ) {
   const folderPath = path.resolve(__dirname, `../${folderName}${basePath}`);
   const files = fs.readdirSync(folderPath).sort((a, b) => {
-    return a.localeCompare(b);
+    return a.localeCompare(b, undefined, {
+      numeric: true,
+      sensitivity: 'base',
+    });
   });
 
   for (const file of files) {
@@ -37,7 +60,7 @@ function generateSidebarForFolder(
     } else if (stat.isFile() && file.endsWith('.md')) {
       if (file === 'index.md') continue;
       flatPages.push({
-        text: getDisplayFileName(file),
+        text: extractTitleFromFile(fullPath),
         link: `/${folderName}${basePath}${`/${file.replace('.md', '')}`}`,
       });
     }

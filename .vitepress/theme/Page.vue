@@ -80,10 +80,12 @@ const pageLinks = computed(() => {
           </div>
 
           <div class="navigation-buttons">
-            <div v-if="pageLinks.nextPage" class="prev-page">
-              <a :href="pageLinks.prevPage.link" class="prev-page-link">
-                Previous: {{ pageLinks.prevPage.text }}
-              </a>
+            <div>
+              <div v-if="pageLinks.prevPage" class="prev-page">
+                <a :href="pageLinks.prevPage.link" class="prev-page-link">
+                  Previous: {{ pageLinks.prevPage.text }}
+                </a>
+              </div>
             </div>
             <div v-if="pageLinks.nextPage" class="next-page">
               <a :href="pageLinks.nextPage.link" class="next-page-link">
@@ -135,6 +137,7 @@ body {
   border-radius: 5px;
   text-decoration: none;
   background-color: #f9f9f9;
+  font-size: 14px;
   transition:
     background-color 0.2s,
     box-shadow 0.2s;

@@ -25,6 +25,8 @@
   --vp-c-danger-2: var(--vp-c-red-2);
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
+
+  --vp-code-font-size: 14px;
 }
 
 /**
@@ -346,4 +348,29 @@ a:hover {
     text-align: left;
     margin-top: 30px;
   }
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  min-width: 320px;
+  min-height: 100vh;
+  line-height: 24px;
+  font-family: var(--vp-font-family-base);
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--vp-c-text-1);
+  background-color: var(--vp-c-bg);
+  font-synthesis: style;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.table > tbody > tr > td,
+.table > tbody > tr > th,
+.table > tfoot > tr > td,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > thead > tr > th {
+  line-height: 28px;
 }

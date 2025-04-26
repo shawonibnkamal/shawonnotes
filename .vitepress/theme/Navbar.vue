@@ -73,11 +73,6 @@
                   >Coding Interview
                 </a>
               </li>
-              <li>
-                <a href="/computer-science/system-design-interview/"
-                  >System Design Interview
-                </a>
-              </li>
             </ul>
           </li>
 
