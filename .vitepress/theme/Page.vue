@@ -125,9 +125,9 @@ const pageLinks = computed(() => {
               categoryId="DIC_kwDOLp4iJs4CedlL"
               mapping="pathname"
               strict="1"
-              reactionsEnabled="1"
+              reactionsEnabled="0"
               emitMetadata="0"
-              inputPosition="top"
+              inputPosition="bottom"
               theme="light"
               lang="en"
             />
