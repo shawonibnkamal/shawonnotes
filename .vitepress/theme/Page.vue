@@ -3,6 +3,7 @@ import { onMounted, onUpdated, computed } from 'vue';
 import { useData } from 'vitepress';
 import Navbar from './Navbar.vue';
 import BreadCrumb from './BreadCrumb.vue';
+import Giscus from '@giscus/vue';
 
 const { page, theme } = useData();
 
@@ -114,6 +115,23 @@ const pageLinks = computed(() => {
               </a>
             </div>
           </div>
+
+          <div class="comments-section">
+            <Giscus
+              id="comments"
+              repo="shawonibnkamal/shawonnotes"
+              repoId="R_kgDOLp4iJg"
+              category="General"
+              categoryId="DIC_kwDOLp4iJs4CedlL"
+              mapping="pathname"
+              strict="1"
+              reactionsEnabled="1"
+              emitMetadata="0"
+              inputPosition="top"
+              theme="light"
+              lang="en"
+            />
+          </div>
         </div>
       </div>
     </section>
@@ -185,5 +203,17 @@ body {
 
 .navigation-buttons .next-page {
   text-align: right;
+}
+
+.comments-section {
+  margin-top: 40px;
+  padding-top: 30px;
+  border-top: 1px solid #eaeaea;
+}
+
+.comments-section h3 {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #333;
 }
 </style>
