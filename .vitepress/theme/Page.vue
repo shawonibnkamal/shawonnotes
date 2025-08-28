@@ -1,11 +1,24 @@
 <script setup>
-import { onMounted, onUpdated, computed } from 'vue';
-import { useData } from 'vitepress';
+import { onMounted, onUpdated, computed, watch, ref } from 'vue';
+import { useData, useRoute } from 'vitepress';
 import Navbar from './Navbar.vue';
 import BreadCrumb from './BreadCrumb.vue';
 import Giscus from '@giscus/vue';
 
 const { page, theme } = useData();
+const route = useRoute();
+
+// Force Giscus re-render when route changes
+const giscusKey = ref(0);
+
+watch(
+  () => route.path,
+  () => {
+    // Increment key to force re-render
+    giscusKey.value++;
+  },
+  { immediate: true },
+);
 
 function renderMathJax() {
   try {
@@ -118,6 +131,7 @@ const pageLinks = computed(() => {
 
           <div class="comments-section">
             <Giscus
+              :key="giscusKey"
               id="comments"
               repo="shawonibnkamal/shawonnotes"
               repoId="R_kgDOLp4iJg"
