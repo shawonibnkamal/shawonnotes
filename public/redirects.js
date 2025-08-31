@@ -2,9 +2,6 @@
 (function () {
   'use strict';
 
-  // Get the current path
-  const currentPath = window.location.pathname;
-
   // URL mappings from old WordPress to new VitePress
   const redirects = {
     // Homepage and main sections
@@ -21,16 +18,16 @@
 
     // IGCSE Revision Notes
     '/index.php/igcse-edexcel-revision-notes/chemistry/': '/igcse/revision-notes/chemistry/',
-    '/index.php/igcse-edexcel-revision-notes/biology/': '/igcse/revision-notes/biology/',
+    '/index.php/igcse-edexcel-revision-notes/biology/': '/igcse/revision-notes/biology',
     '/index.php/igcse-edexcel-revision-notes/physics/': '/igcse/revision-notes/physics/',
-    '/index.php/igcse-edexcel-revision-notes/mathematics-b/': '/igcse/revision-notes/math-b/',
-    '/index.php/igcse-edexcel-revision-notes/further-pure-mathematics/': '/igcse/revision-notes/pure-math/',
-    '/index.php/igcse-edexcel-revision-notes/ict/': '/igcse/revision-notes/ict/',
+    '/index.php/igcse-edexcel-revision-notes/mathematics-b/': '/igcse/revision-notes/math-b',
+    '/index.php/igcse-edexcel-revision-notes/further-pure-mathematics/': '/igcse/revision-notes/pure-math',
+    '/index.php/igcse-edexcel-revision-notes/ict/': '/igcse/revision-notes/ict',
 
     // IAL Revision Notes
-    '/index.php/edexcel-ial-revision-notes/edexcel-ial-chemistry-revision-notes/': '/ial/revision-notes/chemistry/',
-    '/index.php/edexcel-ial-revision-notes/edexcel-ial-math-revision-notes/': '/ial/revision-notes/math/',
-    '/index.php/edexcel-ial-revision-notes/edexcel-ial-physics-revision-notes/': '/ial/revision-notes/physics/',
+    '/index.php/edexcel-ial-revision-notes/edexcel-ial-chemistry-revision-notes/': '/ial/revision-notes/chemistry',
+    '/index.php/edexcel-ial-revision-notes/edexcel-ial-math-revision-notes/': '/ial/revision-notes/math',
+    '/index.php/edexcel-ial-revision-notes/edexcel-ial-physics-revision-notes/': '/ial/revision-notes/physics',
 
     // IGCSE Past Papers - Accounting
     '/index.php/edexcel-past-papers/accounting/': '/igcse/past-papers/accounting/',
@@ -109,15 +106,153 @@
     '/index.php/edexcel-ial-past-papers/edexcel-as-ial-physics-past-papers/': '/ial/past-papers/physics/',
   };
 
+  // Get the current path
+  const currentPath = window.location.pathname;
+
   // Check if current path needs to be redirected
   if (redirects[currentPath]) {
     const newUrl = redirects[currentPath];
     console.log('Redirecting from', currentPath, 'to', newUrl);
 
-    // Update browser history to show the new URL
-    window.history.replaceState(null, '', newUrl);
+    // Create loading overlay immediately
+    createLoadingOverlay();
 
-    // Redirect to the new URL
-    window.location.href = newUrl;
+    // Prevent any further page loading by clearing the document
+    document.open();
+    document.write(`
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <title>Redirecting...</title>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+        </head>
+        <body>
+          <div id="redirect-loading-overlay" style="
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+          ">
+            <div style="
+              width: 40px;
+              height: 40px;
+              border: 3px solid #f3f3f3;
+              border-top: 3px solid #007bff;
+              border-radius: 50%;
+              animation: spin 1s linear infinite;
+              margin-bottom: 16px;
+            "></div>
+            <p style="
+              margin: 0;
+              color: #333;
+              font-size: 16px;
+              font-weight: 500;
+            ">Redirecting to the new page...</p>
+          </div>
+          <style>
+            @keyframes spin {
+              0% { transform: rotate(0deg); }
+              100% { transform: rotate(360deg); }
+            }
+          </style>
+          <script>
+            // Redirect immediately
+            window.location.replace('${newUrl}');
+          </script>
+        </body>
+      </html>
+    `);
+    document.close();
   }
+
+  // Create a loading overlay to show while redirecting (fallback)
+  function createLoadingOverlay() {
+    // Check if overlay already exists
+    if (document.getElementById('redirect-loading-overlay')) {
+      return;
+    }
+
+    const overlay = document.createElement('div');
+    overlay.id = 'redirect-loading-overlay';
+    overlay.style.cssText = `
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(255, 255, 255, 0.95);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    `;
+
+    const spinner = document.createElement('div');
+    spinner.style.cssText = `
+      width: 40px;
+      height: 40px;
+      border: 3px solid #f3f3f3;
+      border-top: 3px solid #007bff;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin-bottom: 16px;
+    `;
+
+    const text = document.createElement('p');
+    text.textContent = 'Redirecting to the new page...';
+    text.style.cssText = `
+      margin: 0;
+      color: #333;
+      font-size: 16px;
+      font-weight: 500;
+    `;
+
+    // Add CSS animation
+    const style = document.createElement('style');
+    style.textContent = `
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+    `;
+
+    overlay.appendChild(spinner);
+    overlay.appendChild(text);
+    document.head.appendChild(style);
+    document.body.appendChild(overlay);
+
+    // Remove overlay after a reasonable time or when page loads
+    setTimeout(() => {
+      if (overlay.parentNode) {
+        overlay.parentNode.removeChild(overlay);
+      }
+    }, 3000);
+  }
+
+  // Clean up overlay when page is fully loaded
+  window.addEventListener('load', () => {
+    const overlay = document.getElementById('redirect-loading-overlay');
+    if (overlay && overlay.parentNode) {
+      overlay.parentNode.removeChild(overlay);
+    }
+  });
+
+  // Also clean up on DOMContentLoaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const overlay = document.getElementById('redirect-loading-overlay');
+    if (overlay && overlay.parentNode) {
+      overlay.parentNode.removeChild(overlay);
+    }
+  });
 })();
