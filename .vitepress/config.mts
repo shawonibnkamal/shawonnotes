@@ -118,5 +118,11 @@ export default defineConfig({
         defer: '',
       },
     ],
+    [
+      'script',
+      {
+        src: '/redirects.js',
+      },
+    ],
   ],
 });
