@@ -115,16 +115,20 @@ const pageLinks = computed(() => {
           </div>
 
           <div class="navigation-buttons">
-            <div>
-              <div v-if="pageLinks.prevPage" class="prev-page">
-                <a :href="pageLinks.prevPage.link" class="prev-page-link">
-                  Previous: {{ pageLinks.prevPage.text }}
-                </a>
-              </div>
+            <div v-if="pageLinks.prevPage" class="prev-page">
+              <a :href="pageLinks.prevPage.link" class="nav-button prev-button">
+                <svg class="nav-icon" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z" />
+                </svg>
+                <span class="nav-text">{{ pageLinks.prevPage.text }}</span>
+              </a>
             </div>
             <div v-if="pageLinks.nextPage" class="next-page">
-              <a :href="pageLinks.nextPage.link" class="next-page-link">
-                Next: {{ pageLinks.nextPage.text }}
+              <a :href="pageLinks.nextPage.link" class="nav-button next-button">
+                <span class="nav-text">{{ pageLinks.nextPage.text }}</span>
+                <svg class="nav-icon" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M8.59 16.59L10 18l6-6-6-6-1.41 1.41L13.17 12z" />
+                </svg>
               </a>
             </div>
           </div>
@@ -176,47 +180,6 @@ const pageLinks = computed(() => {
 body {
   background-image: url(img/sitepages-bg.jpg);
   background-repeat: repeat-x;
-}
-
-.navigation-buttons {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 30px;
-}
-
-.prev-page-link,
-.next-page-link {
-  display: inline-block;
-  padding: 10px 15px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  text-decoration: none;
-  background-color: #f9f9f9;
-  font-size: 14px;
-  transition:
-    background-color 0.2s,
-    box-shadow 0.2s;
-}
-
-.prev-page-link:hover,
-.next-page-link:hover {
-  background-color: #eaeaea;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  text-decoration: none;
-}
-
-.prev-page-link:focus,
-.next-page-link:focus {
-  outline: 2px solid #ccc;
-}
-
-.navigation-buttons .prev-page {
-  text-align: left;
-}
-
-.navigation-buttons .next-page {
-  text-align: right;
 }
 
 .comments-section {

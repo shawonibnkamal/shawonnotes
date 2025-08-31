@@ -6,7 +6,7 @@
   },
   "scripts": {
     "prepare": "node ./generatePastPaperMdFiles.js && node ./generateIndexFiles.js",
-    "dev": "vitepress dev",
+    "dev": "npm run prepare && vitepress dev",
     "build": "npm run prepare && vitepress build",
     "preview": "vitepress preview"
   },
